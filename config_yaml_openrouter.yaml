@@ -1,0 +1,81 @@
+
+
+generation:
+  target_samples: 300
+  batch_size: 25
+  temperature: 1.0
+  seed_word_count: 10
+  domain: "developer-tools"
+
+models:
+  - provider: "openrouter"
+    model: "mistralai/devstral-2512:free"  
+    temperature: 1.0
+    weight: 1.0
+    api_key_env: "OPENROUTER_API_KEY"
+
+
+
+llm_judge:
+  enabled: false  
+  primary_model: "gpt-4"
+  secondary_model: "gpt-4"
+  temperature: 0.5
+  enable_multi_judge: true
+  parallel_execution: true
+  max_workers: 10
+  evaluation_criteria:
+    - authenticity
+    - alignment
+    - expertise
+    - uniqueness
+    
+personas:
+  - name: "enterprise_admin"
+    characteristics: "Large company IT administrator managing team tools"
+    experience: "expert"
+    focus: ["security", "integration", "scalability", "team collaboration"]
+    weight: 1
+    
+rating_distribution:
+  1_star: 0.05
+  2_star: 0.10
+  3_star: 0.20
+  4_star: 0.35
+  5_star: 0.30
+  
+review_characteristics:
+  min_length: 50
+  max_length: 1000
+  include_pros_cons: 0.7
+  include_technical_details: 0.5
+  emotional_tones: ["enthusiastic", "balanced", "critical", "neutral"]
+  writing_styles: ["technical", "casual", "professional", "storytelling"]
+  
+quality_thresholds:
+  
+  min_length: 40                  
+  max_length: 600                 
+  min_unique_words: 12            
+  max_self_bleu: 0.7              
+  min_sentiment_alignment: 0.10   
+  min_diversity_score: 0.3        
+  min_realism_score: 0.4          
+  
+  
+  min_llm_judge_score: 0.3        
+  min_authenticity_score: 0.5     
+  min_alignment_score: 0.3        
+  min_expertise_score: 0.2        
+  min_uniqueness_score: 0.15      
+  
+  
+  max_regeneration_attempts: 3    
+  skip_llm_judge: true
+
+logging:
+  level: "INFO"
+  log_generation: true
+  log_quality_checks: true
+  log_llm_judge: true
+  output_dir: "logs"

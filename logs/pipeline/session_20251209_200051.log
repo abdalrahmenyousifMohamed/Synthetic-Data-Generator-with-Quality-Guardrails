@@ -1,0 +1,72 @@
+2025-12-09 20:03:32,980 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-09 20:03:32,996 - SyntheticReviewGen - INFO - Starting dataset generation: 4 samples
+2025-12-09 20:03:32,998 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:03:39,741 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:03:39,742 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:03:57,835 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:04:15,881 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:04:15,884 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:04:59,150 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:05:18,376 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:05:18,377 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:05:36,448 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:05:53,323 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:05:53,324 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:06:06,734 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.33, threshold: 0.35)
+2025-12-09 20:06:06,735 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:06:22,541 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.29, threshold: 0.35)
+2025-12-09 20:06:22,542 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:06:38,913 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:06:53,574 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.29, threshold: 0.35)
+2025-12-09 20:06:53,574 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:07:30,869 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.30, threshold: 0.35)
+2025-12-09 20:07:30,870 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:07:36,420 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:07:57,268 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.30, threshold: 0.35)
+2025-12-09 20:07:57,270 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:08:07,440 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:08:25,924 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.30, threshold: 0.35)
+2025-12-09 20:08:25,926 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:08:37,406 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:08:57,997 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.30, threshold: 0.35)
+2025-12-09 20:08:57,999 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:09:12,338 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:09:33,425 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.30, threshold: 0.35)
+2025-12-09 20:09:33,427 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:09:43,101 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.34, threshold: 0.35)
+2025-12-09 20:09:43,101 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:10:08,820 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.32, threshold: 0.35)
+2025-12-09 20:10:08,821 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:10:41,297 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:11:02,513 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.32, threshold: 0.35)
+2025-12-09 20:11:02,515 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:11:22,457 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:11:22,457 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:11:47,035 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:12:04,668 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:12:04,672 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:12:11,711 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:12:29,351 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:12:29,352 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:12:44,487 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:13:05,595 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:13:05,596 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:13:10,789 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:13:31,446 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.28, threshold: 0.35)
+2025-12-09 20:13:31,447 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:13:36,158 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.23, threshold: 0.35)
+2025-12-09 20:13:36,159 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:13:58,509 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:14:14,462 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.23, threshold: 0.35)
+2025-12-09 20:14:14,464 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:14:28,905 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:14:48,609 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.23, threshold: 0.35)
+2025-12-09 20:14:48,610 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:14:52,685 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:15:17,280 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.23, threshold: 0.35)
+2025-12-09 20:15:17,281 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 20:15:27,610 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 20:15:44,841 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.23, threshold: 0.35)
+2025-12-09 20:15:44,843 - SyntheticReviewGen - ERROR - Workflow error for rev_0001: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-09 20:15:44,845 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)

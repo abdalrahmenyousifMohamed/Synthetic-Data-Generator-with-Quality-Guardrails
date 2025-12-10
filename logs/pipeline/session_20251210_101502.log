@@ -1,0 +1,5 @@
+2025-12-10 10:16:48,984 - SyntheticReviewGen - INFO - Loading sentiment model...
+2025-12-10 10:16:51,213 - SyntheticReviewGen - INFO - ✓ 5-star sentiment model loaded
+2025-12-10 10:16:51,263 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-10 10:16:51,282 - SyntheticReviewGen - INFO - Starting dataset generation: 1 samples
+2025-12-10 10:16:51,290 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)

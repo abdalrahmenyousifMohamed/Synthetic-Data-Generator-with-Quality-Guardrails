@@ -1,0 +1,66 @@
+2025-12-10 09:18:26,233 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-10 09:18:26,249 - SyntheticReviewGen - INFO - Starting dataset generation: 3 samples
+2025-12-10 09:18:26,250 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:18:29,812 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:18:43,921 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:18:43,922 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:18:59,472 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:19:08,500 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:19:08,501 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:19:21,339 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:19:30,101 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:19:30,103 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:19:30,284 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:19:41,063 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:19:41,065 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:19:56,608 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.09, threshold: 0.15)
+2025-12-10 09:19:56,609 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:20:09,095 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:20:18,438 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:20:18,441 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:20:41,320 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:20:49,939 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:20:49,940 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:21:03,898 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:21:12,824 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:21:12,825 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:21:26,075 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:21:34,488 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:21:34,490 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:21:42,660 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:21:51,466 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:21:51,466 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:22:14,434 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:22:26,231 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:22:26,232 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:22:40,643 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:22:51,731 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:22:51,732 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:23:01,639 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:23:12,010 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:23:12,012 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:23:12,186 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:23:24,392 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:23:24,392 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:23:33,488 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:23:44,691 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:23:44,692 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:23:44,854 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:23:56,033 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:23:56,034 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:23:56,200 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:24:03,922 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:24:03,925 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:24:11,066 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:24:20,088 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:24:20,089 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:24:36,451 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:24:46,110 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:24:46,111 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:24:55,615 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:25:03,616 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:25:03,618 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:25:13,332 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:25:20,822 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Failed LLM Judge: No detailed feedback available., LLM Judge score too low: 0.00 (min: 0.3)
+2025-12-10 09:25:20,823 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:25:28,730 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001

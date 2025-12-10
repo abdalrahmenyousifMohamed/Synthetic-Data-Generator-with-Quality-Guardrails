@@ -1,0 +1,45 @@
+2025-12-09 13:13:44,118 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-09 13:13:44,119 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 13:14:01,809 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 13:14:21,589 - SyntheticReviewGen - INFO - Review rev_0001 accepted!
+2025-12-09 13:14:21,590 - SyntheticReviewGen - INFO - Progress: 1/300 reviews generated
+2025-12-09 13:14:21,592 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 13:14:27,743 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0002
+2025-12-09 13:14:44,392 - SyntheticReviewGen - INFO - Review rev_0002 accepted!
+2025-12-09 13:14:44,393 - SyntheticReviewGen - INFO - Progress: 2/300 reviews generated
+2025-12-09 13:14:44,394 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-09 13:15:10,036 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0003
+2025-12-09 13:15:28,020 - SyntheticReviewGen - INFO - Review rev_0003 accepted!
+2025-12-09 13:15:28,021 - SyntheticReviewGen - INFO - Progress: 3/300 reviews generated
+2025-12-09 13:15:28,022 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 13:15:33,713 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0004
+2025-12-09 13:15:50,476 - SyntheticReviewGen - INFO - Review rev_0004 accepted!
+2025-12-09 13:15:50,477 - SyntheticReviewGen - INFO - Progress: 4/300 reviews generated
+2025-12-09 13:15:50,478 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)
+2025-12-09 13:16:18,765 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0005
+2025-12-09 13:16:41,541 - SyntheticReviewGen - INFO - Review rev_0005 accepted!
+2025-12-09 13:16:41,542 - SyntheticReviewGen - INFO - Progress: 5/300 reviews generated
+2025-12-09 13:16:41,544 - SyntheticReviewGen - INFO - Generating review rev_0006 (attempt 1)
+2025-12-09 13:16:46,094 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0006
+2025-12-09 13:17:07,035 - SyntheticReviewGen - INFO - Review rev_0006 accepted!
+2025-12-09 13:17:07,036 - SyntheticReviewGen - INFO - Progress: 6/300 reviews generated
+2025-12-09 13:17:07,037 - SyntheticReviewGen - INFO - Generating review rev_0007 (attempt 1)
+2025-12-09 13:17:25,059 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0007
+2025-12-09 13:17:41,440 - SyntheticReviewGen - INFO - Review rev_0007 accepted!
+2025-12-09 13:17:41,441 - SyntheticReviewGen - INFO - Progress: 7/300 reviews generated
+2025-12-09 13:17:41,442 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 13:17:47,742 - SyntheticReviewGen - WARNING - Review rev_0008 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.05), Unrealistic patterns detected
+2025-12-09 13:17:47,744 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 13:18:01,458 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0008
+2025-12-09 13:18:18,818 - SyntheticReviewGen - WARNING - Review rev_0008 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.05), Unrealistic patterns detected
+2025-12-09 13:18:18,820 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 13:18:24,371 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0008
+2025-12-09 13:18:45,954 - SyntheticReviewGen - WARNING - Review rev_0008 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.05), Unrealistic patterns detected
+2025-12-09 13:18:45,955 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 13:18:50,696 - SyntheticReviewGen - WARNING - Review rev_0008 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.05), Unrealistic patterns detected, Sentiment-rating mismatch (alignment: 0.00), Unrealistic patterns detected
+2025-12-09 13:18:50,697 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 13:18:57,135 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0008
+2025-12-09 13:19:19,028 - SyntheticReviewGen - WARNING - Review rev_0008 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.05), Unrealistic patterns detected, Sentiment-rating mismatch (alignment: 0.00), Unrealistic patterns detected
+2025-12-09 13:19:19,029 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 13:19:25,906 - SyntheticReviewGen - WARNING - Review rev_0008 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.05), Unrealistic patterns detected, Sentiment-rating mismatch (alignment: 0.00), Unrealistic patterns detected, Sentiment-rating mismatch (alignment: 0.02), Unrealistic patterns detected
+2025-12-09 13:19:25,907 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)

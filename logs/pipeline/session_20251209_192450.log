@@ -1,0 +1,23 @@
+2025-12-09 19:24:54,759 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-09 19:24:54,771 - SyntheticReviewGen - INFO - Starting dataset generation: 5 samples
+2025-12-09 19:24:54,772 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 19:25:31,068 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 19:25:52,137 - SyntheticReviewGen - INFO - Review rev_0001 accepted after 1 attempts!
+2025-12-09 19:25:52,138 - SyntheticReviewGen - INFO - Progress: 1/5 reviews generated
+2025-12-09 19:25:52,139 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 19:26:07,196 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0002
+2025-12-09 19:26:25,548 - SyntheticReviewGen - INFO - Review rev_0002 accepted after 1 attempts!
+2025-12-09 19:26:25,549 - SyntheticReviewGen - INFO - Progress: 2/5 reviews generated
+2025-12-09 19:26:25,550 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-09 19:26:41,017 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0003
+2025-12-09 19:26:57,656 - SyntheticReviewGen - INFO - Review rev_0003 accepted after 1 attempts!
+2025-12-09 19:26:57,658 - SyntheticReviewGen - INFO - Progress: 3/5 reviews generated
+2025-12-09 19:26:57,658 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 19:27:10,765 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0004
+2025-12-09 19:27:28,885 - SyntheticReviewGen - INFO - Review rev_0004 accepted after 1 attempts!
+2025-12-09 19:27:28,886 - SyntheticReviewGen - INFO - Progress: 4/5 reviews generated
+2025-12-09 19:27:28,887 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)
+2025-12-09 19:27:40,439 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0005
+2025-12-09 19:27:56,399 - SyntheticReviewGen - INFO - Review rev_0005 accepted after 1 attempts!
+2025-12-09 19:27:56,400 - SyntheticReviewGen - INFO - Progress: 5/5 reviews generated
+2025-12-09 19:27:56,400 - SyntheticReviewGen - INFO - Dataset generation complete: 5 reviews accepted out of 5 attempts

@@ -1,0 +1,41 @@
+# Core dependencies
+langgraph
+dspy-ai
+pydantic
+pyyaml
+python-dotenv
+
+# LLM Providers
+openai
+google-generativeai
+
+# Local Model Support
+torch
+transformers
+accelerate
+bitsandbytes  # For quantization (optional)
+
+# NLP and Quality Metrics
+sentence-transformers
+nltk
+scikit-learn
+numpy
+scipy
+
+# Faker for diversity
+faker
+
+# API and CLI
+fastapi
+uvicorn
+click
+rich
+tqdm
+
+# Data handling
+pandas
+jsonlines
+
+# Testing
+pytest
+pytest-asyncio

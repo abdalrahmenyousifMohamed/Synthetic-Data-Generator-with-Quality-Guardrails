@@ -1,0 +1,288 @@
+2025-12-10 12:36:10,311 - SyntheticReviewGen - INFO - Loading sentiment model...
+2025-12-10 12:36:11,284 - SyntheticReviewGen - INFO - ✓ 5-star sentiment model loaded
+2025-12-10 12:36:11,287 - SyntheticReviewGen - INFO - Building workflow WITHOUT LLM Judge (statistical checks only)
+2025-12-10 12:36:11,305 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-10 12:36:11,307 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 12:36:12,849 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 12:36:12,951 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.60, alignment=0.60, threshold=0.05, mismatch=False
+2025-12-10 12:36:12,952 - SyntheticReviewGen - INFO - ✅ Review rev_0001 accepted after 1 attempt(s)!
+2025-12-10 12:36:12,952 - SyntheticReviewGen - INFO - Progress: 1/300 reviews generated
+2025-12-10 12:36:12,953 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-10 12:36:13,976 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 12:36:14,042 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.74, alignment=0.74, threshold=0.05, mismatch=False
+2025-12-10 12:36:14,044 - SyntheticReviewGen - INFO - ✅ Review rev_0002 accepted after 1 attempt(s)!
+2025-12-10 12:36:14,045 - SyntheticReviewGen - INFO - Progress: 2/300 reviews generated
+2025-12-10 12:36:14,045 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-10 12:36:15,456 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:36:15,515 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.62, alignment=0.62, threshold=0.10, mismatch=False
+2025-12-10 12:36:15,519 - SyntheticReviewGen - INFO - ✅ Review rev_0003 accepted after 1 attempt(s)!
+2025-12-10 12:36:15,520 - SyntheticReviewGen - INFO - Progress: 3/300 reviews generated
+2025-12-10 12:36:15,520 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-10 12:36:16,790 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 12:36:16,892 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=1, diff=1, confidence=0.57, alignment=0.48, threshold=0.05, mismatch=False
+2025-12-10 12:36:16,897 - SyntheticReviewGen - INFO - ✅ Review rev_0004 accepted after 1 attempt(s)!
+2025-12-10 12:36:16,898 - SyntheticReviewGen - INFO - Progress: 4/300 reviews generated
+2025-12-10 12:36:16,898 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)
+2025-12-10 12:36:18,166 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:18,234 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.54, alignment=0.54, threshold=0.15, mismatch=False
+2025-12-10 12:36:18,243 - SyntheticReviewGen - INFO - ✅ Review rev_0005 accepted after 1 attempt(s)!
+2025-12-10 12:36:18,243 - SyntheticReviewGen - INFO - Progress: 5/300 reviews generated
+2025-12-10 12:36:18,243 - SyntheticReviewGen - INFO - Generating review rev_0006 (attempt 1)
+2025-12-10 12:36:19,685 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:36:19,755 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.57, alignment=0.57, threshold=0.10, mismatch=False
+2025-12-10 12:36:19,767 - SyntheticReviewGen - INFO - ✅ Review rev_0006 accepted after 1 attempt(s)!
+2025-12-10 12:36:19,768 - SyntheticReviewGen - INFO - Progress: 6/300 reviews generated
+2025-12-10 12:36:19,768 - SyntheticReviewGen - INFO - Generating review rev_0007 (attempt 1)
+2025-12-10 12:36:20,879 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:20,949 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.58, alignment=0.58, threshold=0.15, mismatch=False
+2025-12-10 12:36:20,966 - SyntheticReviewGen - INFO - ✅ Review rev_0007 accepted after 1 attempt(s)!
+2025-12-10 12:36:20,966 - SyntheticReviewGen - INFO - Progress: 7/300 reviews generated
+2025-12-10 12:36:20,967 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-10 12:36:22,297 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:22,359 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.67, alignment=0.67, threshold=0.15, mismatch=False
+2025-12-10 12:36:22,379 - SyntheticReviewGen - INFO - ✅ Review rev_0008 accepted after 1 attempt(s)!
+2025-12-10 12:36:22,380 - SyntheticReviewGen - INFO - Progress: 8/300 reviews generated
+2025-12-10 12:36:22,380 - SyntheticReviewGen - INFO - Generating review rev_0009 (attempt 1)
+2025-12-10 12:36:23,356 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:23,428 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.62, alignment=0.62, threshold=0.15, mismatch=False
+2025-12-10 12:36:23,454 - SyntheticReviewGen - INFO - ✅ Review rev_0009 accepted after 1 attempt(s)!
+2025-12-10 12:36:23,454 - SyntheticReviewGen - INFO - Progress: 9/300 reviews generated
+2025-12-10 12:36:23,455 - SyntheticReviewGen - INFO - Generating review rev_0010 (attempt 1)
+2025-12-10 12:36:24,267 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:36:24,349 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.83, alignment=0.83, threshold=0.10, mismatch=False
+2025-12-10 12:36:24,378 - SyntheticReviewGen - INFO - ✅ Review rev_0010 accepted after 1 attempt(s)!
+2025-12-10 12:36:24,378 - SyntheticReviewGen - INFO - Progress: 10/300 reviews generated
+2025-12-10 12:36:24,379 - SyntheticReviewGen - INFO - Generating review rev_0011 (attempt 1)
+2025-12-10 12:36:25,961 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:26,038 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.71, alignment=0.71, threshold=0.15, mismatch=False
+2025-12-10 12:36:26,073 - SyntheticReviewGen - INFO - ✅ Review rev_0011 accepted after 1 attempt(s)!
+2025-12-10 12:36:26,074 - SyntheticReviewGen - INFO - Progress: 11/300 reviews generated
+2025-12-10 12:36:26,075 - SyntheticReviewGen - INFO - Generating review rev_0012 (attempt 1)
+2025-12-10 12:36:27,525 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:36:27,595 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.63, alignment=0.53, threshold=0.10, mismatch=False
+2025-12-10 12:36:27,639 - SyntheticReviewGen - INFO - ✅ Review rev_0012 accepted after 1 attempt(s)!
+2025-12-10 12:36:27,639 - SyntheticReviewGen - INFO - Progress: 12/300 reviews generated
+2025-12-10 12:36:27,640 - SyntheticReviewGen - INFO - Generating review rev_0013 (attempt 1)
+2025-12-10 12:36:28,809 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:36:28,869 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.47, alignment=0.47, threshold=0.05, mismatch=False
+2025-12-10 12:36:28,920 - SyntheticReviewGen - INFO - ✅ Review rev_0013 accepted after 1 attempt(s)!
+2025-12-10 12:36:28,920 - SyntheticReviewGen - INFO - Progress: 13/300 reviews generated
+2025-12-10 12:36:28,920 - SyntheticReviewGen - INFO - Generating review rev_0014 (attempt 1)
+2025-12-10 12:36:32,602 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 12:36:32,722 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.71, alignment=0.71, threshold=0.05, mismatch=False
+2025-12-10 12:36:32,781 - SyntheticReviewGen - INFO - ✅ Review rev_0014 accepted after 1 attempt(s)!
+2025-12-10 12:36:32,781 - SyntheticReviewGen - INFO - Progress: 14/300 reviews generated
+2025-12-10 12:36:32,782 - SyntheticReviewGen - INFO - Generating review rev_0015 (attempt 1)
+2025-12-10 12:36:36,519 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:36:36,580 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.61, alignment=0.52, threshold=0.05, mismatch=False
+2025-12-10 12:36:36,651 - SyntheticReviewGen - INFO - ✅ Review rev_0015 accepted after 1 attempt(s)!
+2025-12-10 12:36:36,651 - SyntheticReviewGen - INFO - Progress: 15/300 reviews generated
+2025-12-10 12:36:36,652 - SyntheticReviewGen - INFO - Generating review rev_0016 (attempt 1)
+2025-12-10 12:36:40,485 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:36:40,551 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.63, alignment=0.63, threshold=0.10, mismatch=False
+2025-12-10 12:36:40,635 - SyntheticReviewGen - INFO - ✅ Review rev_0016 accepted after 1 attempt(s)!
+2025-12-10 12:36:40,636 - SyntheticReviewGen - INFO - Progress: 16/300 reviews generated
+2025-12-10 12:36:40,636 - SyntheticReviewGen - INFO - Generating review rev_0017 (attempt 1)
+2025-12-10 12:36:43,770 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:36:43,844 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.51, alignment=0.43, threshold=0.10, mismatch=False
+2025-12-10 12:36:43,935 - SyntheticReviewGen - INFO - ✅ Review rev_0017 accepted after 1 attempt(s)!
+2025-12-10 12:36:43,935 - SyntheticReviewGen - INFO - Progress: 17/300 reviews generated
+2025-12-10 12:36:43,936 - SyntheticReviewGen - INFO - Generating review rev_0018 (attempt 1)
+2025-12-10 12:36:47,396 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:47,457 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.79, alignment=0.79, threshold=0.15, mismatch=False
+2025-12-10 12:36:47,560 - SyntheticReviewGen - INFO - ✅ Review rev_0018 accepted after 1 attempt(s)!
+2025-12-10 12:36:47,560 - SyntheticReviewGen - INFO - Progress: 18/300 reviews generated
+2025-12-10 12:36:47,561 - SyntheticReviewGen - INFO - Generating review rev_0019 (attempt 1)
+2025-12-10 12:36:50,940 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:36:51,001 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.55, alignment=0.55, threshold=0.05, mismatch=False
+2025-12-10 12:36:51,117 - SyntheticReviewGen - INFO - ✅ Review rev_0019 accepted after 1 attempt(s)!
+2025-12-10 12:36:51,118 - SyntheticReviewGen - INFO - Progress: 19/300 reviews generated
+2025-12-10 12:36:51,118 - SyntheticReviewGen - INFO - Generating review rev_0020 (attempt 1)
+2025-12-10 12:36:54,519 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:54,596 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.64, alignment=0.64, threshold=0.15, mismatch=False
+2025-12-10 12:36:54,723 - SyntheticReviewGen - INFO - ✅ Review rev_0020 accepted after 1 attempt(s)!
+2025-12-10 12:36:54,724 - SyntheticReviewGen - INFO - Progress: 20/300 reviews generated
+2025-12-10 12:36:54,724 - SyntheticReviewGen - INFO - Generating review rev_0021 (attempt 1)
+2025-12-10 12:36:58,202 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:36:58,284 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.54, alignment=0.54, threshold=0.15, mismatch=False
+2025-12-10 12:36:58,425 - SyntheticReviewGen - INFO - ✅ Review rev_0021 accepted after 1 attempt(s)!
+2025-12-10 12:36:58,425 - SyntheticReviewGen - INFO - Progress: 21/300 reviews generated
+2025-12-10 12:36:58,426 - SyntheticReviewGen - INFO - Generating review rev_0022 (attempt 1)
+2025-12-10 12:37:01,587 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:37:01,665 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.55, alignment=0.55, threshold=0.05, mismatch=False
+2025-12-10 12:37:01,818 - SyntheticReviewGen - INFO - ✅ Review rev_0022 accepted after 1 attempt(s)!
+2025-12-10 12:37:01,818 - SyntheticReviewGen - INFO - Progress: 22/300 reviews generated
+2025-12-10 12:37:01,818 - SyntheticReviewGen - INFO - Generating review rev_0023 (attempt 1)
+2025-12-10 12:37:05,473 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:37:05,545 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.48, alignment=0.48, threshold=0.05, mismatch=False
+2025-12-10 12:37:05,714 - SyntheticReviewGen - INFO - ✅ Review rev_0023 accepted after 1 attempt(s)!
+2025-12-10 12:37:05,715 - SyntheticReviewGen - INFO - Progress: 23/300 reviews generated
+2025-12-10 12:37:05,715 - SyntheticReviewGen - INFO - Generating review rev_0024 (attempt 1)
+2025-12-10 12:37:09,264 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:37:09,339 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.95, alignment=0.95, threshold=0.05, mismatch=False
+2025-12-10 12:37:09,529 - SyntheticReviewGen - INFO - ✅ Review rev_0024 accepted after 1 attempt(s)!
+2025-12-10 12:37:09,530 - SyntheticReviewGen - INFO - Progress: 24/300 reviews generated
+2025-12-10 12:37:09,530 - SyntheticReviewGen - INFO - Generating review rev_0025 (attempt 1)
+2025-12-10 12:37:12,775 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:37:12,850 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.72, alignment=0.72, threshold=0.15, mismatch=False
+2025-12-10 12:37:13,050 - SyntheticReviewGen - INFO - ✅ Review rev_0025 accepted after 1 attempt(s)!
+2025-12-10 12:37:13,050 - SyntheticReviewGen - INFO - Progress: 25/300 reviews generated
+2025-12-10 12:37:13,051 - SyntheticReviewGen - INFO - Generating review rev_0026 (attempt 1)
+2025-12-10 12:37:16,332 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:37:16,402 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.76, alignment=0.76, threshold=0.10, mismatch=False
+2025-12-10 12:37:16,625 - SyntheticReviewGen - INFO - ✅ Review rev_0026 accepted after 1 attempt(s)!
+2025-12-10 12:37:16,625 - SyntheticReviewGen - INFO - Progress: 26/300 reviews generated
+2025-12-10 12:37:16,626 - SyntheticReviewGen - INFO - Generating review rev_0027 (attempt 1)
+2025-12-10 12:37:19,677 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:37:19,756 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.51, alignment=0.43, threshold=0.10, mismatch=False
+2025-12-10 12:37:19,992 - SyntheticReviewGen - INFO - ✅ Review rev_0027 accepted after 1 attempt(s)!
+2025-12-10 12:37:19,992 - SyntheticReviewGen - INFO - Progress: 27/300 reviews generated
+2025-12-10 12:37:19,992 - SyntheticReviewGen - INFO - Generating review rev_0028 (attempt 1)
+2025-12-10 12:37:22,985 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:37:23,060 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.98, alignment=0.98, threshold=0.05, mismatch=False
+2025-12-10 12:37:23,303 - SyntheticReviewGen - INFO - ✅ Review rev_0028 accepted after 1 attempt(s)!
+2025-12-10 12:37:23,304 - SyntheticReviewGen - INFO - Progress: 28/300 reviews generated
+2025-12-10 12:37:23,304 - SyntheticReviewGen - INFO - Generating review rev_0029 (attempt 1)
+2025-12-10 12:37:26,875 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:37:26,957 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.57, alignment=0.57, threshold=0.15, mismatch=False
+2025-12-10 12:37:27,220 - SyntheticReviewGen - INFO - ✅ Review rev_0029 accepted after 1 attempt(s)!
+2025-12-10 12:37:27,221 - SyntheticReviewGen - INFO - Progress: 29/300 reviews generated
+2025-12-10 12:37:27,221 - SyntheticReviewGen - INFO - Generating review rev_0030 (attempt 1)
+2025-12-10 12:37:30,358 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:37:30,434 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.72, alignment=0.72, threshold=0.15, mismatch=False
+2025-12-10 12:37:30,714 - SyntheticReviewGen - INFO - ✅ Review rev_0030 accepted after 1 attempt(s)!
+2025-12-10 12:37:30,714 - SyntheticReviewGen - INFO - Progress: 30/300 reviews generated
+2025-12-10 12:37:30,715 - SyntheticReviewGen - INFO - Generating review rev_0031 (attempt 1)
+2025-12-10 12:37:33,736 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:37:33,818 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.52, alignment=0.52, threshold=0.05, mismatch=False
+2025-12-10 12:37:34,116 - SyntheticReviewGen - INFO - ✅ Review rev_0031 accepted after 1 attempt(s)!
+2025-12-10 12:37:34,116 - SyntheticReviewGen - INFO - Progress: 31/300 reviews generated
+2025-12-10 12:37:34,117 - SyntheticReviewGen - INFO - Generating review rev_0032 (attempt 1)
+2025-12-10 12:37:37,319 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:37:37,381 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.59, alignment=0.50, threshold=0.15, mismatch=False
+2025-12-10 12:37:37,695 - SyntheticReviewGen - INFO - ✅ Review rev_0032 accepted after 1 attempt(s)!
+2025-12-10 12:37:37,695 - SyntheticReviewGen - INFO - Progress: 32/300 reviews generated
+2025-12-10 12:37:37,696 - SyntheticReviewGen - INFO - Generating review rev_0033 (attempt 1)
+2025-12-10 12:37:41,425 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:37:41,562 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.68, alignment=0.57, threshold=0.10, mismatch=False
+2025-12-10 12:37:41,902 - SyntheticReviewGen - INFO - ✅ Review rev_0033 accepted after 1 attempt(s)!
+2025-12-10 12:37:41,902 - SyntheticReviewGen - INFO - Progress: 33/300 reviews generated
+2025-12-10 12:37:41,902 - SyntheticReviewGen - INFO - Generating review rev_0034 (attempt 1)
+2025-12-10 12:37:45,173 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:37:45,235 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.59, alignment=0.50, threshold=0.10, mismatch=False
+2025-12-10 12:37:45,606 - SyntheticReviewGen - INFO - ✅ Review rev_0034 accepted after 1 attempt(s)!
+2025-12-10 12:37:45,606 - SyntheticReviewGen - INFO - Progress: 34/300 reviews generated
+2025-12-10 12:37:45,607 - SyntheticReviewGen - INFO - Generating review rev_0035 (attempt 1)
+2025-12-10 12:37:49,068 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:37:49,130 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.53, alignment=0.53, threshold=0.05, mismatch=False
+2025-12-10 12:37:49,513 - SyntheticReviewGen - INFO - ✅ Review rev_0035 accepted after 1 attempt(s)!
+2025-12-10 12:37:49,513 - SyntheticReviewGen - INFO - Progress: 35/300 reviews generated
+2025-12-10 12:37:49,514 - SyntheticReviewGen - INFO - Generating review rev_0036 (attempt 1)
+2025-12-10 12:37:52,849 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:37:52,921 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.52, alignment=0.44, threshold=0.15, mismatch=False
+2025-12-10 12:37:53,317 - SyntheticReviewGen - INFO - ✅ Review rev_0036 accepted after 1 attempt(s)!
+2025-12-10 12:37:53,317 - SyntheticReviewGen - INFO - Progress: 36/300 reviews generated
+2025-12-10 12:37:53,318 - SyntheticReviewGen - INFO - Generating review rev_0037 (attempt 1)
+2025-12-10 12:37:56,449 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:37:56,516 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.61, alignment=0.61, threshold=0.15, mismatch=False
+2025-12-10 12:37:56,931 - SyntheticReviewGen - INFO - ✅ Review rev_0037 accepted after 1 attempt(s)!
+2025-12-10 12:37:56,931 - SyntheticReviewGen - INFO - Progress: 37/300 reviews generated
+2025-12-10 12:37:56,932 - SyntheticReviewGen - INFO - Generating review rev_0038 (attempt 1)
+2025-12-10 12:38:00,048 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:38:00,106 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.75, alignment=0.75, threshold=0.10, mismatch=False
+2025-12-10 12:38:00,545 - SyntheticReviewGen - INFO - ✅ Review rev_0038 accepted after 1 attempt(s)!
+2025-12-10 12:38:00,545 - SyntheticReviewGen - INFO - Progress: 38/300 reviews generated
+2025-12-10 12:38:00,546 - SyntheticReviewGen - INFO - Generating review rev_0039 (attempt 1)
+2025-12-10 12:38:04,557 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:04,634 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.54, alignment=0.45, threshold=0.05, mismatch=False
+2025-12-10 12:38:05,103 - SyntheticReviewGen - INFO - ✅ Review rev_0039 accepted after 1 attempt(s)!
+2025-12-10 12:38:05,103 - SyntheticReviewGen - INFO - Progress: 39/300 reviews generated
+2025-12-10 12:38:05,104 - SyntheticReviewGen - INFO - Generating review rev_0040 (attempt 1)
+2025-12-10 12:38:08,704 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:08,783 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.52, alignment=0.44, threshold=0.05, mismatch=False
+2025-12-10 12:38:09,280 - SyntheticReviewGen - INFO - ✅ Review rev_0040 accepted after 1 attempt(s)!
+2025-12-10 12:38:09,280 - SyntheticReviewGen - INFO - Progress: 40/300 reviews generated
+2025-12-10 12:38:09,280 - SyntheticReviewGen - INFO - Generating review rev_0041 (attempt 1)
+2025-12-10 12:38:13,018 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:13,098 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.40, alignment=0.40, threshold=0.05, mismatch=False
+2025-12-10 12:38:13,629 - SyntheticReviewGen - INFO - ✅ Review rev_0041 accepted after 1 attempt(s)!
+2025-12-10 12:38:13,629 - SyntheticReviewGen - INFO - Progress: 41/300 reviews generated
+2025-12-10 12:38:13,630 - SyntheticReviewGen - INFO - Generating review rev_0042 (attempt 1)
+2025-12-10 12:38:16,560 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:38:16,627 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.54, alignment=0.54, threshold=0.15, mismatch=False
+2025-12-10 12:38:17,195 - SyntheticReviewGen - INFO - ✅ Review rev_0042 accepted after 1 attempt(s)!
+2025-12-10 12:38:17,195 - SyntheticReviewGen - INFO - Progress: 42/300 reviews generated
+2025-12-10 12:38:17,196 - SyntheticReviewGen - INFO - Generating review rev_0043 (attempt 1)
+2025-12-10 12:38:20,737 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:38:20,820 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.55, alignment=0.55, threshold=0.10, mismatch=False
+2025-12-10 12:38:21,409 - SyntheticReviewGen - INFO - ✅ Review rev_0043 accepted after 1 attempt(s)!
+2025-12-10 12:38:21,409 - SyntheticReviewGen - INFO - Progress: 43/300 reviews generated
+2025-12-10 12:38:21,410 - SyntheticReviewGen - INFO - Generating review rev_0044 (attempt 1)
+2025-12-10 12:38:25,034 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:38:25,093 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.61, alignment=0.61, threshold=0.15, mismatch=False
+2025-12-10 12:38:25,701 - SyntheticReviewGen - INFO - ✅ Review rev_0044 accepted after 1 attempt(s)!
+2025-12-10 12:38:25,701 - SyntheticReviewGen - INFO - Progress: 44/300 reviews generated
+2025-12-10 12:38:25,702 - SyntheticReviewGen - INFO - Generating review rev_0045 (attempt 1)
+2025-12-10 12:38:29,360 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:29,438 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.38, alignment=0.38, threshold=0.05, mismatch=False
+2025-12-10 12:38:30,078 - SyntheticReviewGen - INFO - ✅ Review rev_0045 accepted after 1 attempt(s)!
+2025-12-10 12:38:30,078 - SyntheticReviewGen - INFO - Progress: 45/300 reviews generated
+2025-12-10 12:38:30,079 - SyntheticReviewGen - INFO - Generating review rev_0046 (attempt 1)
+2025-12-10 12:38:33,237 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 12:38:33,316 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.52, alignment=0.52, threshold=0.15, mismatch=False
+2025-12-10 12:38:33,980 - SyntheticReviewGen - INFO - ✅ Review rev_0046 accepted after 1 attempt(s)!
+2025-12-10 12:38:33,980 - SyntheticReviewGen - INFO - Progress: 46/300 reviews generated
+2025-12-10 12:38:33,981 - SyntheticReviewGen - INFO - Generating review rev_0047 (attempt 1)
+2025-12-10 12:38:37,431 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:37,511 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.62, alignment=0.62, threshold=0.05, mismatch=False
+2025-12-10 12:38:38,205 - SyntheticReviewGen - INFO - ✅ Review rev_0047 accepted after 1 attempt(s)!
+2025-12-10 12:38:38,205 - SyntheticReviewGen - INFO - Progress: 47/300 reviews generated
+2025-12-10 12:38:38,206 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:38:47,992 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:48,075 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 12:38:48,794 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 12:38:48,795 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:38:56,465 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:38:56,538 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 12:38:57,245 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 12:38:57,246 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:39:00,905 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:39:00,981 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 12:39:01,691 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 12:39:01,692 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:04,448 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:04,531 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:05,253 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 12:40:05,254 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:08,917 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:08,982 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:09,727 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:09,727 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:13,529 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:13,609 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:14,336 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:14,336 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:17,996 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:18,093 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:18,911 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99985, Requested 401. Please try again in 5m33.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:18,912 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:22,577 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:22,647 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:23,374 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99985, Requested 401. Please try again in 5m33.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99980, Requested 408. Please try again in 5m35.232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:23,375 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:27,043 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:27,111 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:27,845 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99985, Requested 401. Please try again in 5m33.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99980, Requested 408. Please try again in 5m35.232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99974, Requested 410. Please try again in 5m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:27,846 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:31,503 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:31,574 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:32,293 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99985, Requested 401. Please try again in 5m33.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99980, Requested 408. Please try again in 5m35.232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99974, Requested 410. Please try again in 5m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99969, Requested 403. Please try again in 5m21.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:32,294 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:35,968 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:36,044 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:36,767 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99985, Requested 401. Please try again in 5m33.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99980, Requested 408. Please try again in 5m35.232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99974, Requested 410. Please try again in 5m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99969, Requested 403. Please try again in 5m21.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99964, Requested 404. Please try again in 5m17.952s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:36,767 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 12:40:40,449 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 12:40:40,526 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 12:40:41,261 - SyntheticReviewGen - WARNING - Review rev_0048 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12), Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 403. Please try again in 5m43.872s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 416. Please try again in 5m50.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99985, Requested 401. Please try again in 5m33.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99980, Requested 408. Please try again in 5m35.232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99974, Requested 410. Please try again in 5m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99969, Requested 403. Please try again in 5m21.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99964, Requested 404. Please try again in 5m17.952s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing, Generation failed: Rate limit exceeded after 3 retries: Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01j0x09v7ff15r2bjpyzswcfeh` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99959, Requested 408. Please try again in 5m17.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+2025-12-10 12:40:41,262 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)

@@ -1,0 +1,1309 @@
+2025-12-10 11:08:02,550 - SyntheticReviewGen - INFO - Loading sentiment model...
+2025-12-10 11:08:03,499 - SyntheticReviewGen - INFO - ✓ 5-star sentiment model loaded
+2025-12-10 11:08:03,540 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-10 11:08:03,557 - SyntheticReviewGen - INFO - Starting dataset generation: 100 samples
+2025-12-10 11:08:03,558 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 11:08:08,247 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:08:09,059 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.67, alignment=0.67, threshold=0.15, mismatch=False
+2025-12-10 11:08:09,061 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 11:08:34,151 - SyntheticReviewGen - INFO - ✅ Review rev_0001 accepted after 1 attempt(s)!
+2025-12-10 11:08:34,153 - SyntheticReviewGen - INFO - Progress: 1/100 reviews generated
+2025-12-10 11:08:34,155 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-10 11:08:38,251 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:08:38,331 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.52, alignment=0.44, threshold=0.10, mismatch=False
+2025-12-10 11:08:38,334 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0002
+2025-12-10 11:09:04,566 - SyntheticReviewGen - INFO - ✅ Review rev_0002 accepted after 1 attempt(s)!
+2025-12-10 11:09:04,569 - SyntheticReviewGen - INFO - Progress: 2/100 reviews generated
+2025-12-10 11:09:04,570 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-10 11:09:13,090 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:09:13,168 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.40, alignment=0.40, threshold=0.05, mismatch=False
+2025-12-10 11:09:13,172 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0003
+2025-12-10 11:09:35,388 - SyntheticReviewGen - INFO - ✅ Review rev_0003 accepted after 1 attempt(s)!
+2025-12-10 11:09:35,388 - SyntheticReviewGen - INFO - Progress: 3/100 reviews generated
+2025-12-10 11:09:35,390 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-10 11:09:44,993 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:09:45,070 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.47, alignment=0.47, threshold=0.15, mismatch=False
+2025-12-10 11:09:45,078 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0004
+2025-12-10 11:10:12,044 - SyntheticReviewGen - INFO - ✅ Review rev_0004 accepted after 1 attempt(s)!
+2025-12-10 11:10:12,044 - SyntheticReviewGen - INFO - Progress: 4/100 reviews generated
+2025-12-10 11:10:12,045 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)
+2025-12-10 11:10:19,622 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:10:19,702 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.56, alignment=0.56, threshold=0.05, mismatch=False
+2025-12-10 11:10:19,714 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0005
+2025-12-10 11:10:43,480 - SyntheticReviewGen - INFO - ✅ Review rev_0005 accepted after 1 attempt(s)!
+2025-12-10 11:10:43,480 - SyntheticReviewGen - INFO - Progress: 5/100 reviews generated
+2025-12-10 11:10:43,481 - SyntheticReviewGen - INFO - Generating review rev_0006 (attempt 1)
+2025-12-10 11:10:48,504 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:10:48,562 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.68, alignment=0.68, threshold=0.15, mismatch=False
+2025-12-10 11:10:48,578 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0006
+2025-12-10 11:11:13,675 - SyntheticReviewGen - INFO - ✅ Review rev_0006 accepted after 1 attempt(s)!
+2025-12-10 11:11:13,676 - SyntheticReviewGen - INFO - Progress: 6/100 reviews generated
+2025-12-10 11:11:13,677 - SyntheticReviewGen - INFO - Generating review rev_0007 (attempt 1)
+2025-12-10 11:11:20,837 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:11:20,919 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.58, alignment=0.49, threshold=0.05, mismatch=False
+2025-12-10 11:11:20,942 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0007
+2025-12-10 11:11:43,759 - SyntheticReviewGen - INFO - ✅ Review rev_0007 accepted after 1 attempt(s)!
+2025-12-10 11:11:43,760 - SyntheticReviewGen - INFO - Progress: 7/100 reviews generated
+2025-12-10 11:11:43,761 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-10 11:11:48,149 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:11:48,221 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.65, alignment=0.55, threshold=0.10, mismatch=False
+2025-12-10 11:11:48,248 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0008
+2025-12-10 11:12:17,793 - SyntheticReviewGen - INFO - ✅ Review rev_0008 accepted after 1 attempt(s)!
+2025-12-10 11:12:17,794 - SyntheticReviewGen - INFO - Progress: 8/100 reviews generated
+2025-12-10 11:12:17,795 - SyntheticReviewGen - INFO - Generating review rev_0009 (attempt 1)
+2025-12-10 11:12:21,887 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:12:21,965 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.68, alignment=0.68, threshold=0.10, mismatch=False
+2025-12-10 11:12:21,999 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0009
+2025-12-10 11:12:43,736 - SyntheticReviewGen - INFO - ✅ Review rev_0009 accepted after 1 attempt(s)!
+2025-12-10 11:12:43,736 - SyntheticReviewGen - INFO - Progress: 9/100 reviews generated
+2025-12-10 11:12:43,737 - SyntheticReviewGen - INFO - Generating review rev_0010 (attempt 1)
+2025-12-10 11:14:41,281 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:14:41,367 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.55, alignment=0.55, threshold=0.15, mismatch=False
+2025-12-10 11:14:41,404 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0010
+2025-12-10 11:15:05,626 - SyntheticReviewGen - INFO - ✅ Review rev_0010 accepted after 1 attempt(s)!
+2025-12-10 11:15:05,627 - SyntheticReviewGen - INFO - Progress: 10/100 reviews generated
+2025-12-10 11:15:05,628 - SyntheticReviewGen - INFO - Generating review rev_0011 (attempt 1)
+2025-12-10 11:15:14,252 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:15:14,332 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.54, alignment=0.46, threshold=0.05, mismatch=False
+2025-12-10 11:15:14,380 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0011
+2025-12-10 11:15:43,832 - SyntheticReviewGen - INFO - ✅ Review rev_0011 accepted after 1 attempt(s)!
+2025-12-10 11:15:43,832 - SyntheticReviewGen - INFO - Progress: 11/100 reviews generated
+2025-12-10 11:15:43,833 - SyntheticReviewGen - INFO - Generating review rev_0012 (attempt 1)
+2025-12-10 11:15:48,633 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:15:48,705 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.48, alignment=0.48, threshold=0.10, mismatch=False
+2025-12-10 11:15:48,761 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0012
+2025-12-10 11:16:12,385 - SyntheticReviewGen - INFO - ✅ Review rev_0012 accepted after 1 attempt(s)!
+2025-12-10 11:16:12,386 - SyntheticReviewGen - INFO - Progress: 12/100 reviews generated
+2025-12-10 11:16:12,387 - SyntheticReviewGen - INFO - Generating review rev_0013 (attempt 1)
+2025-12-10 11:16:49,658 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:16:49,736 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.44, alignment=0.44, threshold=0.05, mismatch=False
+2025-12-10 11:16:49,806 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0013
+2025-12-10 11:17:24,377 - SyntheticReviewGen - INFO - ✅ Review rev_0013 accepted after 1 attempt(s)!
+2025-12-10 11:17:24,378 - SyntheticReviewGen - INFO - Progress: 13/100 reviews generated
+2025-12-10 11:17:24,379 - SyntheticReviewGen - INFO - Generating review rev_0014 (attempt 1)
+2025-12-10 11:17:32,259 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:17:32,343 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.40, alignment=0.34, threshold=0.15, mismatch=False
+2025-12-10 11:17:32,421 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0014
+2025-12-10 11:18:03,052 - SyntheticReviewGen - INFO - ✅ Review rev_0014 accepted after 1 attempt(s)!
+2025-12-10 11:18:03,053 - SyntheticReviewGen - INFO - Progress: 14/100 reviews generated
+2025-12-10 11:18:03,054 - SyntheticReviewGen - INFO - Generating review rev_0015 (attempt 1)
+2025-12-10 11:18:10,147 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:18:10,229 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.59, alignment=0.59, threshold=0.15, mismatch=False
+2025-12-10 11:18:10,322 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0015
+2025-12-10 11:28:31,921 - SyntheticReviewGen - INFO - ✅ Review rev_0015 accepted after 1 attempt(s)!
+2025-12-10 11:28:31,922 - SyntheticReviewGen - INFO - Progress: 15/100 reviews generated
+2025-12-10 11:28:31,923 - SyntheticReviewGen - INFO - Generating review rev_0016 (attempt 1)
+2025-12-10 11:28:36,942 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:28:37,026 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.66, alignment=0.66, threshold=0.10, mismatch=False
+2025-12-10 11:28:37,128 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0016
+2025-12-10 11:29:05,302 - SyntheticReviewGen - INFO - ✅ Review rev_0016 accepted after 1 attempt(s)!
+2025-12-10 11:29:05,303 - SyntheticReviewGen - INFO - Progress: 16/100 reviews generated
+2025-12-10 11:29:05,304 - SyntheticReviewGen - INFO - Generating review rev_0017 (attempt 1)
+2025-12-10 11:29:10,700 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:29:10,782 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.57, alignment=0.49, threshold=0.10, mismatch=False
+2025-12-10 11:29:10,896 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0017
+2025-12-10 11:29:35,612 - SyntheticReviewGen - INFO - ✅ Review rev_0017 accepted after 1 attempt(s)!
+2025-12-10 11:29:35,613 - SyntheticReviewGen - INFO - Progress: 17/100 reviews generated
+2025-12-10 11:29:35,615 - SyntheticReviewGen - INFO - Generating review rev_0018 (attempt 1)
+2025-12-10 11:29:41,572 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:29:41,638 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.62, alignment=0.62, threshold=0.15, mismatch=False
+2025-12-10 11:29:41,767 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0018
+2025-12-10 11:30:09,916 - SyntheticReviewGen - INFO - ✅ Review rev_0018 accepted after 1 attempt(s)!
+2025-12-10 11:30:09,916 - SyntheticReviewGen - INFO - Progress: 18/100 reviews generated
+2025-12-10 11:30:09,917 - SyntheticReviewGen - INFO - Generating review rev_0019 (attempt 1)
+2025-12-10 11:30:14,930 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:30:15,013 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.78, alignment=0.67, threshold=0.10, mismatch=False
+2025-12-10 11:30:15,153 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0019
+2025-12-10 11:30:43,605 - SyntheticReviewGen - INFO - ✅ Review rev_0019 accepted after 1 attempt(s)!
+2025-12-10 11:30:43,605 - SyntheticReviewGen - INFO - Progress: 19/100 reviews generated
+2025-12-10 11:30:43,607 - SyntheticReviewGen - INFO - Generating review rev_0020 (attempt 1)
+2025-12-10 11:30:56,247 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:30:56,330 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.70, alignment=0.59, threshold=0.05, mismatch=False
+2025-12-10 11:30:56,490 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0020
+2025-12-10 11:31:20,775 - SyntheticReviewGen - INFO - ✅ Review rev_0020 accepted after 1 attempt(s)!
+2025-12-10 11:31:20,776 - SyntheticReviewGen - INFO - Progress: 20/100 reviews generated
+2025-12-10 11:31:20,777 - SyntheticReviewGen - INFO - Generating review rev_0021 (attempt 1)
+2025-12-10 11:31:24,727 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:31:24,812 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.63, alignment=0.63, threshold=0.10, mismatch=False
+2025-12-10 11:31:24,985 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0021
+2025-12-10 11:31:53,443 - SyntheticReviewGen - INFO - ✅ Review rev_0021 accepted after 1 attempt(s)!
+2025-12-10 11:31:53,444 - SyntheticReviewGen - INFO - Progress: 21/100 reviews generated
+2025-12-10 11:31:53,445 - SyntheticReviewGen - INFO - Generating review rev_0022 (attempt 1)
+2025-12-10 11:31:59,171 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:31:59,253 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.54, alignment=0.46, threshold=0.05, mismatch=False
+2025-12-10 11:31:59,441 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0022
+2025-12-10 11:32:32,764 - SyntheticReviewGen - INFO - ✅ Review rev_0022 accepted after 1 attempt(s)!
+2025-12-10 11:32:32,765 - SyntheticReviewGen - INFO - Progress: 22/100 reviews generated
+2025-12-10 11:32:32,766 - SyntheticReviewGen - INFO - Generating review rev_0023 (attempt 1)
+2025-12-10 11:32:38,774 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:32:38,836 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.36, alignment=0.31, threshold=0.15, mismatch=False
+2025-12-10 11:32:39,045 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0023
+2025-12-10 11:33:05,739 - SyntheticReviewGen - INFO - ✅ Review rev_0023 accepted after 1 attempt(s)!
+2025-12-10 11:33:05,741 - SyntheticReviewGen - INFO - Progress: 23/100 reviews generated
+2025-12-10 11:33:05,742 - SyntheticReviewGen - INFO - Generating review rev_0024 (attempt 1)
+2025-12-10 11:33:10,666 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:33:10,745 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.41, alignment=0.41, threshold=0.05, mismatch=False
+2025-12-10 11:33:10,968 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0024
+2025-12-10 11:33:35,741 - SyntheticReviewGen - INFO - ✅ Review rev_0024 accepted after 1 attempt(s)!
+2025-12-10 11:33:35,742 - SyntheticReviewGen - INFO - Progress: 24/100 reviews generated
+2025-12-10 11:33:35,743 - SyntheticReviewGen - INFO - Generating review rev_0025 (attempt 1)
+2025-12-10 11:33:43,733 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:33:43,811 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.63, alignment=0.63, threshold=0.05, mismatch=False
+2025-12-10 11:33:44,058 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0025
+2025-12-10 11:34:13,222 - SyntheticReviewGen - INFO - ✅ Review rev_0025 accepted after 1 attempt(s)!
+2025-12-10 11:34:13,223 - SyntheticReviewGen - INFO - Progress: 25/100 reviews generated
+2025-12-10 11:34:13,225 - SyntheticReviewGen - INFO - Generating review rev_0026 (attempt 1)
+2025-12-10 11:34:19,212 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:34:19,291 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.56, alignment=0.56, threshold=0.05, mismatch=False
+2025-12-10 11:34:19,557 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0026
+2025-12-10 11:34:54,288 - SyntheticReviewGen - INFO - ✅ Review rev_0026 accepted after 1 attempt(s)!
+2025-12-10 11:34:54,289 - SyntheticReviewGen - INFO - Progress: 26/100 reviews generated
+2025-12-10 11:34:54,290 - SyntheticReviewGen - INFO - Generating review rev_0027 (attempt 1)
+2025-12-10 11:35:01,553 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:35:01,625 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.55, alignment=0.55, threshold=0.15, mismatch=False
+2025-12-10 11:35:01,913 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0027
+2025-12-10 11:35:26,172 - SyntheticReviewGen - INFO - ✅ Review rev_0027 accepted after 1 attempt(s)!
+2025-12-10 11:35:26,172 - SyntheticReviewGen - INFO - Progress: 27/100 reviews generated
+2025-12-10 11:35:26,173 - SyntheticReviewGen - INFO - Generating review rev_0028 (attempt 1)
+2025-12-10 11:35:34,625 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:35:34,688 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.52, alignment=0.52, threshold=0.05, mismatch=False
+2025-12-10 11:35:35,005 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0028
+2025-12-10 11:36:02,637 - SyntheticReviewGen - INFO - ✅ Review rev_0028 accepted after 1 attempt(s)!
+2025-12-10 11:36:02,638 - SyntheticReviewGen - INFO - Progress: 28/100 reviews generated
+2025-12-10 11:36:02,639 - SyntheticReviewGen - INFO - Generating review rev_0029 (attempt 1)
+2025-12-10 11:36:06,778 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:36:06,854 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.77, alignment=0.77, threshold=0.15, mismatch=False
+2025-12-10 11:36:07,186 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0029
+2025-12-10 11:36:37,093 - SyntheticReviewGen - INFO - ✅ Review rev_0029 accepted after 1 attempt(s)!
+2025-12-10 11:36:37,094 - SyntheticReviewGen - INFO - Progress: 29/100 reviews generated
+2025-12-10 11:36:37,095 - SyntheticReviewGen - INFO - Generating review rev_0030 (attempt 1)
+2025-12-10 11:36:43,849 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:36:43,926 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.64, alignment=0.64, threshold=0.15, mismatch=False
+2025-12-10 11:36:44,283 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0030
+2025-12-10 11:37:05,531 - SyntheticReviewGen - INFO - ✅ Review rev_0030 accepted after 1 attempt(s)!
+2025-12-10 11:37:05,532 - SyntheticReviewGen - INFO - Progress: 30/100 reviews generated
+2025-12-10 11:37:05,532 - SyntheticReviewGen - INFO - Generating review rev_0031 (attempt 1)
+2025-12-10 11:37:10,541 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:37:10,620 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.56, alignment=0.56, threshold=0.05, mismatch=False
+2025-12-10 11:37:11,000 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0031
+2025-12-10 11:37:45,191 - SyntheticReviewGen - INFO - ✅ Review rev_0031 accepted after 1 attempt(s)!
+2025-12-10 11:37:45,192 - SyntheticReviewGen - INFO - Progress: 31/100 reviews generated
+2025-12-10 11:37:45,193 - SyntheticReviewGen - INFO - Generating review rev_0032 (attempt 1)
+2025-12-10 11:37:51,923 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:37:51,997 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.59, alignment=0.59, threshold=0.15, mismatch=False
+2025-12-10 11:37:52,405 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0032
+2025-12-10 11:38:17,550 - SyntheticReviewGen - INFO - ✅ Review rev_0032 accepted after 1 attempt(s)!
+2025-12-10 11:38:17,550 - SyntheticReviewGen - INFO - Progress: 32/100 reviews generated
+2025-12-10 11:38:17,551 - SyntheticReviewGen - INFO - Generating review rev_0033 (attempt 1)
+2025-12-10 11:38:25,534 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:38:25,619 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.70, alignment=0.70, threshold=0.15, mismatch=False
+2025-12-10 11:38:26,111 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0033
+2025-12-10 11:38:51,222 - SyntheticReviewGen - INFO - ✅ Review rev_0033 accepted after 1 attempt(s)!
+2025-12-10 11:38:51,223 - SyntheticReviewGen - INFO - Progress: 33/100 reviews generated
+2025-12-10 11:38:51,224 - SyntheticReviewGen - INFO - Generating review rev_0034 (attempt 1)
+2025-12-10 11:39:00,864 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:39:00,945 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=1, expected=2, diff=1, confidence=0.51, alignment=0.43, threshold=0.05, mismatch=False
+2025-12-10 11:39:01,407 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0034
+2025-12-10 11:39:30,354 - SyntheticReviewGen - INFO - ✅ Review rev_0034 accepted after 1 attempt(s)!
+2025-12-10 11:39:30,355 - SyntheticReviewGen - INFO - Progress: 34/100 reviews generated
+2025-12-10 11:39:30,356 - SyntheticReviewGen - INFO - Generating review rev_0035 (attempt 1)
+2025-12-10 11:39:37,112 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:39:37,179 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.45, alignment=0.38, threshold=0.05, mismatch=False
+2025-12-10 11:39:37,667 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0035
+2025-12-10 11:40:05,478 - SyntheticReviewGen - INFO - ✅ Review rev_0035 accepted after 1 attempt(s)!
+2025-12-10 11:40:05,479 - SyntheticReviewGen - INFO - Progress: 35/100 reviews generated
+2025-12-10 11:40:05,480 - SyntheticReviewGen - INFO - Generating review rev_0036 (attempt 1)
+2025-12-10 11:40:10,760 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:40:10,828 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.72, alignment=0.72, threshold=0.10, mismatch=False
+2025-12-10 11:40:11,351 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0036
+2025-12-10 11:40:39,369 - SyntheticReviewGen - INFO - ✅ Review rev_0036 accepted after 1 attempt(s)!
+2025-12-10 11:40:39,369 - SyntheticReviewGen - INFO - Progress: 36/100 reviews generated
+2025-12-10 11:40:39,370 - SyntheticReviewGen - INFO - Generating review rev_0037 (attempt 1)
+2025-12-10 11:40:45,616 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:40:45,692 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.68, alignment=0.68, threshold=0.05, mismatch=False
+2025-12-10 11:40:46,242 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0037
+2025-12-10 11:41:08,413 - SyntheticReviewGen - INFO - ✅ Review rev_0037 accepted after 1 attempt(s)!
+2025-12-10 11:41:08,413 - SyntheticReviewGen - INFO - Progress: 37/100 reviews generated
+2025-12-10 11:41:08,414 - SyntheticReviewGen - INFO - Generating review rev_0038 (attempt 1)
+2025-12-10 11:41:13,217 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:41:13,291 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.72, alignment=0.62, threshold=0.05, mismatch=False
+2025-12-10 11:41:13,868 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0038
+2025-12-10 11:41:41,326 - SyntheticReviewGen - INFO - ✅ Review rev_0038 accepted after 1 attempt(s)!
+2025-12-10 11:41:41,326 - SyntheticReviewGen - INFO - Progress: 38/100 reviews generated
+2025-12-10 11:41:41,328 - SyntheticReviewGen - INFO - Generating review rev_0039 (attempt 1)
+2025-12-10 11:41:47,118 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:41:47,200 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=1, diff=1, confidence=0.62, alignment=0.53, threshold=0.05, mismatch=False
+2025-12-10 11:41:47,804 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0039
+2025-12-10 11:42:17,676 - SyntheticReviewGen - INFO - ✅ Review rev_0039 accepted after 1 attempt(s)!
+2025-12-10 11:42:17,677 - SyntheticReviewGen - INFO - Progress: 39/100 reviews generated
+2025-12-10 11:42:17,678 - SyntheticReviewGen - INFO - Generating review rev_0040 (attempt 1)
+2025-12-10 11:42:21,518 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:42:21,594 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.78, alignment=0.78, threshold=0.15, mismatch=False
+2025-12-10 11:42:22,223 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0040
+2025-12-10 11:42:43,378 - SyntheticReviewGen - INFO - ✅ Review rev_0040 accepted after 1 attempt(s)!
+2025-12-10 11:42:43,378 - SyntheticReviewGen - INFO - Progress: 40/100 reviews generated
+2025-12-10 11:42:43,380 - SyntheticReviewGen - INFO - Generating review rev_0041 (attempt 1)
+2025-12-10 11:42:49,361 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:42:49,430 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=4, diff=1, confidence=0.73, alignment=0.62, threshold=0.10, mismatch=False
+2025-12-10 11:42:50,091 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0041
+2025-12-10 11:43:16,315 - SyntheticReviewGen - INFO - ✅ Review rev_0041 accepted after 1 attempt(s)!
+2025-12-10 11:43:16,316 - SyntheticReviewGen - INFO - Progress: 41/100 reviews generated
+2025-12-10 11:43:16,317 - SyntheticReviewGen - INFO - Generating review rev_0042 (attempt 1)
+2025-12-10 11:43:21,547 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:43:21,628 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.65, alignment=0.65, threshold=0.05, mismatch=False
+2025-12-10 11:43:22,313 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0042
+2025-12-10 11:43:44,510 - SyntheticReviewGen - INFO - ✅ Review rev_0042 accepted after 1 attempt(s)!
+2025-12-10 11:43:44,510 - SyntheticReviewGen - INFO - Progress: 42/100 reviews generated
+2025-12-10 11:43:44,511 - SyntheticReviewGen - INFO - Generating review rev_0043 (attempt 1)
+2025-12-10 11:43:49,739 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:43:49,816 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.54, alignment=0.46, threshold=0.05, mismatch=False
+2025-12-10 11:43:50,528 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0043
+2025-12-10 11:44:18,301 - SyntheticReviewGen - INFO - ✅ Review rev_0043 accepted after 1 attempt(s)!
+2025-12-10 11:44:18,301 - SyntheticReviewGen - INFO - Progress: 43/100 reviews generated
+2025-12-10 11:44:18,303 - SyntheticReviewGen - INFO - Generating review rev_0044 (attempt 1)
+2025-12-10 11:44:24,113 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:44:24,186 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.63, alignment=0.63, threshold=0.15, mismatch=False
+2025-12-10 11:44:24,943 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0044
+2025-12-10 11:44:51,381 - SyntheticReviewGen - INFO - ✅ Review rev_0044 accepted after 1 attempt(s)!
+2025-12-10 11:44:51,381 - SyntheticReviewGen - INFO - Progress: 44/100 reviews generated
+2025-12-10 11:44:51,383 - SyntheticReviewGen - INFO - Generating review rev_0045 (attempt 1)
+2025-12-10 11:44:55,680 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:44:55,749 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.70, alignment=0.70, threshold=0.15, mismatch=False
+2025-12-10 11:44:56,534 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0045
+2025-12-10 11:45:24,858 - SyntheticReviewGen - INFO - ✅ Review rev_0045 accepted after 1 attempt(s)!
+2025-12-10 11:45:24,858 - SyntheticReviewGen - INFO - Progress: 45/100 reviews generated
+2025-12-10 11:45:24,859 - SyntheticReviewGen - INFO - Generating review rev_0046 (attempt 1)
+2025-12-10 11:45:31,343 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:45:31,421 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=5, expected=5, diff=0, confidence=0.64, alignment=0.64, threshold=0.15, mismatch=False
+2025-12-10 11:45:32,243 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0046
+2025-12-10 11:45:57,526 - SyntheticReviewGen - INFO - ✅ Review rev_0046 accepted after 1 attempt(s)!
+2025-12-10 11:45:57,527 - SyntheticReviewGen - INFO - Progress: 46/100 reviews generated
+2025-12-10 11:45:57,531 - SyntheticReviewGen - INFO - Generating review rev_0047 (attempt 1)
+2025-12-10 11:46:01,651 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:46:01,718 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=3, expected=3, diff=0, confidence=0.42, alignment=0.42, threshold=0.05, mismatch=False
+2025-12-10 11:46:02,570 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0047
+2025-12-10 11:46:31,091 - SyntheticReviewGen - INFO - ✅ Review rev_0047 accepted after 1 attempt(s)!
+2025-12-10 11:46:31,092 - SyntheticReviewGen - INFO - Progress: 47/100 reviews generated
+2025-12-10 11:46:31,093 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-10 11:46:36,544 - SyntheticReviewGen - INFO - Sentiment check: rating=2, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:46:36,621 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=2, diff=0, confidence=0.63, alignment=0.63, threshold=0.05, mismatch=False
+2025-12-10 11:46:37,508 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0048
+2025-12-10 11:47:12,387 - SyntheticReviewGen - INFO - ✅ Review rev_0048 accepted after 1 attempt(s)!
+2025-12-10 11:47:12,388 - SyntheticReviewGen - INFO - Progress: 48/100 reviews generated
+2025-12-10 11:47:12,389 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:12,899 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:12,960 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:13,865 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:13,866 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:14,268 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:14,343 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:15,234 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:15,234 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:15,689 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:15,767 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:16,658 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:16,659 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:17,120 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:17,193 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:18,083 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:18,084 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:18,500 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:18,578 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:19,467 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:19,468 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:19,907 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:19,984 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:20,880 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:20,880 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:21,420 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:21,495 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:22,385 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:22,386 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:23,034 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:23,111 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:24,000 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:24,001 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:24,403 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:24,478 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:25,369 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:25,369 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:25,774 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:25,854 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:26,748 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:26,749 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:27,136 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:27,211 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:28,098 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:28,099 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:28,536 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:28,609 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:29,499 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:29,499 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:29,904 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:29,974 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:30,865 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:30,865 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:31,270 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:31,340 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:32,230 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:32,230 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:32,648 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:32,724 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:33,615 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:33,615 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:34,063 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:34,138 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:35,028 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:35,028 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:35,438 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:35,512 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:36,403 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:36,403 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:36,793 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:36,869 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:37,760 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:37,761 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:38,204 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:38,279 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:39,169 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:39,170 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:39,552 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:39,621 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:40,515 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:40,515 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:40,922 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:40,996 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:41,887 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:41,887 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:42,493 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:42,568 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:43,459 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:43,459 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:43,997 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:44,070 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:44,960 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:44,961 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:45,369 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:45,441 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:46,331 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:46,331 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:46,713 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:47:46,789 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:47:47,677 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:47,678 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:47:47,678 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:48,106 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:48,177 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:49,066 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:49,066 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:49,657 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:49,736 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:50,628 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:50,629 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:51,194 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:51,268 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:52,157 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:52,158 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:52,603 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:52,677 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:53,570 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:53,571 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:53,978 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:54,052 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:54,942 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:54,942 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:55,328 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:55,403 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:56,294 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:56,295 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:56,680 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:56,755 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:57,645 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:57,645 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:58,075 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:58,144 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:47:59,032 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:47:59,033 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:47:59,492 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:47:59,570 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:00,458 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:00,459 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:00,862 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:00,936 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:01,823 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:01,823 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:02,206 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:02,283 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:03,169 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:03,170 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:03,549 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:03,610 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:04,498 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:04,498 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:04,878 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:04,954 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:05,844 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:05,844 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:06,237 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:06,310 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:07,201 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:07,202 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:07,782 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:07,858 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:08,751 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:08,751 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:09,131 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:09,204 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:10,095 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:10,095 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:10,508 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:10,582 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:11,472 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:11,473 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:11,888 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:11,959 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:12,849 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:12,850 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:13,248 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:13,325 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:14,215 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:14,216 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:14,636 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:14,708 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:15,655 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:15,655 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:16,086 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:16,160 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:17,049 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:17,050 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:17,435 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:17,511 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:18,398 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:18,398 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:18,784 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:18,846 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:19,736 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:19,736 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:20,199 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:20,265 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:21,155 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:21,155 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:21,591 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:21,670 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:22,560 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:22,561 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:48:22,561 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:22,998 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:23,070 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:23,960 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:23,961 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:24,375 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:24,454 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:25,345 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:25,346 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:25,770 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:25,846 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:26,740 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:26,740 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:27,122 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:27,199 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:28,088 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:28,089 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:28,487 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:28,564 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:29,454 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:29,454 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:29,899 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:29,967 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:30,858 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:30,859 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:31,432 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:31,502 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:32,389 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:32,390 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:32,756 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:32,811 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:33,700 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:33,701 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:34,172 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:34,248 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:35,140 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:35,141 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:35,577 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:35,651 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:36,541 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:36,541 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:36,939 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:37,010 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:37,899 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:37,900 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:38,298 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:38,375 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:39,264 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:39,265 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:39,740 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:39,815 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:40,705 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:40,706 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:41,128 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:41,204 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:42,094 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:42,095 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:42,524 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:42,601 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:43,492 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:43,492 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:43,955 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:44,033 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:44,924 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:44,925 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:45,325 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:45,403 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:46,299 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:46,300 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:46,731 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:46,806 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:47,693 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:47,694 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:48,087 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:48,151 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:49,046 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:49,047 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:49,426 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:49,502 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:50,393 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:50,394 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:50,754 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:50,828 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:51,780 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:51,781 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:52,275 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:52,341 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:53,230 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:53,231 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:53,861 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:53,935 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:54,825 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:54,826 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:55,274 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:55,342 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:56,232 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:56,233 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:56,607 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:48:56,680 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:48:57,569 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:57,570 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:48:57,570 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:58,055 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:58,132 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:48:59,022 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:48:59,023 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:48:59,464 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:48:59,538 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:00,429 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:00,429 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:00,847 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:00,920 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:01,811 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:01,815 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:02,221 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:02,279 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:03,172 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:03,173 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:03,603 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:03,678 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:04,566 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:04,567 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:05,022 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:05,095 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:05,985 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:05,986 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:06,354 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:06,425 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:07,316 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:07,317 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:07,775 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:07,851 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:08,745 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:08,746 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:09,164 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:09,240 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:10,131 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:10,132 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:10,515 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:10,592 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:11,483 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:11,483 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:11,857 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:11,934 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:12,825 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:12,826 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:13,203 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:13,279 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:14,169 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:14,169 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:14,556 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:14,634 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:15,525 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:15,526 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:15,913 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:15,988 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:16,877 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:16,878 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:17,246 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:17,322 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:18,213 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:18,214 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:18,594 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:18,674 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:19,569 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:19,570 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:20,037 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:20,114 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:21,006 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:21,006 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:21,434 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:21,506 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:22,397 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:22,397 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:22,800 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:22,876 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:23,766 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:23,767 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:24,141 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:24,213 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:25,103 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:25,104 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:25,565 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:25,641 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:26,532 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:26,533 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:26,924 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:27,006 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:27,896 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:27,896 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:28,278 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:28,352 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:29,241 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:29,241 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:29,624 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:29,704 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:30,595 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:30,595 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:31,148 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:49:31,223 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:49:32,113 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:32,114 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:49:32,115 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:32,491 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:32,559 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:33,449 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:33,450 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:33,831 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:33,906 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:34,796 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:34,797 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:35,178 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:35,242 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:36,133 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:36,133 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:36,529 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:36,607 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:37,496 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:37,497 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:37,872 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:37,947 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:38,837 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:38,838 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:39,234 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:39,314 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:40,205 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:40,206 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:40,599 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:40,675 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:41,569 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:41,569 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:41,987 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:42,061 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:42,951 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:42,952 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:43,390 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:43,468 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:44,359 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:44,359 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:44,769 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:44,850 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:45,742 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:45,742 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:46,225 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:46,298 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:47,187 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:47,188 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:47,600 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:47,672 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:48,563 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:48,564 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:48,998 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:49,073 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:49,963 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:49,964 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:50,382 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:50,457 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:51,347 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:51,348 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:51,741 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:51,818 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:52,708 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:52,709 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:53,131 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:53,207 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:54,097 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:54,097 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:54,531 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:54,605 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:55,493 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:55,493 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:55,894 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:55,969 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:56,858 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:56,859 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:57,235 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:57,308 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:58,197 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:58,198 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:58,632 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:49:58,709 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:49:59,599 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:49:59,599 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:49:59,996 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:00,071 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:00,963 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:00,963 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:01,360 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:01,433 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:02,324 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:02,325 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:02,745 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:02,824 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:03,714 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:03,715 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:04,160 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:04,233 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:05,123 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:05,124 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:05,529 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:05,607 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:06,497 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:06,497 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:50:06,498 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:06,919 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:06,990 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:07,877 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:07,877 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:08,249 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:08,327 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:09,217 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:09,217 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:09,679 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:09,756 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:10,645 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:10,646 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:11,015 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:11,097 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:11,990 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:11,991 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:12,393 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:12,468 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:13,357 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:13,358 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:13,755 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:13,833 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:14,723 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:14,724 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:15,183 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:15,258 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:16,151 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:16,151 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:16,636 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:16,706 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:17,599 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:17,600 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:18,089 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:18,164 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:19,053 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:19,054 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:19,451 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:19,526 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:20,414 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:20,415 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:20,802 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:20,863 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:21,753 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:21,754 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:22,160 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:22,234 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:23,124 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:23,124 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:23,536 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:23,609 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:24,499 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:24,500 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:24,913 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:24,991 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:25,881 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:25,882 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:26,373 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:26,451 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:27,341 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:27,342 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:27,777 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:27,849 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:28,739 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:28,739 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:29,140 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:29,216 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:30,105 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:30,105 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:30,492 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:30,568 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:31,458 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:31,459 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:31,841 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:31,918 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:32,807 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:32,808 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:33,178 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:33,255 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:34,142 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:34,143 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:34,544 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:34,618 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:35,509 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:35,510 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:35,928 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:36,000 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:36,890 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:36,892 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:37,282 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:37,358 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:38,247 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:38,248 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:38,676 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:38,754 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:39,643 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:39,644 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:40,077 - SyntheticReviewGen - INFO - Sentiment check: rating=5, attempt=1, base_threshold=0.25, adjusted=0.15
+2025-12-10 11:50:40,146 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=5, diff=1, confidence=0.28, alignment=0.24, threshold=0.15, mismatch=False
+2025-12-10 11:50:41,043 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:41,044 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:50:41,044 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:41,455 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:41,531 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:42,424 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:42,425 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:42,845 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:42,918 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:43,809 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:43,810 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:44,219 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:44,291 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:45,181 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:45,182 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:45,584 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:45,661 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:46,551 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:46,552 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:46,973 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:47,046 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:47,935 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:47,936 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:48,569 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:48,643 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:49,533 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:49,533 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:49,919 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:49,993 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:50,884 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:50,885 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:51,287 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:51,358 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:52,248 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:52,249 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:52,720 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:52,792 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:53,682 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:53,683 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:54,064 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:54,144 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:55,034 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:55,035 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:55,455 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:55,526 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:56,415 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:56,416 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:56,852 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:56,927 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:57,816 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:57,817 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:58,232 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:58,308 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:50:59,198 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:50:59,199 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:50:59,628 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:50:59,695 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:00,585 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:00,585 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:00,958 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:01,037 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:01,930 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:01,932 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:02,322 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:02,395 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:03,285 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:03,286 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:03,745 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:03,817 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:04,706 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:04,707 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:05,177 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:05,253 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:06,143 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:06,144 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:06,562 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:06,639 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:07,529 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:07,530 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:08,224 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:08,301 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:09,197 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:09,198 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:09,629 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:09,703 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:10,595 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:10,596 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:10,983 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:11,064 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:11,957 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:11,958 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:12,375 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:12,453 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:13,342 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:13,342 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:13,933 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:14,009 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:14,900 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:14,903 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:15,262 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:15,338 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:16,234 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:16,234 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:51:16,235 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:16,621 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:16,699 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:17,664 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:17,665 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:18,110 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:18,186 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:19,080 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:19,081 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:19,461 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:19,536 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:20,427 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:20,428 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:20,830 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:20,905 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:21,796 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:21,796 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:22,192 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:22,268 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:23,158 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:23,159 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:23,594 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:23,669 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:24,558 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:24,559 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:24,984 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:25,064 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:25,955 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:25,956 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:26,376 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:26,456 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:27,345 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:27,346 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:27,723 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:27,788 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:28,677 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:28,678 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:29,075 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:29,155 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:30,048 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:30,049 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:30,437 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:30,502 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:31,392 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:31,393 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:31,764 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:31,838 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:32,727 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:32,728 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:33,142 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:33,220 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:34,118 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:34,119 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:34,524 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:34,602 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:35,492 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:35,493 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:35,903 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:35,976 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:36,866 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:36,867 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:37,275 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:37,353 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:38,243 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:38,244 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:38,620 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:38,699 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:39,589 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:39,590 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:39,991 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:40,069 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:40,958 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:40,958 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:41,339 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:41,420 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:42,309 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:42,310 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:42,774 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:42,843 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:43,733 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:43,733 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:44,128 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:44,206 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:45,096 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:45,097 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:45,544 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:45,620 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:46,510 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:46,510 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:46,946 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:47,018 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:47,908 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:47,909 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:48,290 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:48,369 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:49,263 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:49,263 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:49,661 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 11:51:49,740 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=1, diff=3, confidence=0.28, alignment=0.10, threshold=0.05, mismatch=False
+2025-12-10 11:51:50,640 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:50,641 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:51:50,641 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:51,062 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:51,134 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:52,025 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:52,026 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:52,424 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:52,494 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:53,381 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:53,382 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:53,767 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:53,842 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:54,732 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:54,732 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:55,159 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:55,233 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:56,123 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:56,124 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:56,537 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:56,613 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:57,503 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:57,503 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:57,913 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:57,985 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:51:58,875 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:51:58,876 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:51:59,269 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:51:59,342 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:00,233 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:00,234 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:00,618 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:00,689 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:01,580 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:01,580 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:01,952 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:02,025 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:02,915 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:02,916 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:03,322 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:03,394 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:04,284 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:04,285 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:04,680 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:04,754 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:05,644 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:05,645 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:06,052 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:06,128 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:07,023 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:07,024 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:07,616 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:07,693 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:08,585 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:08,586 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:08,998 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:09,076 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:09,966 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:09,966 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:10,363 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:10,438 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:11,340 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:11,341 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:11,833 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:11,894 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:12,903 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:12,904 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:13,300 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:13,376 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:14,275 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:14,276 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:14,668 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:14,740 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:15,640 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:15,641 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:16,075 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:16,149 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:17,052 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:17,053 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:17,427 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:17,502 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:18,400 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:18,401 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:18,793 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:18,865 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:19,763 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:19,764 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:20,186 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:20,261 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:21,295 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:21,296 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:21,660 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:21,714 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:22,625 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:22,626 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:23,053 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:23,128 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:24,039 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:24,040 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:24,420 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 11:52:24,496 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 11:52:25,393 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:25,394 - SyntheticReviewGen - ERROR - Workflow error for rev_0049: Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT
+2025-12-10 11:52:25,395 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:25,816 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:25,881 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:26,798 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:26,799 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:27,190 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:27,262 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:28,159 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:28,160 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:28,551 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:28,630 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:29,567 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:29,568 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:30,146 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:30,218 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:31,118 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:31,119 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:31,515 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:31,591 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:32,490 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:32,491 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:32,909 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:32,973 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:33,872 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:33,872 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:34,248 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:34,316 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:35,214 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:35,215 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:35,581 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:35,642 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:36,545 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:36,546 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:36,980 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:37,051 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:37,943 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:37,944 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:38,344 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:38,413 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:39,351 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:39,352 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:39,742 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:39,812 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:40,717 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:40,718 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:41,103 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:41,182 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:42,082 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:42,083 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:42,484 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:42,562 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:43,461 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:43,461 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:43,841 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:43,913 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:44,819 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:44,819 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:45,202 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:45,275 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:46,187 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:46,188 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:46,579 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:46,658 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:47,604 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:47,605 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:47,996 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:48,072 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:48,978 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:48,979 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:49,503 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:49,578 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:50,519 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:50,520 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:50,933 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:51,001 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:51,902 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:51,902 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:52,296 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:52,372 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:53,269 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:53,270 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:53,670 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:53,743 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:54,639 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:54,640 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:55,056 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:55,119 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:56,016 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:56,017 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:56,443 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:56,515 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:57,414 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:57,415 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:57,795 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:57,919 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False
+2025-12-10 11:52:58,823 - SyntheticReviewGen - WARNING - Review rev_0049 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 11:52:58,824 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-10 11:52:59,220 - SyntheticReviewGen - INFO - Sentiment check: rating=3, attempt=1, base_threshold=0.10, adjusted=0.05
+2025-12-10 11:52:59,298 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=3, diff=1, confidence=0.28, alignment=0.24, threshold=0.05, mismatch=False

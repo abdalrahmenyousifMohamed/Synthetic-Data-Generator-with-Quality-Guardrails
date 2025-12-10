@@ -1,0 +1,5 @@
+2025-12-09 19:55:50,307 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-09 19:55:50,322 - SyntheticReviewGen - INFO - Starting dataset generation: 4 samples
+2025-12-09 19:55:50,323 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 19:56:37,144 - SyntheticReviewGen - ERROR - Workflow error for rev_0001: BiasDetector.detect_unrealistic_patterns() got an unexpected keyword argument 'attempt_number'
+2025-12-09 19:56:37,145 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)

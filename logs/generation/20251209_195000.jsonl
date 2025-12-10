@@ -1,0 +1,2 @@
+{"timestamp": "2025-12-09T19:50:24.320782", "review_id": "rev_0001", "session_id": "20251209_195000", "model": "openai:gpt-4", "rating": 5, "persona": "enterprise_admin", "time": 19.84249711036682, "cost": 0.03147, "attempt": 1, "had_feedback": false}
+{"timestamp": "2025-12-09T19:50:49.591004", "review_id": "rev_0001", "session_id": "20251209_195000", "model": "openai:gpt-4", "rating": 5, "persona": "enterprise_admin", "time": 25.266217947006226, "cost": 0.03702, "attempt": 1, "had_feedback": false}

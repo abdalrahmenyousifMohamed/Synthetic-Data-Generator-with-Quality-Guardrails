@@ -1,0 +1,6 @@
+{"timestamp": "2025-12-09T12:59:33.521997", "review_id": "rev_0026", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.30)"]}
+{"timestamp": "2025-12-09T13:00:11.344605", "review_id": "rev_0026", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.30)"]}
+{"timestamp": "2025-12-09T13:00:28.990599", "review_id": "rev_0026", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.30)", "Sentiment-rating mismatch (alignment: 0.00)", "Unrealistic patterns detected"]}
+{"timestamp": "2025-12-09T13:01:05.515068", "review_id": "rev_0026", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.30)", "Sentiment-rating mismatch (alignment: 0.00)", "Unrealistic patterns detected"]}
+{"timestamp": "2025-12-09T13:01:35.308727", "review_id": "rev_0026", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.30)", "Sentiment-rating mismatch (alignment: 0.00)", "Unrealistic patterns detected"]}
+{"timestamp": "2025-12-09T13:02:05.006890", "review_id": "rev_0026", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.30)", "Sentiment-rating mismatch (alignment: 0.00)", "Unrealistic patterns detected"]}

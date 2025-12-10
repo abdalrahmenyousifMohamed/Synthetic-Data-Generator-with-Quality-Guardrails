@@ -1,0 +1,7 @@
+{"timestamp": "2025-12-09T00:07:03.472038", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "openai:gpt-4", "rating": 2, "persona": "enterprise_admin", "time": 16.227607011795044, "cost": 0.03333}
+{"timestamp": "2025-12-09T00:07:13.499667", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "openai:gpt-4", "rating": 2, "persona": "enterprise_admin", "time": 7.851716041564941, "cost": 0.02223}
+{"timestamp": "2025-12-09T00:07:18.331642", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "google:gemini-2.0-flash-exp", "rating": 2, "persona": "enterprise_admin", "time": 4.68452787399292, "cost": 0.0}
+{"timestamp": "2025-12-09T00:07:28.192683", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "openai:gpt-4", "rating": 2, "persona": "enterprise_admin", "time": 9.54593801498413, "cost": 0.02217}
+{"timestamp": "2025-12-09T00:07:32.636268", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "google:gemini-2.0-flash-exp", "rating": 2, "persona": "enterprise_admin", "time": 4.07968807220459, "cost": 0.0}
+{"timestamp": "2025-12-09T00:07:36.355467", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "google:gemini-2.0-flash-exp", "rating": 2, "persona": "enterprise_admin", "time": 3.508543014526367, "cost": 0.0}
+{"timestamp": "2025-12-09T00:07:41.987293", "review_id": "rev_0001", "session_id": "20251209_000457", "model": "google:gemini-2.0-flash-exp", "rating": 2, "persona": "enterprise_admin", "time": 5.469671010971069, "cost": 0.0}

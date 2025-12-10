@@ -1,0 +1,903 @@
+2025-12-09 16:17:30,689 - SyntheticReviewGen - INFO - Building workflow WITHOUT LLM Judge (statistical checks only)
+2025-12-09 16:17:30,700 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-09 16:17:30,705 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 16:18:05,271 - SyntheticReviewGen - INFO - Review rev_0001 accepted after 1 attempts!
+2025-12-09 16:18:05,272 - SyntheticReviewGen - INFO - Progress: 1/300 reviews generated
+2025-12-09 16:18:05,273 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 16:18:15,042 - SyntheticReviewGen - INFO - Review rev_0002 accepted after 1 attempts!
+2025-12-09 16:18:15,042 - SyntheticReviewGen - INFO - Progress: 2/300 reviews generated
+2025-12-09 16:18:15,043 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-09 16:18:33,864 - SyntheticReviewGen - INFO - Review rev_0003 accepted after 1 attempts!
+2025-12-09 16:18:33,864 - SyntheticReviewGen - INFO - Progress: 3/300 reviews generated
+2025-12-09 16:18:33,865 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:18:49,649 - SyntheticReviewGen - INFO - Review rev_0004 accepted after 1 attempts!
+2025-12-09 16:18:49,650 - SyntheticReviewGen - INFO - Progress: 4/300 reviews generated
+2025-12-09 16:18:49,650 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)
+2025-12-09 16:19:06,708 - SyntheticReviewGen - INFO - Review rev_0005 accepted after 1 attempts!
+2025-12-09 16:19:06,708 - SyntheticReviewGen - INFO - Progress: 5/300 reviews generated
+2025-12-09 16:19:06,709 - SyntheticReviewGen - INFO - Generating review rev_0006 (attempt 1)
+2025-12-09 16:19:32,382 - SyntheticReviewGen - INFO - Review rev_0006 accepted after 1 attempts!
+2025-12-09 16:19:32,382 - SyntheticReviewGen - INFO - Progress: 6/300 reviews generated
+2025-12-09 16:19:32,383 - SyntheticReviewGen - INFO - Generating review rev_0007 (attempt 1)
+2025-12-09 16:19:52,169 - SyntheticReviewGen - INFO - Review rev_0007 accepted after 1 attempts!
+2025-12-09 16:19:52,169 - SyntheticReviewGen - INFO - Progress: 7/300 reviews generated
+2025-12-09 16:19:52,170 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 16:20:04,243 - SyntheticReviewGen - INFO - Review rev_0008 accepted after 1 attempts!
+2025-12-09 16:20:04,244 - SyntheticReviewGen - INFO - Progress: 8/300 reviews generated
+2025-12-09 16:20:04,244 - SyntheticReviewGen - INFO - Generating review rev_0009 (attempt 1)
+2025-12-09 16:20:15,218 - SyntheticReviewGen - INFO - Review rev_0009 accepted after 1 attempts!
+2025-12-09 16:20:15,218 - SyntheticReviewGen - INFO - Progress: 9/300 reviews generated
+2025-12-09 16:20:15,219 - SyntheticReviewGen - INFO - Generating review rev_0010 (attempt 1)
+2025-12-09 16:20:37,767 - SyntheticReviewGen - INFO - Review rev_0010 accepted after 1 attempts!
+2025-12-09 16:20:37,767 - SyntheticReviewGen - INFO - Progress: 10/300 reviews generated
+2025-12-09 16:20:37,768 - SyntheticReviewGen - INFO - Generating review rev_0011 (attempt 1)
+2025-12-09 16:20:52,371 - SyntheticReviewGen - INFO - Review rev_0011 accepted after 1 attempts!
+2025-12-09 16:20:52,372 - SyntheticReviewGen - INFO - Progress: 11/300 reviews generated
+2025-12-09 16:20:52,372 - SyntheticReviewGen - INFO - Generating review rev_0012 (attempt 1)
+2025-12-09 16:21:13,485 - SyntheticReviewGen - INFO - Review rev_0012 accepted after 1 attempts!
+2025-12-09 16:21:13,485 - SyntheticReviewGen - INFO - Progress: 12/300 reviews generated
+2025-12-09 16:21:13,486 - SyntheticReviewGen - INFO - Generating review rev_0013 (attempt 1)
+2025-12-09 16:21:25,734 - SyntheticReviewGen - INFO - Review rev_0013 accepted after 1 attempts!
+2025-12-09 16:21:25,735 - SyntheticReviewGen - INFO - Progress: 13/300 reviews generated
+2025-12-09 16:21:25,735 - SyntheticReviewGen - INFO - Generating review rev_0014 (attempt 1)
+2025-12-09 16:21:42,258 - SyntheticReviewGen - INFO - Review rev_0014 accepted after 1 attempts!
+2025-12-09 16:21:42,258 - SyntheticReviewGen - INFO - Progress: 14/300 reviews generated
+2025-12-09 16:21:42,259 - SyntheticReviewGen - INFO - Generating review rev_0015 (attempt 1)
+2025-12-09 16:21:58,069 - SyntheticReviewGen - INFO - Review rev_0015 accepted after 1 attempts!
+2025-12-09 16:21:58,069 - SyntheticReviewGen - INFO - Progress: 15/300 reviews generated
+2025-12-09 16:21:58,070 - SyntheticReviewGen - INFO - Generating review rev_0016 (attempt 1)
+2025-12-09 16:22:09,926 - SyntheticReviewGen - INFO - Review rev_0016 accepted after 1 attempts!
+2025-12-09 16:22:09,927 - SyntheticReviewGen - INFO - Progress: 16/300 reviews generated
+2025-12-09 16:22:09,927 - SyntheticReviewGen - INFO - Generating review rev_0017 (attempt 1)
+2025-12-09 16:22:14,801 - SyntheticReviewGen - INFO - Review rev_0017 accepted after 1 attempts!
+2025-12-09 16:22:14,801 - SyntheticReviewGen - INFO - Progress: 17/300 reviews generated
+2025-12-09 16:22:14,802 - SyntheticReviewGen - INFO - Generating review rev_0018 (attempt 1)
+2025-12-09 16:22:31,670 - SyntheticReviewGen - INFO - Review rev_0018 accepted after 1 attempts!
+2025-12-09 16:22:31,670 - SyntheticReviewGen - INFO - Progress: 18/300 reviews generated
+2025-12-09 16:22:31,671 - SyntheticReviewGen - INFO - Generating review rev_0019 (attempt 1)
+2025-12-09 16:22:49,393 - SyntheticReviewGen - INFO - Review rev_0019 accepted after 1 attempts!
+2025-12-09 16:22:49,393 - SyntheticReviewGen - INFO - Progress: 19/300 reviews generated
+2025-12-09 16:22:49,394 - SyntheticReviewGen - INFO - Generating review rev_0020 (attempt 1)
+2025-12-09 16:22:59,921 - SyntheticReviewGen - INFO - Review rev_0020 accepted after 1 attempts!
+2025-12-09 16:22:59,922 - SyntheticReviewGen - INFO - Progress: 20/300 reviews generated
+2025-12-09 16:22:59,922 - SyntheticReviewGen - INFO - Generating review rev_0021 (attempt 1)
+2025-12-09 16:23:06,664 - SyntheticReviewGen - INFO - Review rev_0021 accepted after 1 attempts!
+2025-12-09 16:23:06,664 - SyntheticReviewGen - INFO - Progress: 21/300 reviews generated
+2025-12-09 16:23:06,665 - SyntheticReviewGen - INFO - Generating review rev_0022 (attempt 1)
+2025-12-09 16:23:27,071 - SyntheticReviewGen - INFO - Review rev_0022 accepted after 1 attempts!
+2025-12-09 16:23:27,071 - SyntheticReviewGen - INFO - Progress: 22/300 reviews generated
+2025-12-09 16:23:27,072 - SyntheticReviewGen - INFO - Generating review rev_0023 (attempt 1)
+2025-12-09 16:23:31,380 - SyntheticReviewGen - INFO - Review rev_0023 accepted after 1 attempts!
+2025-12-09 16:23:31,380 - SyntheticReviewGen - INFO - Progress: 23/300 reviews generated
+2025-12-09 16:23:31,381 - SyntheticReviewGen - INFO - Generating review rev_0024 (attempt 1)
+2025-12-09 16:23:46,157 - SyntheticReviewGen - INFO - Review rev_0024 accepted after 1 attempts!
+2025-12-09 16:23:46,158 - SyntheticReviewGen - INFO - Progress: 24/300 reviews generated
+2025-12-09 16:23:46,158 - SyntheticReviewGen - INFO - Generating review rev_0025 (attempt 1)
+2025-12-09 16:23:50,589 - SyntheticReviewGen - INFO - Review rev_0025 accepted after 1 attempts!
+2025-12-09 16:23:50,589 - SyntheticReviewGen - INFO - Progress: 25/300 reviews generated
+2025-12-09 16:23:50,589 - SyntheticReviewGen - INFO - Generating review rev_0026 (attempt 1)
+2025-12-09 16:24:05,920 - SyntheticReviewGen - INFO - Review rev_0026 accepted after 1 attempts!
+2025-12-09 16:24:05,920 - SyntheticReviewGen - INFO - Progress: 26/300 reviews generated
+2025-12-09 16:24:05,921 - SyntheticReviewGen - INFO - Generating review rev_0027 (attempt 1)
+2025-12-09 16:24:26,085 - SyntheticReviewGen - INFO - Review rev_0027 accepted after 1 attempts!
+2025-12-09 16:24:26,085 - SyntheticReviewGen - INFO - Progress: 27/300 reviews generated
+2025-12-09 16:24:26,086 - SyntheticReviewGen - INFO - Generating review rev_0028 (attempt 1)
+2025-12-09 16:25:00,761 - SyntheticReviewGen - INFO - Review rev_0028 accepted after 1 attempts!
+2025-12-09 16:25:00,762 - SyntheticReviewGen - INFO - Progress: 28/300 reviews generated
+2025-12-09 16:25:00,763 - SyntheticReviewGen - INFO - Generating review rev_0029 (attempt 1)
+2025-12-09 16:25:06,302 - SyntheticReviewGen - INFO - Review rev_0029 accepted after 1 attempts!
+2025-12-09 16:25:06,302 - SyntheticReviewGen - INFO - Progress: 29/300 reviews generated
+2025-12-09 16:25:06,303 - SyntheticReviewGen - INFO - Generating review rev_0030 (attempt 1)
+2025-12-09 16:25:25,947 - SyntheticReviewGen - INFO - Review rev_0030 accepted after 1 attempts!
+2025-12-09 16:25:25,947 - SyntheticReviewGen - INFO - Progress: 30/300 reviews generated
+2025-12-09 16:25:25,948 - SyntheticReviewGen - INFO - Generating review rev_0031 (attempt 1)
+2025-12-09 16:26:07,010 - SyntheticReviewGen - INFO - Review rev_0031 accepted after 1 attempts!
+2025-12-09 16:26:07,011 - SyntheticReviewGen - INFO - Progress: 31/300 reviews generated
+2025-12-09 16:26:07,011 - SyntheticReviewGen - INFO - Generating review rev_0032 (attempt 1)
+2025-12-09 16:26:11,504 - SyntheticReviewGen - INFO - Review rev_0032 accepted after 1 attempts!
+2025-12-09 16:26:11,504 - SyntheticReviewGen - INFO - Progress: 32/300 reviews generated
+2025-12-09 16:26:11,505 - SyntheticReviewGen - INFO - Generating review rev_0033 (attempt 1)
+2025-12-09 16:26:16,008 - SyntheticReviewGen - INFO - Review rev_0033 accepted after 1 attempts!
+2025-12-09 16:26:16,008 - SyntheticReviewGen - INFO - Progress: 33/300 reviews generated
+2025-12-09 16:26:16,009 - SyntheticReviewGen - INFO - Generating review rev_0034 (attempt 1)
+2025-12-09 16:26:39,873 - SyntheticReviewGen - INFO - Review rev_0034 accepted after 1 attempts!
+2025-12-09 16:26:39,874 - SyntheticReviewGen - INFO - Progress: 34/300 reviews generated
+2025-12-09 16:26:39,874 - SyntheticReviewGen - INFO - Generating review rev_0035 (attempt 1)
+2025-12-09 16:26:59,498 - SyntheticReviewGen - INFO - Review rev_0035 accepted after 1 attempts!
+2025-12-09 16:26:59,499 - SyntheticReviewGen - INFO - Progress: 35/300 reviews generated
+2025-12-09 16:26:59,499 - SyntheticReviewGen - INFO - Generating review rev_0036 (attempt 1)
+2025-12-09 16:27:06,545 - SyntheticReviewGen - INFO - Review rev_0036 accepted after 1 attempts!
+2025-12-09 16:27:06,545 - SyntheticReviewGen - INFO - Progress: 36/300 reviews generated
+2025-12-09 16:27:06,546 - SyntheticReviewGen - INFO - Generating review rev_0037 (attempt 1)
+2025-12-09 16:27:52,644 - SyntheticReviewGen - INFO - Review rev_0037 accepted after 1 attempts!
+2025-12-09 16:27:52,644 - SyntheticReviewGen - INFO - Progress: 37/300 reviews generated
+2025-12-09 16:27:52,645 - SyntheticReviewGen - INFO - Generating review rev_0038 (attempt 1)
+2025-12-09 16:27:58,276 - SyntheticReviewGen - INFO - Review rev_0038 accepted after 1 attempts!
+2025-12-09 16:27:58,277 - SyntheticReviewGen - INFO - Progress: 38/300 reviews generated
+2025-12-09 16:27:58,277 - SyntheticReviewGen - INFO - Generating review rev_0039 (attempt 1)
+2025-12-09 16:28:16,625 - SyntheticReviewGen - INFO - Review rev_0039 accepted after 1 attempts!
+2025-12-09 16:28:16,626 - SyntheticReviewGen - INFO - Progress: 39/300 reviews generated
+2025-12-09 16:28:16,626 - SyntheticReviewGen - INFO - Generating review rev_0040 (attempt 1)
+2025-12-09 16:28:41,568 - SyntheticReviewGen - INFO - Review rev_0040 accepted after 1 attempts!
+2025-12-09 16:28:41,568 - SyntheticReviewGen - INFO - Progress: 40/300 reviews generated
+2025-12-09 16:28:41,569 - SyntheticReviewGen - INFO - Generating review rev_0041 (attempt 1)
+2025-12-09 16:28:59,069 - SyntheticReviewGen - INFO - Review rev_0041 accepted after 1 attempts!
+2025-12-09 16:28:59,069 - SyntheticReviewGen - INFO - Progress: 41/300 reviews generated
+2025-12-09 16:28:59,069 - SyntheticReviewGen - INFO - Generating review rev_0042 (attempt 1)
+2025-12-09 16:29:13,965 - SyntheticReviewGen - INFO - Review rev_0042 accepted after 1 attempts!
+2025-12-09 16:29:13,965 - SyntheticReviewGen - INFO - Progress: 42/300 reviews generated
+2025-12-09 16:29:13,965 - SyntheticReviewGen - INFO - Generating review rev_0043 (attempt 1)
+2025-12-09 16:29:29,583 - SyntheticReviewGen - INFO - Review rev_0043 accepted after 1 attempts!
+2025-12-09 16:29:29,583 - SyntheticReviewGen - INFO - Progress: 43/300 reviews generated
+2025-12-09 16:29:29,583 - SyntheticReviewGen - INFO - Generating review rev_0044 (attempt 1)
+2025-12-09 16:29:47,055 - SyntheticReviewGen - INFO - Review rev_0044 accepted after 1 attempts!
+2025-12-09 16:29:47,055 - SyntheticReviewGen - INFO - Progress: 44/300 reviews generated
+2025-12-09 16:29:47,056 - SyntheticReviewGen - INFO - Generating review rev_0045 (attempt 1)
+2025-12-09 16:29:52,290 - SyntheticReviewGen - INFO - Review rev_0045 accepted after 1 attempts!
+2025-12-09 16:29:52,290 - SyntheticReviewGen - INFO - Progress: 45/300 reviews generated
+2025-12-09 16:29:52,291 - SyntheticReviewGen - INFO - Generating review rev_0046 (attempt 1)
+2025-12-09 16:29:56,271 - SyntheticReviewGen - INFO - Review rev_0046 accepted after 1 attempts!
+2025-12-09 16:29:56,271 - SyntheticReviewGen - INFO - Progress: 46/300 reviews generated
+2025-12-09 16:29:56,272 - SyntheticReviewGen - INFO - Generating review rev_0047 (attempt 1)
+2025-12-09 16:30:03,647 - SyntheticReviewGen - INFO - Review rev_0047 accepted after 1 attempts!
+2025-12-09 16:30:03,647 - SyntheticReviewGen - INFO - Progress: 47/300 reviews generated
+2025-12-09 16:30:03,648 - SyntheticReviewGen - INFO - Generating review rev_0048 (attempt 1)
+2025-12-09 16:30:43,130 - SyntheticReviewGen - INFO - Review rev_0048 accepted after 1 attempts!
+2025-12-09 16:30:43,130 - SyntheticReviewGen - INFO - Progress: 48/300 reviews generated
+2025-12-09 16:30:43,131 - SyntheticReviewGen - INFO - Generating review rev_0049 (attempt 1)
+2025-12-09 16:31:01,665 - SyntheticReviewGen - INFO - Review rev_0049 accepted after 1 attempts!
+2025-12-09 16:31:01,665 - SyntheticReviewGen - INFO - Progress: 49/300 reviews generated
+2025-12-09 16:31:01,665 - SyntheticReviewGen - INFO - Generating review rev_0050 (attempt 1)
+2025-12-09 16:31:22,901 - SyntheticReviewGen - INFO - Review rev_0050 accepted after 1 attempts!
+2025-12-09 16:31:22,901 - SyntheticReviewGen - INFO - Progress: 50/300 reviews generated
+2025-12-09 16:31:22,902 - SyntheticReviewGen - INFO - Generating review rev_0051 (attempt 1)
+2025-12-09 16:31:27,844 - SyntheticReviewGen - INFO - Review rev_0051 accepted after 1 attempts!
+2025-12-09 16:31:27,845 - SyntheticReviewGen - INFO - Progress: 51/300 reviews generated
+2025-12-09 16:31:27,845 - SyntheticReviewGen - INFO - Generating review rev_0052 (attempt 1)
+2025-12-09 16:32:21,390 - SyntheticReviewGen - INFO - Review rev_0052 accepted after 1 attempts!
+2025-12-09 16:32:21,391 - SyntheticReviewGen - INFO - Progress: 52/300 reviews generated
+2025-12-09 16:32:21,391 - SyntheticReviewGen - INFO - Generating review rev_0053 (attempt 1)
+2025-12-09 16:32:26,465 - SyntheticReviewGen - INFO - Review rev_0053 accepted after 1 attempts!
+2025-12-09 16:32:26,469 - SyntheticReviewGen - INFO - Progress: 53/300 reviews generated
+2025-12-09 16:32:26,470 - SyntheticReviewGen - INFO - Generating review rev_0054 (attempt 1)
+2025-12-09 16:32:31,782 - SyntheticReviewGen - INFO - Review rev_0054 accepted after 1 attempts!
+2025-12-09 16:32:31,782 - SyntheticReviewGen - INFO - Progress: 54/300 reviews generated
+2025-12-09 16:32:31,782 - SyntheticReviewGen - INFO - Generating review rev_0055 (attempt 1)
+2025-12-09 16:32:45,398 - SyntheticReviewGen - INFO - Review rev_0055 accepted after 1 attempts!
+2025-12-09 16:32:45,398 - SyntheticReviewGen - INFO - Progress: 55/300 reviews generated
+2025-12-09 16:32:45,399 - SyntheticReviewGen - INFO - Generating review rev_0056 (attempt 1)
+2025-12-09 16:33:26,952 - SyntheticReviewGen - INFO - Review rev_0056 accepted after 1 attempts!
+2025-12-09 16:33:26,952 - SyntheticReviewGen - INFO - Progress: 56/300 reviews generated
+2025-12-09 16:33:26,953 - SyntheticReviewGen - INFO - Generating review rev_0057 (attempt 1)
+2025-12-09 16:33:51,659 - SyntheticReviewGen - INFO - Review rev_0057 accepted after 1 attempts!
+2025-12-09 16:33:51,660 - SyntheticReviewGen - INFO - Progress: 57/300 reviews generated
+2025-12-09 16:33:51,660 - SyntheticReviewGen - INFO - Generating review rev_0058 (attempt 1)
+2025-12-09 16:34:09,704 - SyntheticReviewGen - INFO - Review rev_0058 accepted after 1 attempts!
+2025-12-09 16:34:09,705 - SyntheticReviewGen - INFO - Progress: 58/300 reviews generated
+2025-12-09 16:34:09,705 - SyntheticReviewGen - INFO - Generating review rev_0059 (attempt 1)
+2025-12-09 16:34:49,504 - SyntheticReviewGen - INFO - Review rev_0059 accepted after 1 attempts!
+2025-12-09 16:34:49,504 - SyntheticReviewGen - INFO - Progress: 59/300 reviews generated
+2025-12-09 16:34:49,505 - SyntheticReviewGen - INFO - Generating review rev_0060 (attempt 1)
+2025-12-09 16:35:22,591 - SyntheticReviewGen - INFO - Review rev_0060 accepted after 1 attempts!
+2025-12-09 16:35:22,591 - SyntheticReviewGen - INFO - Progress: 60/300 reviews generated
+2025-12-09 16:35:22,592 - SyntheticReviewGen - INFO - Generating review rev_0061 (attempt 1)
+2025-12-09 16:35:42,485 - SyntheticReviewGen - INFO - Review rev_0061 accepted after 1 attempts!
+2025-12-09 16:35:42,486 - SyntheticReviewGen - INFO - Progress: 61/300 reviews generated
+2025-12-09 16:35:42,486 - SyntheticReviewGen - INFO - Generating review rev_0062 (attempt 1)
+2025-12-09 16:36:00,220 - SyntheticReviewGen - INFO - Review rev_0062 accepted after 1 attempts!
+2025-12-09 16:36:00,220 - SyntheticReviewGen - INFO - Progress: 62/300 reviews generated
+2025-12-09 16:36:00,221 - SyntheticReviewGen - INFO - Generating review rev_0063 (attempt 1)
+2025-12-09 16:36:18,563 - SyntheticReviewGen - INFO - Review rev_0063 accepted after 1 attempts!
+2025-12-09 16:36:18,563 - SyntheticReviewGen - INFO - Progress: 63/300 reviews generated
+2025-12-09 16:36:18,564 - SyntheticReviewGen - INFO - Generating review rev_0064 (attempt 1)
+2025-12-09 16:36:36,612 - SyntheticReviewGen - INFO - Review rev_0064 accepted after 1 attempts!
+2025-12-09 16:36:36,612 - SyntheticReviewGen - INFO - Progress: 64/300 reviews generated
+2025-12-09 16:36:36,613 - SyntheticReviewGen - INFO - Generating review rev_0065 (attempt 1)
+2025-12-09 16:36:59,919 - SyntheticReviewGen - INFO - Review rev_0065 accepted after 1 attempts!
+2025-12-09 16:36:59,919 - SyntheticReviewGen - INFO - Progress: 65/300 reviews generated
+2025-12-09 16:36:59,919 - SyntheticReviewGen - INFO - Generating review rev_0066 (attempt 1)
+2025-12-09 16:37:16,611 - SyntheticReviewGen - INFO - Review rev_0066 accepted after 1 attempts!
+2025-12-09 16:37:16,611 - SyntheticReviewGen - INFO - Progress: 66/300 reviews generated
+2025-12-09 16:37:16,612 - SyntheticReviewGen - INFO - Generating review rev_0067 (attempt 1)
+2025-12-09 16:37:34,636 - SyntheticReviewGen - INFO - Review rev_0067 accepted after 1 attempts!
+2025-12-09 16:37:34,636 - SyntheticReviewGen - INFO - Progress: 67/300 reviews generated
+2025-12-09 16:37:34,637 - SyntheticReviewGen - INFO - Generating review rev_0068 (attempt 1)
+2025-12-09 16:38:09,497 - SyntheticReviewGen - INFO - Review rev_0068 accepted after 1 attempts!
+2025-12-09 16:38:09,497 - SyntheticReviewGen - INFO - Progress: 68/300 reviews generated
+2025-12-09 16:38:09,498 - SyntheticReviewGen - INFO - Generating review rev_0069 (attempt 1)
+2025-12-09 16:38:37,954 - SyntheticReviewGen - INFO - Review rev_0069 accepted after 1 attempts!
+2025-12-09 16:38:37,954 - SyntheticReviewGen - INFO - Progress: 69/300 reviews generated
+2025-12-09 16:38:37,954 - SyntheticReviewGen - INFO - Generating review rev_0070 (attempt 1)
+2025-12-09 16:38:45,664 - SyntheticReviewGen - INFO - Review rev_0070 accepted after 1 attempts!
+2025-12-09 16:38:45,665 - SyntheticReviewGen - INFO - Progress: 70/300 reviews generated
+2025-12-09 16:38:45,665 - SyntheticReviewGen - INFO - Generating review rev_0071 (attempt 1)
+2025-12-09 16:38:57,912 - SyntheticReviewGen - INFO - Review rev_0071 accepted after 1 attempts!
+2025-12-09 16:38:57,912 - SyntheticReviewGen - INFO - Progress: 71/300 reviews generated
+2025-12-09 16:38:57,913 - SyntheticReviewGen - INFO - Generating review rev_0072 (attempt 1)
+2025-12-09 16:39:38,557 - SyntheticReviewGen - INFO - Review rev_0072 accepted after 1 attempts!
+2025-12-09 16:39:38,558 - SyntheticReviewGen - INFO - Progress: 72/300 reviews generated
+2025-12-09 16:39:38,558 - SyntheticReviewGen - INFO - Generating review rev_0073 (attempt 1)
+2025-12-09 16:39:54,573 - SyntheticReviewGen - INFO - Review rev_0073 accepted after 1 attempts!
+2025-12-09 16:39:54,573 - SyntheticReviewGen - INFO - Progress: 73/300 reviews generated
+2025-12-09 16:39:54,574 - SyntheticReviewGen - INFO - Generating review rev_0074 (attempt 1)
+2025-12-09 16:40:14,396 - SyntheticReviewGen - INFO - Review rev_0074 accepted after 1 attempts!
+2025-12-09 16:40:14,397 - SyntheticReviewGen - INFO - Progress: 74/300 reviews generated
+2025-12-09 16:40:14,397 - SyntheticReviewGen - INFO - Generating review rev_0075 (attempt 1)
+2025-12-09 16:40:34,497 - SyntheticReviewGen - INFO - Review rev_0075 accepted after 1 attempts!
+2025-12-09 16:40:34,497 - SyntheticReviewGen - INFO - Progress: 75/300 reviews generated
+2025-12-09 16:40:34,497 - SyntheticReviewGen - INFO - Generating review rev_0076 (attempt 1)
+2025-12-09 16:40:39,725 - SyntheticReviewGen - INFO - Review rev_0076 accepted after 1 attempts!
+2025-12-09 16:40:39,726 - SyntheticReviewGen - INFO - Progress: 76/300 reviews generated
+2025-12-09 16:40:39,726 - SyntheticReviewGen - INFO - Generating review rev_0077 (attempt 1)
+2025-12-09 16:41:35,054 - SyntheticReviewGen - INFO - Review rev_0077 accepted after 1 attempts!
+2025-12-09 16:41:35,054 - SyntheticReviewGen - INFO - Progress: 77/300 reviews generated
+2025-12-09 16:41:35,055 - SyntheticReviewGen - INFO - Generating review rev_0078 (attempt 1)
+2025-12-09 16:41:43,492 - SyntheticReviewGen - INFO - Review rev_0078 accepted after 1 attempts!
+2025-12-09 16:41:43,492 - SyntheticReviewGen - INFO - Progress: 78/300 reviews generated
+2025-12-09 16:41:43,493 - SyntheticReviewGen - INFO - Generating review rev_0079 (attempt 1)
+2025-12-09 16:42:17,388 - SyntheticReviewGen - INFO - Review rev_0079 accepted after 1 attempts!
+2025-12-09 16:42:17,388 - SyntheticReviewGen - INFO - Progress: 79/300 reviews generated
+2025-12-09 16:42:17,389 - SyntheticReviewGen - INFO - Generating review rev_0080 (attempt 1)
+2025-12-09 16:42:47,101 - SyntheticReviewGen - INFO - Review rev_0080 accepted after 1 attempts!
+2025-12-09 16:42:47,101 - SyntheticReviewGen - INFO - Progress: 80/300 reviews generated
+2025-12-09 16:42:47,101 - SyntheticReviewGen - INFO - Generating review rev_0081 (attempt 1)
+2025-12-09 16:43:02,304 - SyntheticReviewGen - INFO - Review rev_0081 accepted after 1 attempts!
+2025-12-09 16:43:02,304 - SyntheticReviewGen - INFO - Progress: 81/300 reviews generated
+2025-12-09 16:43:02,305 - SyntheticReviewGen - INFO - Generating review rev_0082 (attempt 1)
+2025-12-09 16:43:12,227 - SyntheticReviewGen - INFO - Review rev_0082 accepted after 1 attempts!
+2025-12-09 16:43:12,227 - SyntheticReviewGen - INFO - Progress: 82/300 reviews generated
+2025-12-09 16:43:12,227 - SyntheticReviewGen - INFO - Generating review rev_0083 (attempt 1)
+2025-12-09 16:43:25,949 - SyntheticReviewGen - INFO - Review rev_0083 accepted after 1 attempts!
+2025-12-09 16:43:25,950 - SyntheticReviewGen - INFO - Progress: 83/300 reviews generated
+2025-12-09 16:43:25,950 - SyntheticReviewGen - INFO - Generating review rev_0084 (attempt 1)
+2025-12-09 16:43:43,383 - SyntheticReviewGen - INFO - Review rev_0084 accepted after 1 attempts!
+2025-12-09 16:43:43,384 - SyntheticReviewGen - INFO - Progress: 84/300 reviews generated
+2025-12-09 16:43:43,384 - SyntheticReviewGen - INFO - Generating review rev_0085 (attempt 1)
+2025-12-09 16:44:04,338 - SyntheticReviewGen - INFO - Review rev_0085 accepted after 1 attempts!
+2025-12-09 16:44:04,338 - SyntheticReviewGen - INFO - Progress: 85/300 reviews generated
+2025-12-09 16:44:04,339 - SyntheticReviewGen - INFO - Generating review rev_0086 (attempt 1)
+2025-12-09 16:44:22,450 - SyntheticReviewGen - INFO - Review rev_0086 accepted after 1 attempts!
+2025-12-09 16:44:22,450 - SyntheticReviewGen - INFO - Progress: 86/300 reviews generated
+2025-12-09 16:44:22,450 - SyntheticReviewGen - INFO - Generating review rev_0087 (attempt 1)
+2025-12-09 16:45:11,019 - SyntheticReviewGen - INFO - Review rev_0087 accepted after 1 attempts!
+2025-12-09 16:45:11,019 - SyntheticReviewGen - INFO - Progress: 87/300 reviews generated
+2025-12-09 16:45:11,020 - SyntheticReviewGen - INFO - Generating review rev_0088 (attempt 1)
+2025-12-09 16:45:30,765 - SyntheticReviewGen - INFO - Review rev_0088 accepted after 1 attempts!
+2025-12-09 16:45:30,765 - SyntheticReviewGen - INFO - Progress: 88/300 reviews generated
+2025-12-09 16:45:30,766 - SyntheticReviewGen - INFO - Generating review rev_0089 (attempt 1)
+2025-12-09 16:45:55,517 - SyntheticReviewGen - INFO - Review rev_0089 accepted after 1 attempts!
+2025-12-09 16:45:55,517 - SyntheticReviewGen - INFO - Progress: 89/300 reviews generated
+2025-12-09 16:45:55,518 - SyntheticReviewGen - INFO - Generating review rev_0090 (attempt 1)
+2025-12-09 16:46:01,991 - SyntheticReviewGen - INFO - Review rev_0090 accepted after 1 attempts!
+2025-12-09 16:46:01,991 - SyntheticReviewGen - INFO - Progress: 90/300 reviews generated
+2025-12-09 16:46:01,991 - SyntheticReviewGen - INFO - Generating review rev_0091 (attempt 1)
+2025-12-09 16:46:12,049 - SyntheticReviewGen - INFO - Review rev_0091 accepted after 1 attempts!
+2025-12-09 16:46:12,049 - SyntheticReviewGen - INFO - Progress: 91/300 reviews generated
+2025-12-09 16:46:12,050 - SyntheticReviewGen - INFO - Generating review rev_0092 (attempt 1)
+2025-12-09 16:46:34,040 - SyntheticReviewGen - INFO - Review rev_0092 accepted after 1 attempts!
+2025-12-09 16:46:34,041 - SyntheticReviewGen - INFO - Progress: 92/300 reviews generated
+2025-12-09 16:46:34,041 - SyntheticReviewGen - INFO - Generating review rev_0093 (attempt 1)
+2025-12-09 16:46:54,759 - SyntheticReviewGen - INFO - Review rev_0093 accepted after 1 attempts!
+2025-12-09 16:46:54,759 - SyntheticReviewGen - INFO - Progress: 93/300 reviews generated
+2025-12-09 16:46:54,760 - SyntheticReviewGen - INFO - Generating review rev_0094 (attempt 1)
+2025-12-09 16:47:14,444 - SyntheticReviewGen - INFO - Review rev_0094 accepted after 1 attempts!
+2025-12-09 16:47:14,444 - SyntheticReviewGen - INFO - Progress: 94/300 reviews generated
+2025-12-09 16:47:14,445 - SyntheticReviewGen - INFO - Generating review rev_0095 (attempt 1)
+2025-12-09 16:47:27,407 - SyntheticReviewGen - INFO - Review rev_0095 accepted after 1 attempts!
+2025-12-09 16:47:27,407 - SyntheticReviewGen - INFO - Progress: 95/300 reviews generated
+2025-12-09 16:47:27,407 - SyntheticReviewGen - INFO - Generating review rev_0096 (attempt 1)
+2025-12-09 16:48:06,521 - SyntheticReviewGen - INFO - Review rev_0096 accepted after 1 attempts!
+2025-12-09 16:48:06,521 - SyntheticReviewGen - INFO - Progress: 96/300 reviews generated
+2025-12-09 16:48:06,522 - SyntheticReviewGen - INFO - Generating review rev_0097 (attempt 1)
+2025-12-09 16:48:25,787 - SyntheticReviewGen - INFO - Review rev_0097 accepted after 1 attempts!
+2025-12-09 16:48:25,787 - SyntheticReviewGen - INFO - Progress: 97/300 reviews generated
+2025-12-09 16:48:25,787 - SyntheticReviewGen - INFO - Generating review rev_0098 (attempt 1)
+2025-12-09 16:48:40,579 - SyntheticReviewGen - INFO - Review rev_0098 accepted after 1 attempts!
+2025-12-09 16:48:40,579 - SyntheticReviewGen - INFO - Progress: 98/300 reviews generated
+2025-12-09 16:48:40,580 - SyntheticReviewGen - INFO - Generating review rev_0099 (attempt 1)
+2025-12-09 16:49:01,643 - SyntheticReviewGen - INFO - Review rev_0099 accepted after 1 attempts!
+2025-12-09 16:49:01,643 - SyntheticReviewGen - INFO - Progress: 99/300 reviews generated
+2025-12-09 16:49:01,644 - SyntheticReviewGen - INFO - Generating review rev_0100 (attempt 1)
+2025-12-09 16:49:23,879 - SyntheticReviewGen - INFO - Review rev_0100 accepted after 1 attempts!
+2025-12-09 16:49:23,879 - SyntheticReviewGen - INFO - Progress: 100/300 reviews generated
+2025-12-09 16:49:23,879 - SyntheticReviewGen - INFO - Generating review rev_0101 (attempt 1)
+2025-12-09 16:49:45,560 - SyntheticReviewGen - INFO - Review rev_0101 accepted after 1 attempts!
+2025-12-09 16:49:45,560 - SyntheticReviewGen - INFO - Progress: 101/300 reviews generated
+2025-12-09 16:49:45,561 - SyntheticReviewGen - INFO - Generating review rev_0102 (attempt 1)
+2025-12-09 16:50:25,244 - SyntheticReviewGen - INFO - Review rev_0102 accepted after 1 attempts!
+2025-12-09 16:50:25,245 - SyntheticReviewGen - INFO - Progress: 102/300 reviews generated
+2025-12-09 16:50:25,245 - SyntheticReviewGen - INFO - Generating review rev_0103 (attempt 1)
+2025-12-09 16:50:53,715 - SyntheticReviewGen - INFO - Review rev_0103 accepted after 1 attempts!
+2025-12-09 16:50:53,716 - SyntheticReviewGen - INFO - Progress: 103/300 reviews generated
+2025-12-09 16:50:53,716 - SyntheticReviewGen - INFO - Generating review rev_0104 (attempt 1)
+2025-12-09 16:51:08,799 - SyntheticReviewGen - INFO - Review rev_0104 accepted after 1 attempts!
+2025-12-09 16:51:08,800 - SyntheticReviewGen - INFO - Progress: 104/300 reviews generated
+2025-12-09 16:51:08,800 - SyntheticReviewGen - INFO - Generating review rev_0105 (attempt 1)
+2025-12-09 16:51:46,769 - SyntheticReviewGen - INFO - Review rev_0105 accepted after 1 attempts!
+2025-12-09 16:51:46,769 - SyntheticReviewGen - INFO - Progress: 105/300 reviews generated
+2025-12-09 16:51:46,770 - SyntheticReviewGen - INFO - Generating review rev_0106 (attempt 1)
+2025-12-09 16:52:01,895 - SyntheticReviewGen - INFO - Review rev_0106 accepted after 1 attempts!
+2025-12-09 16:52:01,895 - SyntheticReviewGen - INFO - Progress: 106/300 reviews generated
+2025-12-09 16:52:01,896 - SyntheticReviewGen - INFO - Generating review rev_0107 (attempt 1)
+2025-12-09 16:52:28,962 - SyntheticReviewGen - INFO - Review rev_0107 accepted after 1 attempts!
+2025-12-09 16:52:28,962 - SyntheticReviewGen - INFO - Progress: 107/300 reviews generated
+2025-12-09 16:52:28,963 - SyntheticReviewGen - INFO - Generating review rev_0108 (attempt 1)
+2025-12-09 16:52:49,061 - SyntheticReviewGen - INFO - Review rev_0108 accepted after 1 attempts!
+2025-12-09 16:52:49,061 - SyntheticReviewGen - INFO - Progress: 108/300 reviews generated
+2025-12-09 16:52:49,062 - SyntheticReviewGen - INFO - Generating review rev_0109 (attempt 1)
+2025-12-09 16:53:19,883 - SyntheticReviewGen - INFO - Review rev_0109 accepted after 1 attempts!
+2025-12-09 16:53:19,884 - SyntheticReviewGen - INFO - Progress: 109/300 reviews generated
+2025-12-09 16:53:19,885 - SyntheticReviewGen - INFO - Generating review rev_0110 (attempt 1)
+2025-12-09 16:53:40,915 - SyntheticReviewGen - INFO - Review rev_0110 accepted after 1 attempts!
+2025-12-09 16:53:40,915 - SyntheticReviewGen - INFO - Progress: 110/300 reviews generated
+2025-12-09 16:53:40,916 - SyntheticReviewGen - INFO - Generating review rev_0111 (attempt 1)
+2025-12-09 16:54:04,062 - SyntheticReviewGen - INFO - Review rev_0111 accepted after 1 attempts!
+2025-12-09 16:54:04,063 - SyntheticReviewGen - INFO - Progress: 111/300 reviews generated
+2025-12-09 16:54:04,063 - SyntheticReviewGen - INFO - Generating review rev_0112 (attempt 1)
+2025-12-09 16:54:29,898 - SyntheticReviewGen - INFO - Review rev_0112 accepted after 1 attempts!
+2025-12-09 16:54:29,898 - SyntheticReviewGen - INFO - Progress: 112/300 reviews generated
+2025-12-09 16:54:29,899 - SyntheticReviewGen - INFO - Generating review rev_0113 (attempt 1)
+2025-12-09 16:55:10,672 - SyntheticReviewGen - INFO - Review rev_0113 accepted after 1 attempts!
+2025-12-09 16:55:10,673 - SyntheticReviewGen - INFO - Progress: 113/300 reviews generated
+2025-12-09 16:55:10,677 - SyntheticReviewGen - INFO - Generating review rev_0114 (attempt 1)
+2025-12-09 16:55:48,428 - SyntheticReviewGen - INFO - Review rev_0114 accepted after 1 attempts!
+2025-12-09 16:55:48,429 - SyntheticReviewGen - INFO - Progress: 114/300 reviews generated
+2025-12-09 16:55:48,429 - SyntheticReviewGen - INFO - Generating review rev_0115 (attempt 1)
+2025-12-09 16:56:14,458 - SyntheticReviewGen - INFO - Review rev_0115 accepted after 1 attempts!
+2025-12-09 16:56:14,459 - SyntheticReviewGen - INFO - Progress: 115/300 reviews generated
+2025-12-09 16:56:14,459 - SyntheticReviewGen - INFO - Generating review rev_0116 (attempt 1)
+2025-12-09 16:56:30,261 - SyntheticReviewGen - INFO - Review rev_0116 accepted after 1 attempts!
+2025-12-09 16:56:30,261 - SyntheticReviewGen - INFO - Progress: 116/300 reviews generated
+2025-12-09 16:56:30,262 - SyntheticReviewGen - INFO - Generating review rev_0117 (attempt 1)
+2025-12-09 16:56:46,924 - SyntheticReviewGen - INFO - Review rev_0117 accepted after 1 attempts!
+2025-12-09 16:56:46,924 - SyntheticReviewGen - INFO - Progress: 117/300 reviews generated
+2025-12-09 16:56:46,925 - SyntheticReviewGen - INFO - Generating review rev_0118 (attempt 1)
+2025-12-09 16:56:57,073 - SyntheticReviewGen - INFO - Review rev_0118 accepted after 1 attempts!
+2025-12-09 16:56:57,073 - SyntheticReviewGen - INFO - Progress: 118/300 reviews generated
+2025-12-09 16:56:57,074 - SyntheticReviewGen - INFO - Generating review rev_0119 (attempt 1)
+2025-12-09 16:57:25,979 - SyntheticReviewGen - INFO - Review rev_0119 accepted after 1 attempts!
+2025-12-09 16:57:25,980 - SyntheticReviewGen - INFO - Progress: 119/300 reviews generated
+2025-12-09 16:57:25,980 - SyntheticReviewGen - INFO - Generating review rev_0120 (attempt 1)
+2025-12-09 16:58:12,092 - SyntheticReviewGen - INFO - Review rev_0120 accepted after 1 attempts!
+2025-12-09 16:58:12,092 - SyntheticReviewGen - INFO - Progress: 120/300 reviews generated
+2025-12-09 16:58:12,093 - SyntheticReviewGen - INFO - Generating review rev_0121 (attempt 1)
+2025-12-09 16:58:35,744 - SyntheticReviewGen - INFO - Review rev_0121 accepted after 1 attempts!
+2025-12-09 16:58:35,744 - SyntheticReviewGen - INFO - Progress: 121/300 reviews generated
+2025-12-09 16:58:35,745 - SyntheticReviewGen - INFO - Generating review rev_0122 (attempt 1)
+2025-12-09 16:59:02,595 - SyntheticReviewGen - INFO - Review rev_0122 accepted after 1 attempts!
+2025-12-09 16:59:02,595 - SyntheticReviewGen - INFO - Progress: 122/300 reviews generated
+2025-12-09 16:59:02,596 - SyntheticReviewGen - INFO - Generating review rev_0123 (attempt 1)
+2025-12-09 16:59:30,238 - SyntheticReviewGen - INFO - Review rev_0123 accepted after 1 attempts!
+2025-12-09 16:59:30,238 - SyntheticReviewGen - INFO - Progress: 123/300 reviews generated
+2025-12-09 16:59:30,238 - SyntheticReviewGen - INFO - Generating review rev_0124 (attempt 1)
+2025-12-09 17:00:08,242 - SyntheticReviewGen - INFO - Review rev_0124 accepted after 1 attempts!
+2025-12-09 17:00:08,242 - SyntheticReviewGen - INFO - Progress: 124/300 reviews generated
+2025-12-09 17:00:08,242 - SyntheticReviewGen - INFO - Generating review rev_0125 (attempt 1)
+2025-12-09 17:00:39,099 - SyntheticReviewGen - INFO - Review rev_0125 accepted after 1 attempts!
+2025-12-09 17:00:39,100 - SyntheticReviewGen - INFO - Progress: 125/300 reviews generated
+2025-12-09 17:00:39,101 - SyntheticReviewGen - INFO - Generating review rev_0126 (attempt 1)
+2025-12-09 17:00:56,720 - SyntheticReviewGen - INFO - Review rev_0126 accepted after 1 attempts!
+2025-12-09 17:00:56,720 - SyntheticReviewGen - INFO - Progress: 126/300 reviews generated
+2025-12-09 17:00:56,721 - SyntheticReviewGen - INFO - Generating review rev_0127 (attempt 1)
+2025-12-09 17:01:20,642 - SyntheticReviewGen - INFO - Review rev_0127 accepted after 1 attempts!
+2025-12-09 17:01:20,643 - SyntheticReviewGen - INFO - Progress: 127/300 reviews generated
+2025-12-09 17:01:20,643 - SyntheticReviewGen - INFO - Generating review rev_0128 (attempt 1)
+2025-12-09 17:01:43,614 - SyntheticReviewGen - INFO - Review rev_0128 accepted after 1 attempts!
+2025-12-09 17:01:43,614 - SyntheticReviewGen - INFO - Progress: 128/300 reviews generated
+2025-12-09 17:01:43,615 - SyntheticReviewGen - INFO - Generating review rev_0129 (attempt 1)
+2025-12-09 17:02:03,428 - SyntheticReviewGen - INFO - Review rev_0129 accepted after 1 attempts!
+2025-12-09 17:02:03,429 - SyntheticReviewGen - INFO - Progress: 129/300 reviews generated
+2025-12-09 17:02:03,429 - SyntheticReviewGen - INFO - Generating review rev_0130 (attempt 1)
+2025-12-09 17:02:14,481 - SyntheticReviewGen - INFO - Review rev_0130 accepted after 1 attempts!
+2025-12-09 17:02:14,481 - SyntheticReviewGen - INFO - Progress: 130/300 reviews generated
+2025-12-09 17:02:14,481 - SyntheticReviewGen - INFO - Generating review rev_0131 (attempt 1)
+2025-12-09 17:02:53,346 - SyntheticReviewGen - INFO - Review rev_0131 accepted after 1 attempts!
+2025-12-09 17:02:53,347 - SyntheticReviewGen - INFO - Progress: 131/300 reviews generated
+2025-12-09 17:02:53,347 - SyntheticReviewGen - INFO - Generating review rev_0132 (attempt 1)
+2025-12-09 17:03:35,857 - SyntheticReviewGen - INFO - Review rev_0132 accepted after 1 attempts!
+2025-12-09 17:03:35,857 - SyntheticReviewGen - INFO - Progress: 132/300 reviews generated
+2025-12-09 17:03:35,858 - SyntheticReviewGen - INFO - Generating review rev_0133 (attempt 1)
+2025-12-09 17:03:59,863 - SyntheticReviewGen - INFO - Review rev_0133 accepted after 1 attempts!
+2025-12-09 17:03:59,863 - SyntheticReviewGen - INFO - Progress: 133/300 reviews generated
+2025-12-09 17:03:59,863 - SyntheticReviewGen - INFO - Generating review rev_0134 (attempt 1)
+2025-12-09 17:04:22,718 - SyntheticReviewGen - INFO - Review rev_0134 accepted after 1 attempts!
+2025-12-09 17:04:22,719 - SyntheticReviewGen - INFO - Progress: 134/300 reviews generated
+2025-12-09 17:04:22,719 - SyntheticReviewGen - INFO - Generating review rev_0135 (attempt 1)
+2025-12-09 17:04:48,324 - SyntheticReviewGen - INFO - Review rev_0135 accepted after 1 attempts!
+2025-12-09 17:04:48,324 - SyntheticReviewGen - INFO - Progress: 135/300 reviews generated
+2025-12-09 17:04:48,325 - SyntheticReviewGen - INFO - Generating review rev_0136 (attempt 1)
+2025-12-09 17:05:19,377 - SyntheticReviewGen - INFO - Review rev_0136 accepted after 1 attempts!
+2025-12-09 17:05:19,378 - SyntheticReviewGen - INFO - Progress: 136/300 reviews generated
+2025-12-09 17:05:19,378 - SyntheticReviewGen - INFO - Generating review rev_0137 (attempt 1)
+2025-12-09 17:05:35,326 - SyntheticReviewGen - INFO - Review rev_0137 accepted after 1 attempts!
+2025-12-09 17:05:35,326 - SyntheticReviewGen - INFO - Progress: 137/300 reviews generated
+2025-12-09 17:05:35,327 - SyntheticReviewGen - INFO - Generating review rev_0138 (attempt 1)
+2025-12-09 17:06:05,406 - SyntheticReviewGen - INFO - Review rev_0138 accepted after 1 attempts!
+2025-12-09 17:06:05,406 - SyntheticReviewGen - INFO - Progress: 138/300 reviews generated
+2025-12-09 17:06:05,407 - SyntheticReviewGen - INFO - Generating review rev_0139 (attempt 1)
+2025-12-09 17:06:42,976 - SyntheticReviewGen - INFO - Review rev_0139 accepted after 1 attempts!
+2025-12-09 17:06:42,976 - SyntheticReviewGen - INFO - Progress: 139/300 reviews generated
+2025-12-09 17:06:42,977 - SyntheticReviewGen - INFO - Generating review rev_0140 (attempt 1)
+2025-12-09 17:07:11,068 - SyntheticReviewGen - INFO - Review rev_0140 accepted after 1 attempts!
+2025-12-09 17:07:11,068 - SyntheticReviewGen - INFO - Progress: 140/300 reviews generated
+2025-12-09 17:07:11,068 - SyntheticReviewGen - INFO - Generating review rev_0141 (attempt 1)
+2025-12-09 17:07:23,132 - SyntheticReviewGen - INFO - Review rev_0141 accepted after 1 attempts!
+2025-12-09 17:07:23,132 - SyntheticReviewGen - INFO - Progress: 141/300 reviews generated
+2025-12-09 17:07:23,132 - SyntheticReviewGen - INFO - Generating review rev_0142 (attempt 1)
+2025-12-09 17:07:48,536 - SyntheticReviewGen - INFO - Review rev_0142 accepted after 1 attempts!
+2025-12-09 17:07:48,536 - SyntheticReviewGen - INFO - Progress: 142/300 reviews generated
+2025-12-09 17:07:48,536 - SyntheticReviewGen - INFO - Generating review rev_0143 (attempt 1)
+2025-12-09 17:08:16,987 - SyntheticReviewGen - INFO - Review rev_0143 accepted after 1 attempts!
+2025-12-09 17:08:16,988 - SyntheticReviewGen - INFO - Progress: 143/300 reviews generated
+2025-12-09 17:08:16,988 - SyntheticReviewGen - INFO - Generating review rev_0144 (attempt 1)
+2025-12-09 17:08:37,004 - SyntheticReviewGen - INFO - Review rev_0144 accepted after 1 attempts!
+2025-12-09 17:08:37,005 - SyntheticReviewGen - INFO - Progress: 144/300 reviews generated
+2025-12-09 17:08:37,005 - SyntheticReviewGen - INFO - Generating review rev_0145 (attempt 1)
+2025-12-09 17:08:57,476 - SyntheticReviewGen - INFO - Review rev_0145 accepted after 1 attempts!
+2025-12-09 17:08:57,477 - SyntheticReviewGen - INFO - Progress: 145/300 reviews generated
+2025-12-09 17:08:57,477 - SyntheticReviewGen - INFO - Generating review rev_0146 (attempt 1)
+2025-12-09 17:09:11,951 - SyntheticReviewGen - INFO - Review rev_0146 accepted after 1 attempts!
+2025-12-09 17:09:11,951 - SyntheticReviewGen - INFO - Progress: 146/300 reviews generated
+2025-12-09 17:09:11,952 - SyntheticReviewGen - INFO - Generating review rev_0147 (attempt 1)
+2025-12-09 17:09:43,078 - SyntheticReviewGen - INFO - Review rev_0147 accepted after 1 attempts!
+2025-12-09 17:09:43,078 - SyntheticReviewGen - INFO - Progress: 147/300 reviews generated
+2025-12-09 17:09:43,079 - SyntheticReviewGen - INFO - Generating review rev_0148 (attempt 1)
+2025-12-09 17:10:16,676 - SyntheticReviewGen - INFO - Review rev_0148 accepted after 1 attempts!
+2025-12-09 17:10:16,676 - SyntheticReviewGen - INFO - Progress: 148/300 reviews generated
+2025-12-09 17:10:16,677 - SyntheticReviewGen - INFO - Generating review rev_0149 (attempt 1)
+2025-12-09 17:10:39,848 - SyntheticReviewGen - INFO - Review rev_0149 accepted after 1 attempts!
+2025-12-09 17:10:39,849 - SyntheticReviewGen - INFO - Progress: 149/300 reviews generated
+2025-12-09 17:10:39,849 - SyntheticReviewGen - INFO - Generating review rev_0150 (attempt 1)
+2025-12-09 17:11:38,632 - SyntheticReviewGen - INFO - Review rev_0150 accepted after 1 attempts!
+2025-12-09 17:11:38,632 - SyntheticReviewGen - INFO - Progress: 150/300 reviews generated
+2025-12-09 17:11:38,632 - SyntheticReviewGen - INFO - Generating review rev_0151 (attempt 1)
+2025-12-09 17:12:02,588 - SyntheticReviewGen - INFO - Review rev_0151 accepted after 1 attempts!
+2025-12-09 17:12:02,589 - SyntheticReviewGen - INFO - Progress: 151/300 reviews generated
+2025-12-09 17:12:02,589 - SyntheticReviewGen - INFO - Generating review rev_0152 (attempt 1)
+2025-12-09 17:12:25,630 - SyntheticReviewGen - INFO - Review rev_0152 accepted after 1 attempts!
+2025-12-09 17:12:25,631 - SyntheticReviewGen - INFO - Progress: 152/300 reviews generated
+2025-12-09 17:12:25,631 - SyntheticReviewGen - INFO - Generating review rev_0153 (attempt 1)
+2025-12-09 17:12:42,388 - SyntheticReviewGen - INFO - Review rev_0153 accepted after 1 attempts!
+2025-12-09 17:12:42,388 - SyntheticReviewGen - INFO - Progress: 153/300 reviews generated
+2025-12-09 17:12:42,389 - SyntheticReviewGen - INFO - Generating review rev_0154 (attempt 1)
+2025-12-09 17:13:16,162 - SyntheticReviewGen - INFO - Review rev_0154 accepted after 1 attempts!
+2025-12-09 17:13:16,162 - SyntheticReviewGen - INFO - Progress: 154/300 reviews generated
+2025-12-09 17:13:16,163 - SyntheticReviewGen - INFO - Generating review rev_0155 (attempt 1)
+2025-12-09 17:13:45,413 - SyntheticReviewGen - INFO - Review rev_0155 accepted after 1 attempts!
+2025-12-09 17:13:45,413 - SyntheticReviewGen - INFO - Progress: 155/300 reviews generated
+2025-12-09 17:13:45,414 - SyntheticReviewGen - INFO - Generating review rev_0156 (attempt 1)
+2025-12-09 17:14:17,512 - SyntheticReviewGen - INFO - Review rev_0156 accepted after 1 attempts!
+2025-12-09 17:14:17,513 - SyntheticReviewGen - INFO - Progress: 156/300 reviews generated
+2025-12-09 17:14:17,513 - SyntheticReviewGen - INFO - Generating review rev_0157 (attempt 1)
+2025-12-09 17:14:31,284 - SyntheticReviewGen - INFO - Review rev_0157 accepted after 1 attempts!
+2025-12-09 17:14:31,284 - SyntheticReviewGen - INFO - Progress: 157/300 reviews generated
+2025-12-09 17:14:31,285 - SyntheticReviewGen - INFO - Generating review rev_0158 (attempt 1)
+2025-12-09 17:14:55,388 - SyntheticReviewGen - INFO - Review rev_0158 accepted after 1 attempts!
+2025-12-09 17:14:55,388 - SyntheticReviewGen - INFO - Progress: 158/300 reviews generated
+2025-12-09 17:14:55,389 - SyntheticReviewGen - INFO - Generating review rev_0159 (attempt 1)
+2025-12-09 17:15:13,632 - SyntheticReviewGen - INFO - Review rev_0159 accepted after 1 attempts!
+2025-12-09 17:15:13,633 - SyntheticReviewGen - INFO - Progress: 159/300 reviews generated
+2025-12-09 17:15:13,633 - SyntheticReviewGen - INFO - Generating review rev_0160 (attempt 1)
+2025-12-09 17:15:29,166 - SyntheticReviewGen - INFO - Review rev_0160 accepted after 1 attempts!
+2025-12-09 17:15:29,166 - SyntheticReviewGen - INFO - Progress: 160/300 reviews generated
+2025-12-09 17:15:29,166 - SyntheticReviewGen - INFO - Generating review rev_0161 (attempt 1)
+2025-12-09 17:15:54,220 - SyntheticReviewGen - INFO - Review rev_0161 accepted after 1 attempts!
+2025-12-09 17:15:54,220 - SyntheticReviewGen - INFO - Progress: 161/300 reviews generated
+2025-12-09 17:15:54,220 - SyntheticReviewGen - INFO - Generating review rev_0162 (attempt 1)
+2025-12-09 17:16:26,560 - SyntheticReviewGen - INFO - Review rev_0162 accepted after 1 attempts!
+2025-12-09 17:16:26,561 - SyntheticReviewGen - INFO - Progress: 162/300 reviews generated
+2025-12-09 17:16:26,561 - SyntheticReviewGen - INFO - Generating review rev_0163 (attempt 1)
+2025-12-09 17:16:48,104 - SyntheticReviewGen - INFO - Review rev_0163 accepted after 1 attempts!
+2025-12-09 17:16:48,105 - SyntheticReviewGen - INFO - Progress: 163/300 reviews generated
+2025-12-09 17:16:48,105 - SyntheticReviewGen - INFO - Generating review rev_0164 (attempt 1)
+2025-12-09 17:17:04,457 - SyntheticReviewGen - INFO - Review rev_0164 accepted after 1 attempts!
+2025-12-09 17:17:04,457 - SyntheticReviewGen - INFO - Progress: 164/300 reviews generated
+2025-12-09 17:17:04,458 - SyntheticReviewGen - INFO - Generating review rev_0165 (attempt 1)
+2025-12-09 17:17:54,751 - SyntheticReviewGen - INFO - Review rev_0165 accepted after 1 attempts!
+2025-12-09 17:17:54,751 - SyntheticReviewGen - INFO - Progress: 165/300 reviews generated
+2025-12-09 17:17:54,751 - SyntheticReviewGen - INFO - Generating review rev_0166 (attempt 1)
+2025-12-09 17:18:25,860 - SyntheticReviewGen - INFO - Review rev_0166 accepted after 1 attempts!
+2025-12-09 17:18:25,860 - SyntheticReviewGen - INFO - Progress: 166/300 reviews generated
+2025-12-09 17:18:25,861 - SyntheticReviewGen - INFO - Generating review rev_0167 (attempt 1)
+2025-12-09 17:18:51,131 - SyntheticReviewGen - INFO - Review rev_0167 accepted after 1 attempts!
+2025-12-09 17:18:51,132 - SyntheticReviewGen - INFO - Progress: 167/300 reviews generated
+2025-12-09 17:18:51,132 - SyntheticReviewGen - INFO - Generating review rev_0168 (attempt 1)
+2025-12-09 17:19:18,889 - SyntheticReviewGen - INFO - Review rev_0168 accepted after 1 attempts!
+2025-12-09 17:19:18,889 - SyntheticReviewGen - INFO - Progress: 168/300 reviews generated
+2025-12-09 17:19:18,890 - SyntheticReviewGen - INFO - Generating review rev_0169 (attempt 1)
+2025-12-09 17:19:48,203 - SyntheticReviewGen - INFO - Review rev_0169 accepted after 1 attempts!
+2025-12-09 17:19:48,204 - SyntheticReviewGen - INFO - Progress: 169/300 reviews generated
+2025-12-09 17:19:48,204 - SyntheticReviewGen - INFO - Generating review rev_0170 (attempt 1)
+2025-12-09 17:20:05,475 - SyntheticReviewGen - INFO - Review rev_0170 accepted after 1 attempts!
+2025-12-09 17:20:05,475 - SyntheticReviewGen - INFO - Progress: 170/300 reviews generated
+2025-12-09 17:20:05,476 - SyntheticReviewGen - INFO - Generating review rev_0171 (attempt 1)
+2025-12-09 17:20:25,512 - SyntheticReviewGen - INFO - Review rev_0171 accepted after 1 attempts!
+2025-12-09 17:20:25,513 - SyntheticReviewGen - INFO - Progress: 171/300 reviews generated
+2025-12-09 17:20:25,513 - SyntheticReviewGen - INFO - Generating review rev_0172 (attempt 1)
+2025-12-09 17:20:53,518 - SyntheticReviewGen - INFO - Review rev_0172 accepted after 1 attempts!
+2025-12-09 17:20:53,518 - SyntheticReviewGen - INFO - Progress: 172/300 reviews generated
+2025-12-09 17:20:53,518 - SyntheticReviewGen - INFO - Generating review rev_0173 (attempt 1)
+2025-12-09 17:21:25,810 - SyntheticReviewGen - INFO - Review rev_0173 accepted after 1 attempts!
+2025-12-09 17:21:25,811 - SyntheticReviewGen - INFO - Progress: 173/300 reviews generated
+2025-12-09 17:21:25,811 - SyntheticReviewGen - INFO - Generating review rev_0174 (attempt 1)
+2025-12-09 17:22:01,835 - SyntheticReviewGen - INFO - Review rev_0174 accepted after 1 attempts!
+2025-12-09 17:22:01,835 - SyntheticReviewGen - INFO - Progress: 174/300 reviews generated
+2025-12-09 17:22:01,836 - SyntheticReviewGen - INFO - Generating review rev_0175 (attempt 1)
+2025-12-09 17:22:19,545 - SyntheticReviewGen - INFO - Review rev_0175 accepted after 1 attempts!
+2025-12-09 17:22:19,545 - SyntheticReviewGen - INFO - Progress: 175/300 reviews generated
+2025-12-09 17:22:19,546 - SyntheticReviewGen - INFO - Generating review rev_0176 (attempt 1)
+2025-12-09 17:22:48,842 - SyntheticReviewGen - INFO - Review rev_0176 accepted after 1 attempts!
+2025-12-09 17:22:48,842 - SyntheticReviewGen - INFO - Progress: 176/300 reviews generated
+2025-12-09 17:22:48,843 - SyntheticReviewGen - INFO - Generating review rev_0177 (attempt 1)
+2025-12-09 17:23:09,039 - SyntheticReviewGen - INFO - Review rev_0177 accepted after 1 attempts!
+2025-12-09 17:23:09,039 - SyntheticReviewGen - INFO - Progress: 177/300 reviews generated
+2025-12-09 17:23:09,040 - SyntheticReviewGen - INFO - Generating review rev_0178 (attempt 1)
+2025-12-09 17:23:43,634 - SyntheticReviewGen - INFO - Review rev_0178 accepted after 1 attempts!
+2025-12-09 17:23:43,634 - SyntheticReviewGen - INFO - Progress: 178/300 reviews generated
+2025-12-09 17:23:43,635 - SyntheticReviewGen - INFO - Generating review rev_0179 (attempt 1)
+2025-12-09 17:24:01,698 - SyntheticReviewGen - INFO - Review rev_0179 accepted after 1 attempts!
+2025-12-09 17:24:01,698 - SyntheticReviewGen - INFO - Progress: 179/300 reviews generated
+2025-12-09 17:24:01,699 - SyntheticReviewGen - INFO - Generating review rev_0180 (attempt 1)
+2025-12-09 17:24:36,099 - SyntheticReviewGen - INFO - Review rev_0180 accepted after 1 attempts!
+2025-12-09 17:24:36,100 - SyntheticReviewGen - INFO - Progress: 180/300 reviews generated
+2025-12-09 17:24:36,100 - SyntheticReviewGen - INFO - Generating review rev_0181 (attempt 1)
+2025-12-09 17:25:07,923 - SyntheticReviewGen - INFO - Review rev_0181 accepted after 1 attempts!
+2025-12-09 17:25:07,924 - SyntheticReviewGen - INFO - Progress: 181/300 reviews generated
+2025-12-09 17:25:07,924 - SyntheticReviewGen - INFO - Generating review rev_0182 (attempt 1)
+2025-12-09 17:25:42,268 - SyntheticReviewGen - INFO - Review rev_0182 accepted after 1 attempts!
+2025-12-09 17:25:42,269 - SyntheticReviewGen - INFO - Progress: 182/300 reviews generated
+2025-12-09 17:25:42,269 - SyntheticReviewGen - INFO - Generating review rev_0183 (attempt 1)
+2025-12-09 17:26:00,010 - SyntheticReviewGen - INFO - Review rev_0183 accepted after 1 attempts!
+2025-12-09 17:26:00,011 - SyntheticReviewGen - INFO - Progress: 183/300 reviews generated
+2025-12-09 17:26:00,011 - SyntheticReviewGen - INFO - Generating review rev_0184 (attempt 1)
+2025-12-09 17:26:30,354 - SyntheticReviewGen - INFO - Review rev_0184 accepted after 1 attempts!
+2025-12-09 17:26:30,354 - SyntheticReviewGen - INFO - Progress: 184/300 reviews generated
+2025-12-09 17:26:30,354 - SyntheticReviewGen - INFO - Generating review rev_0185 (attempt 1)
+2025-12-09 17:27:16,253 - SyntheticReviewGen - INFO - Review rev_0185 accepted after 1 attempts!
+2025-12-09 17:27:16,254 - SyntheticReviewGen - INFO - Progress: 185/300 reviews generated
+2025-12-09 17:27:16,254 - SyntheticReviewGen - INFO - Generating review rev_0186 (attempt 1)
+2025-12-09 17:28:03,135 - SyntheticReviewGen - INFO - Review rev_0186 accepted after 1 attempts!
+2025-12-09 17:28:03,135 - SyntheticReviewGen - INFO - Progress: 186/300 reviews generated
+2025-12-09 17:28:03,136 - SyntheticReviewGen - INFO - Generating review rev_0187 (attempt 1)
+2025-12-09 17:28:38,279 - SyntheticReviewGen - INFO - Review rev_0187 accepted after 1 attempts!
+2025-12-09 17:28:38,280 - SyntheticReviewGen - INFO - Progress: 187/300 reviews generated
+2025-12-09 17:28:38,280 - SyntheticReviewGen - INFO - Generating review rev_0188 (attempt 1)
+2025-12-09 17:29:09,323 - SyntheticReviewGen - INFO - Review rev_0188 accepted after 1 attempts!
+2025-12-09 17:29:09,323 - SyntheticReviewGen - INFO - Progress: 188/300 reviews generated
+2025-12-09 17:29:09,324 - SyntheticReviewGen - INFO - Generating review rev_0189 (attempt 1)
+2025-12-09 17:30:04,145 - SyntheticReviewGen - INFO - Review rev_0189 accepted after 1 attempts!
+2025-12-09 17:30:04,146 - SyntheticReviewGen - INFO - Progress: 189/300 reviews generated
+2025-12-09 17:30:04,146 - SyntheticReviewGen - INFO - Generating review rev_0190 (attempt 1)
+2025-12-09 17:30:37,402 - SyntheticReviewGen - INFO - Review rev_0190 accepted after 1 attempts!
+2025-12-09 17:30:37,402 - SyntheticReviewGen - INFO - Progress: 190/300 reviews generated
+2025-12-09 17:30:37,403 - SyntheticReviewGen - INFO - Generating review rev_0191 (attempt 1)
+2025-12-09 17:31:14,526 - SyntheticReviewGen - INFO - Review rev_0191 accepted after 1 attempts!
+2025-12-09 17:31:14,527 - SyntheticReviewGen - INFO - Progress: 191/300 reviews generated
+2025-12-09 17:31:14,527 - SyntheticReviewGen - INFO - Generating review rev_0192 (attempt 1)
+2025-12-09 17:31:48,726 - SyntheticReviewGen - INFO - Review rev_0192 accepted after 1 attempts!
+2025-12-09 17:31:48,727 - SyntheticReviewGen - INFO - Progress: 192/300 reviews generated
+2025-12-09 17:31:48,727 - SyntheticReviewGen - INFO - Generating review rev_0193 (attempt 1)
+2025-12-09 17:32:44,674 - SyntheticReviewGen - INFO - Review rev_0193 accepted after 1 attempts!
+2025-12-09 17:32:44,674 - SyntheticReviewGen - INFO - Progress: 193/300 reviews generated
+2025-12-09 17:32:44,674 - SyntheticReviewGen - INFO - Generating review rev_0194 (attempt 1)
+2025-12-09 17:33:06,565 - SyntheticReviewGen - INFO - Review rev_0194 accepted after 1 attempts!
+2025-12-09 17:33:06,566 - SyntheticReviewGen - INFO - Progress: 194/300 reviews generated
+2025-12-09 17:33:06,566 - SyntheticReviewGen - INFO - Generating review rev_0195 (attempt 1)
+2025-12-09 17:33:26,347 - SyntheticReviewGen - INFO - Review rev_0195 accepted after 1 attempts!
+2025-12-09 17:33:26,347 - SyntheticReviewGen - INFO - Progress: 195/300 reviews generated
+2025-12-09 17:33:26,348 - SyntheticReviewGen - INFO - Generating review rev_0196 (attempt 1)
+2025-12-09 17:33:50,001 - SyntheticReviewGen - INFO - Review rev_0196 accepted after 1 attempts!
+2025-12-09 17:33:50,001 - SyntheticReviewGen - INFO - Progress: 196/300 reviews generated
+2025-12-09 17:33:50,001 - SyntheticReviewGen - INFO - Generating review rev_0197 (attempt 1)
+2025-12-09 17:34:37,795 - SyntheticReviewGen - INFO - Review rev_0197 accepted after 1 attempts!
+2025-12-09 17:34:37,795 - SyntheticReviewGen - INFO - Progress: 197/300 reviews generated
+2025-12-09 17:34:37,796 - SyntheticReviewGen - INFO - Generating review rev_0198 (attempt 1)
+2025-12-09 17:35:08,296 - SyntheticReviewGen - INFO - Review rev_0198 accepted after 1 attempts!
+2025-12-09 17:35:08,296 - SyntheticReviewGen - INFO - Progress: 198/300 reviews generated
+2025-12-09 17:35:08,296 - SyntheticReviewGen - INFO - Generating review rev_0199 (attempt 1)
+2025-12-09 17:35:49,835 - SyntheticReviewGen - INFO - Review rev_0199 accepted after 1 attempts!
+2025-12-09 17:35:49,835 - SyntheticReviewGen - INFO - Progress: 199/300 reviews generated
+2025-12-09 17:35:49,835 - SyntheticReviewGen - INFO - Generating review rev_0200 (attempt 1)
+2025-12-09 17:36:18,846 - SyntheticReviewGen - INFO - Review rev_0200 accepted after 1 attempts!
+2025-12-09 17:36:18,846 - SyntheticReviewGen - INFO - Progress: 200/300 reviews generated
+2025-12-09 17:36:18,846 - SyntheticReviewGen - INFO - Generating review rev_0201 (attempt 1)
+2025-12-09 17:36:57,658 - SyntheticReviewGen - INFO - Review rev_0201 accepted after 1 attempts!
+2025-12-09 17:36:57,659 - SyntheticReviewGen - INFO - Progress: 201/300 reviews generated
+2025-12-09 17:36:57,659 - SyntheticReviewGen - INFO - Generating review rev_0202 (attempt 1)
+2025-12-09 17:37:32,807 - SyntheticReviewGen - INFO - Review rev_0202 accepted after 1 attempts!
+2025-12-09 17:37:32,808 - SyntheticReviewGen - INFO - Progress: 202/300 reviews generated
+2025-12-09 17:37:32,809 - SyntheticReviewGen - INFO - Generating review rev_0203 (attempt 1)
+2025-12-09 17:38:25,988 - SyntheticReviewGen - INFO - Review rev_0203 accepted after 1 attempts!
+2025-12-09 17:38:25,988 - SyntheticReviewGen - INFO - Progress: 203/300 reviews generated
+2025-12-09 17:38:25,989 - SyntheticReviewGen - INFO - Generating review rev_0204 (attempt 1)
+2025-12-09 17:38:57,295 - SyntheticReviewGen - INFO - Review rev_0204 accepted after 1 attempts!
+2025-12-09 17:38:57,295 - SyntheticReviewGen - INFO - Progress: 204/300 reviews generated
+2025-12-09 17:38:57,296 - SyntheticReviewGen - INFO - Generating review rev_0205 (attempt 1)
+2025-12-09 17:39:25,581 - SyntheticReviewGen - INFO - Review rev_0205 accepted after 1 attempts!
+2025-12-09 17:39:25,581 - SyntheticReviewGen - INFO - Progress: 205/300 reviews generated
+2025-12-09 17:39:25,582 - SyntheticReviewGen - INFO - Generating review rev_0206 (attempt 1)
+2025-12-09 17:40:16,493 - SyntheticReviewGen - INFO - Review rev_0206 accepted after 1 attempts!
+2025-12-09 17:40:16,494 - SyntheticReviewGen - INFO - Progress: 206/300 reviews generated
+2025-12-09 17:40:16,494 - SyntheticReviewGen - INFO - Generating review rev_0207 (attempt 1)
+2025-12-09 17:40:45,065 - SyntheticReviewGen - INFO - Review rev_0207 accepted after 1 attempts!
+2025-12-09 17:40:45,066 - SyntheticReviewGen - INFO - Progress: 207/300 reviews generated
+2025-12-09 17:40:45,066 - SyntheticReviewGen - INFO - Generating review rev_0208 (attempt 1)
+2025-12-09 17:41:06,697 - SyntheticReviewGen - INFO - Review rev_0208 accepted after 1 attempts!
+2025-12-09 17:41:06,697 - SyntheticReviewGen - INFO - Progress: 208/300 reviews generated
+2025-12-09 17:41:06,698 - SyntheticReviewGen - INFO - Generating review rev_0209 (attempt 1)
+2025-12-09 17:41:44,203 - SyntheticReviewGen - INFO - Review rev_0209 accepted after 1 attempts!
+2025-12-09 17:41:44,203 - SyntheticReviewGen - INFO - Progress: 209/300 reviews generated
+2025-12-09 17:41:44,204 - SyntheticReviewGen - INFO - Generating review rev_0210 (attempt 1)
+2025-12-09 17:42:19,811 - SyntheticReviewGen - INFO - Review rev_0210 accepted after 1 attempts!
+2025-12-09 17:42:19,812 - SyntheticReviewGen - INFO - Progress: 210/300 reviews generated
+2025-12-09 17:42:19,812 - SyntheticReviewGen - INFO - Generating review rev_0211 (attempt 1)
+2025-12-09 17:42:52,365 - SyntheticReviewGen - INFO - Review rev_0211 accepted after 1 attempts!
+2025-12-09 17:42:52,366 - SyntheticReviewGen - INFO - Progress: 211/300 reviews generated
+2025-12-09 17:42:52,366 - SyntheticReviewGen - INFO - Generating review rev_0212 (attempt 1)
+2025-12-09 17:43:19,729 - SyntheticReviewGen - INFO - Review rev_0212 accepted after 1 attempts!
+2025-12-09 17:43:19,730 - SyntheticReviewGen - INFO - Progress: 212/300 reviews generated
+2025-12-09 17:43:19,730 - SyntheticReviewGen - INFO - Generating review rev_0213 (attempt 1)
+2025-12-09 17:43:44,810 - SyntheticReviewGen - INFO - Review rev_0213 accepted after 1 attempts!
+2025-12-09 17:43:44,811 - SyntheticReviewGen - INFO - Progress: 213/300 reviews generated
+2025-12-09 17:43:44,811 - SyntheticReviewGen - INFO - Generating review rev_0214 (attempt 1)
+2025-12-09 17:44:19,232 - SyntheticReviewGen - INFO - Review rev_0214 accepted after 1 attempts!
+2025-12-09 17:44:19,232 - SyntheticReviewGen - INFO - Progress: 214/300 reviews generated
+2025-12-09 17:44:19,233 - SyntheticReviewGen - INFO - Generating review rev_0215 (attempt 1)
+2025-12-09 17:44:58,115 - SyntheticReviewGen - INFO - Review rev_0215 accepted after 1 attempts!
+2025-12-09 17:44:58,115 - SyntheticReviewGen - INFO - Progress: 215/300 reviews generated
+2025-12-09 17:44:58,116 - SyntheticReviewGen - INFO - Generating review rev_0216 (attempt 1)
+2025-12-09 17:45:39,800 - SyntheticReviewGen - INFO - Review rev_0216 accepted after 1 attempts!
+2025-12-09 17:45:39,801 - SyntheticReviewGen - INFO - Progress: 216/300 reviews generated
+2025-12-09 17:45:39,801 - SyntheticReviewGen - INFO - Generating review rev_0217 (attempt 1)
+2025-12-09 17:46:31,512 - SyntheticReviewGen - INFO - Review rev_0217 accepted after 1 attempts!
+2025-12-09 17:46:31,513 - SyntheticReviewGen - INFO - Progress: 217/300 reviews generated
+2025-12-09 17:46:31,513 - SyntheticReviewGen - INFO - Generating review rev_0218 (attempt 1)
+2025-12-09 17:47:01,024 - SyntheticReviewGen - INFO - Review rev_0218 accepted after 1 attempts!
+2025-12-09 17:47:01,025 - SyntheticReviewGen - INFO - Progress: 218/300 reviews generated
+2025-12-09 17:47:01,025 - SyntheticReviewGen - INFO - Generating review rev_0219 (attempt 1)
+2025-12-09 18:13:39,795 - SyntheticReviewGen - INFO - Review rev_0219 accepted after 1 attempts!
+2025-12-09 18:13:39,795 - SyntheticReviewGen - INFO - Progress: 219/300 reviews generated
+2025-12-09 18:13:39,795 - SyntheticReviewGen - INFO - Generating review rev_0220 (attempt 1)
+2025-12-09 18:14:05,009 - SyntheticReviewGen - INFO - Review rev_0220 accepted after 1 attempts!
+2025-12-09 18:14:05,010 - SyntheticReviewGen - INFO - Progress: 220/300 reviews generated
+2025-12-09 18:14:05,010 - SyntheticReviewGen - INFO - Generating review rev_0221 (attempt 1)
+2025-12-09 18:14:38,688 - SyntheticReviewGen - INFO - Review rev_0221 accepted after 1 attempts!
+2025-12-09 18:14:38,688 - SyntheticReviewGen - INFO - Progress: 221/300 reviews generated
+2025-12-09 18:14:38,689 - SyntheticReviewGen - INFO - Generating review rev_0222 (attempt 1)
+2025-12-09 18:15:06,865 - SyntheticReviewGen - INFO - Review rev_0222 accepted after 1 attempts!
+2025-12-09 18:15:06,865 - SyntheticReviewGen - INFO - Progress: 222/300 reviews generated
+2025-12-09 18:15:06,866 - SyntheticReviewGen - INFO - Generating review rev_0223 (attempt 1)
+2025-12-09 18:15:45,035 - SyntheticReviewGen - INFO - Review rev_0223 accepted after 1 attempts!
+2025-12-09 18:15:45,036 - SyntheticReviewGen - INFO - Progress: 223/300 reviews generated
+2025-12-09 18:15:45,036 - SyntheticReviewGen - INFO - Generating review rev_0224 (attempt 1)
+2025-12-09 18:16:18,038 - SyntheticReviewGen - INFO - Review rev_0224 accepted after 1 attempts!
+2025-12-09 18:16:18,038 - SyntheticReviewGen - INFO - Progress: 224/300 reviews generated
+2025-12-09 18:16:18,039 - SyntheticReviewGen - INFO - Generating review rev_0225 (attempt 1)
+2025-12-09 18:16:47,662 - SyntheticReviewGen - INFO - Review rev_0225 accepted after 1 attempts!
+2025-12-09 18:16:47,662 - SyntheticReviewGen - INFO - Progress: 225/300 reviews generated
+2025-12-09 18:16:47,663 - SyntheticReviewGen - INFO - Generating review rev_0226 (attempt 1)
+2025-12-09 18:17:52,431 - SyntheticReviewGen - INFO - Review rev_0226 accepted after 1 attempts!
+2025-12-09 18:17:52,431 - SyntheticReviewGen - INFO - Progress: 226/300 reviews generated
+2025-12-09 18:17:52,431 - SyntheticReviewGen - INFO - Generating review rev_0227 (attempt 1)
+2025-12-09 18:18:20,514 - SyntheticReviewGen - INFO - Review rev_0227 accepted after 1 attempts!
+2025-12-09 18:18:20,515 - SyntheticReviewGen - INFO - Progress: 227/300 reviews generated
+2025-12-09 18:18:20,515 - SyntheticReviewGen - INFO - Generating review rev_0228 (attempt 1)
+2025-12-09 18:19:05,082 - SyntheticReviewGen - INFO - Review rev_0228 accepted after 1 attempts!
+2025-12-09 18:19:05,082 - SyntheticReviewGen - INFO - Progress: 228/300 reviews generated
+2025-12-09 18:19:05,083 - SyntheticReviewGen - INFO - Generating review rev_0229 (attempt 1)
+2025-12-09 18:19:44,905 - SyntheticReviewGen - INFO - Review rev_0229 accepted after 1 attempts!
+2025-12-09 18:19:44,905 - SyntheticReviewGen - INFO - Progress: 229/300 reviews generated
+2025-12-09 18:19:44,906 - SyntheticReviewGen - INFO - Generating review rev_0230 (attempt 1)
+2025-12-09 18:20:14,467 - SyntheticReviewGen - INFO - Review rev_0230 accepted after 1 attempts!
+2025-12-09 18:20:14,467 - SyntheticReviewGen - INFO - Progress: 230/300 reviews generated
+2025-12-09 18:20:14,468 - SyntheticReviewGen - INFO - Generating review rev_0231 (attempt 1)
+2025-12-09 18:20:44,219 - SyntheticReviewGen - INFO - Review rev_0231 accepted after 1 attempts!
+2025-12-09 18:20:44,219 - SyntheticReviewGen - INFO - Progress: 231/300 reviews generated
+2025-12-09 18:20:44,220 - SyntheticReviewGen - INFO - Generating review rev_0232 (attempt 1)
+2025-12-09 18:21:31,505 - SyntheticReviewGen - INFO - Review rev_0232 accepted after 1 attempts!
+2025-12-09 18:21:31,505 - SyntheticReviewGen - INFO - Progress: 232/300 reviews generated
+2025-12-09 18:21:31,506 - SyntheticReviewGen - INFO - Generating review rev_0233 (attempt 1)
+2025-12-09 18:21:58,339 - SyntheticReviewGen - INFO - Review rev_0233 accepted after 1 attempts!
+2025-12-09 18:21:58,339 - SyntheticReviewGen - INFO - Progress: 233/300 reviews generated
+2025-12-09 18:21:58,340 - SyntheticReviewGen - INFO - Generating review rev_0234 (attempt 1)
+2025-12-09 18:22:35,914 - SyntheticReviewGen - INFO - Review rev_0234 accepted after 1 attempts!
+2025-12-09 18:22:35,915 - SyntheticReviewGen - INFO - Progress: 234/300 reviews generated
+2025-12-09 18:22:35,915 - SyntheticReviewGen - INFO - Generating review rev_0235 (attempt 1)
+2025-12-09 18:23:07,909 - SyntheticReviewGen - INFO - Review rev_0235 accepted after 1 attempts!
+2025-12-09 18:23:07,909 - SyntheticReviewGen - INFO - Progress: 235/300 reviews generated
+2025-12-09 18:23:07,910 - SyntheticReviewGen - INFO - Generating review rev_0236 (attempt 1)
+2025-12-09 18:24:03,208 - SyntheticReviewGen - INFO - Review rev_0236 accepted after 1 attempts!
+2025-12-09 18:24:03,208 - SyntheticReviewGen - INFO - Progress: 236/300 reviews generated
+2025-12-09 18:24:03,209 - SyntheticReviewGen - INFO - Generating review rev_0237 (attempt 1)
+2025-12-09 18:24:48,449 - SyntheticReviewGen - INFO - Review rev_0237 accepted after 1 attempts!
+2025-12-09 18:24:48,450 - SyntheticReviewGen - INFO - Progress: 237/300 reviews generated
+2025-12-09 18:24:48,450 - SyntheticReviewGen - INFO - Generating review rev_0238 (attempt 1)
+2025-12-09 18:25:28,178 - SyntheticReviewGen - INFO - Review rev_0238 accepted after 1 attempts!
+2025-12-09 18:25:28,178 - SyntheticReviewGen - INFO - Progress: 238/300 reviews generated
+2025-12-09 18:25:28,179 - SyntheticReviewGen - INFO - Generating review rev_0239 (attempt 1)
+2025-12-09 18:26:09,744 - SyntheticReviewGen - INFO - Review rev_0239 accepted after 1 attempts!
+2025-12-09 18:26:09,744 - SyntheticReviewGen - INFO - Progress: 239/300 reviews generated
+2025-12-09 18:26:09,744 - SyntheticReviewGen - INFO - Generating review rev_0240 (attempt 1)
+2025-12-09 18:26:40,128 - SyntheticReviewGen - INFO - Review rev_0240 accepted after 1 attempts!
+2025-12-09 18:26:40,128 - SyntheticReviewGen - INFO - Progress: 240/300 reviews generated
+2025-12-09 18:26:40,129 - SyntheticReviewGen - INFO - Generating review rev_0241 (attempt 1)
+2025-12-09 18:27:19,041 - SyntheticReviewGen - INFO - Review rev_0241 accepted after 1 attempts!
+2025-12-09 18:27:19,041 - SyntheticReviewGen - INFO - Progress: 241/300 reviews generated
+2025-12-09 18:27:19,041 - SyntheticReviewGen - INFO - Generating review rev_0242 (attempt 1)
+2025-12-09 18:27:48,232 - SyntheticReviewGen - INFO - Review rev_0242 accepted after 1 attempts!
+2025-12-09 18:27:48,232 - SyntheticReviewGen - INFO - Progress: 242/300 reviews generated
+2025-12-09 18:27:48,233 - SyntheticReviewGen - INFO - Generating review rev_0243 (attempt 1)
+2025-12-09 18:28:59,241 - SyntheticReviewGen - INFO - Review rev_0243 accepted after 1 attempts!
+2025-12-09 18:28:59,241 - SyntheticReviewGen - INFO - Progress: 243/300 reviews generated
+2025-12-09 18:28:59,242 - SyntheticReviewGen - INFO - Generating review rev_0244 (attempt 1)
+2025-12-09 18:29:28,497 - SyntheticReviewGen - INFO - Review rev_0244 accepted after 1 attempts!
+2025-12-09 18:29:28,497 - SyntheticReviewGen - INFO - Progress: 244/300 reviews generated
+2025-12-09 18:29:28,497 - SyntheticReviewGen - INFO - Generating review rev_0245 (attempt 1)
+2025-12-09 18:30:11,010 - SyntheticReviewGen - INFO - Review rev_0245 accepted after 1 attempts!
+2025-12-09 18:30:11,011 - SyntheticReviewGen - INFO - Progress: 245/300 reviews generated
+2025-12-09 18:30:11,011 - SyntheticReviewGen - INFO - Generating review rev_0246 (attempt 1)
+2025-12-09 18:31:00,818 - SyntheticReviewGen - INFO - Review rev_0246 accepted after 1 attempts!
+2025-12-09 18:31:00,818 - SyntheticReviewGen - INFO - Progress: 246/300 reviews generated
+2025-12-09 18:31:00,818 - SyntheticReviewGen - INFO - Generating review rev_0247 (attempt 1)
+2025-12-09 18:31:38,820 - SyntheticReviewGen - INFO - Review rev_0247 accepted after 1 attempts!
+2025-12-09 18:31:38,820 - SyntheticReviewGen - INFO - Progress: 247/300 reviews generated
+2025-12-09 18:31:38,821 - SyntheticReviewGen - INFO - Generating review rev_0248 (attempt 1)
+2025-12-09 18:32:37,702 - SyntheticReviewGen - INFO - Review rev_0248 accepted after 1 attempts!
+2025-12-09 18:32:37,702 - SyntheticReviewGen - INFO - Progress: 248/300 reviews generated
+2025-12-09 18:32:37,703 - SyntheticReviewGen - INFO - Generating review rev_0249 (attempt 1)
+2025-12-09 18:33:29,708 - SyntheticReviewGen - INFO - Review rev_0249 accepted after 1 attempts!
+2025-12-09 18:33:29,710 - SyntheticReviewGen - INFO - Progress: 249/300 reviews generated
+2025-12-09 18:33:29,721 - SyntheticReviewGen - INFO - Generating review rev_0250 (attempt 1)
+2025-12-09 18:34:24,878 - SyntheticReviewGen - INFO - Review rev_0250 accepted after 1 attempts!
+2025-12-09 18:34:24,879 - SyntheticReviewGen - INFO - Progress: 250/300 reviews generated
+2025-12-09 18:34:24,879 - SyntheticReviewGen - INFO - Generating review rev_0251 (attempt 1)
+2025-12-09 18:34:58,744 - SyntheticReviewGen - INFO - Review rev_0251 accepted after 1 attempts!
+2025-12-09 18:34:58,744 - SyntheticReviewGen - INFO - Progress: 251/300 reviews generated
+2025-12-09 18:34:58,745 - SyntheticReviewGen - INFO - Generating review rev_0252 (attempt 1)
+2025-12-09 18:35:37,790 - SyntheticReviewGen - INFO - Review rev_0252 accepted after 1 attempts!
+2025-12-09 18:35:37,790 - SyntheticReviewGen - INFO - Progress: 252/300 reviews generated
+2025-12-09 18:35:37,791 - SyntheticReviewGen - INFO - Generating review rev_0253 (attempt 1)
+2025-12-09 18:36:31,200 - SyntheticReviewGen - INFO - Review rev_0253 accepted after 1 attempts!
+2025-12-09 18:36:31,201 - SyntheticReviewGen - INFO - Progress: 253/300 reviews generated
+2025-12-09 18:36:31,201 - SyntheticReviewGen - INFO - Generating review rev_0254 (attempt 1)
+2025-12-09 18:37:20,048 - SyntheticReviewGen - INFO - Review rev_0254 accepted after 1 attempts!
+2025-12-09 18:37:20,049 - SyntheticReviewGen - INFO - Progress: 254/300 reviews generated
+2025-12-09 18:37:20,049 - SyntheticReviewGen - INFO - Generating review rev_0255 (attempt 1)
+2025-12-09 18:38:10,404 - SyntheticReviewGen - INFO - Review rev_0255 accepted after 1 attempts!
+2025-12-09 18:38:10,404 - SyntheticReviewGen - INFO - Progress: 255/300 reviews generated
+2025-12-09 18:38:10,405 - SyntheticReviewGen - INFO - Generating review rev_0256 (attempt 1)
+2025-12-09 18:38:54,251 - SyntheticReviewGen - INFO - Review rev_0256 accepted after 1 attempts!
+2025-12-09 18:38:54,252 - SyntheticReviewGen - INFO - Progress: 256/300 reviews generated
+2025-12-09 18:38:54,252 - SyntheticReviewGen - INFO - Generating review rev_0257 (attempt 1)
+2025-12-09 18:39:36,916 - SyntheticReviewGen - INFO - Review rev_0257 accepted after 1 attempts!
+2025-12-09 18:39:36,916 - SyntheticReviewGen - INFO - Progress: 257/300 reviews generated
+2025-12-09 18:39:36,917 - SyntheticReviewGen - INFO - Generating review rev_0258 (attempt 1)
+2025-12-09 18:40:12,749 - SyntheticReviewGen - INFO - Review rev_0258 accepted after 1 attempts!
+2025-12-09 18:40:12,750 - SyntheticReviewGen - INFO - Progress: 258/300 reviews generated
+2025-12-09 18:40:12,750 - SyntheticReviewGen - INFO - Generating review rev_0259 (attempt 1)
+2025-12-09 18:40:58,152 - SyntheticReviewGen - INFO - Review rev_0259 accepted after 1 attempts!
+2025-12-09 18:40:58,153 - SyntheticReviewGen - INFO - Progress: 259/300 reviews generated
+2025-12-09 18:40:58,153 - SyntheticReviewGen - INFO - Generating review rev_0260 (attempt 1)
+2025-12-09 18:41:44,852 - SyntheticReviewGen - INFO - Review rev_0260 accepted after 1 attempts!
+2025-12-09 18:41:44,853 - SyntheticReviewGen - INFO - Progress: 260/300 reviews generated
+2025-12-09 18:41:44,853 - SyntheticReviewGen - INFO - Generating review rev_0261 (attempt 1)
+2025-12-09 18:42:30,525 - SyntheticReviewGen - INFO - Review rev_0261 accepted after 1 attempts!
+2025-12-09 18:42:30,525 - SyntheticReviewGen - INFO - Progress: 261/300 reviews generated
+2025-12-09 18:42:30,526 - SyntheticReviewGen - INFO - Generating review rev_0262 (attempt 1)
+2025-12-09 18:43:14,112 - SyntheticReviewGen - INFO - Review rev_0262 accepted after 1 attempts!
+2025-12-09 18:43:14,112 - SyntheticReviewGen - INFO - Progress: 262/300 reviews generated
+2025-12-09 18:43:14,113 - SyntheticReviewGen - INFO - Generating review rev_0263 (attempt 1)
+2025-12-09 18:44:02,803 - SyntheticReviewGen - INFO - Review rev_0263 accepted after 1 attempts!
+2025-12-09 18:44:02,803 - SyntheticReviewGen - INFO - Progress: 263/300 reviews generated
+2025-12-09 18:44:02,804 - SyntheticReviewGen - INFO - Generating review rev_0264 (attempt 1)
+2025-12-09 18:44:43,971 - SyntheticReviewGen - INFO - Review rev_0264 accepted after 1 attempts!
+2025-12-09 18:44:43,972 - SyntheticReviewGen - INFO - Progress: 264/300 reviews generated
+2025-12-09 18:44:43,972 - SyntheticReviewGen - INFO - Generating review rev_0265 (attempt 1)
+2025-12-09 18:45:27,285 - SyntheticReviewGen - INFO - Review rev_0265 accepted after 1 attempts!
+2025-12-09 18:45:27,285 - SyntheticReviewGen - INFO - Progress: 265/300 reviews generated
+2025-12-09 18:45:27,285 - SyntheticReviewGen - INFO - Generating review rev_0266 (attempt 1)
+2025-12-09 18:46:19,612 - SyntheticReviewGen - INFO - Review rev_0266 accepted after 1 attempts!
+2025-12-09 18:46:19,612 - SyntheticReviewGen - INFO - Progress: 266/300 reviews generated
+2025-12-09 18:46:19,613 - SyntheticReviewGen - INFO - Generating review rev_0267 (attempt 1)
+2025-12-09 18:47:08,897 - SyntheticReviewGen - INFO - Review rev_0267 accepted after 1 attempts!
+2025-12-09 18:47:08,897 - SyntheticReviewGen - INFO - Progress: 267/300 reviews generated
+2025-12-09 18:47:08,898 - SyntheticReviewGen - INFO - Generating review rev_0268 (attempt 1)
+2025-12-09 18:47:58,870 - SyntheticReviewGen - INFO - Review rev_0268 accepted after 1 attempts!
+2025-12-09 18:47:58,870 - SyntheticReviewGen - INFO - Progress: 268/300 reviews generated
+2025-12-09 18:47:58,871 - SyntheticReviewGen - INFO - Generating review rev_0269 (attempt 1)
+2025-12-09 18:48:47,185 - SyntheticReviewGen - INFO - Review rev_0269 accepted after 1 attempts!
+2025-12-09 18:48:47,185 - SyntheticReviewGen - INFO - Progress: 269/300 reviews generated
+2025-12-09 18:48:47,186 - SyntheticReviewGen - INFO - Generating review rev_0270 (attempt 1)
+2025-12-09 18:49:24,899 - SyntheticReviewGen - INFO - Review rev_0270 accepted after 1 attempts!
+2025-12-09 18:49:24,899 - SyntheticReviewGen - INFO - Progress: 270/300 reviews generated
+2025-12-09 18:49:24,900 - SyntheticReviewGen - INFO - Generating review rev_0271 (attempt 1)
+2025-12-09 18:50:02,558 - SyntheticReviewGen - INFO - Review rev_0271 accepted after 1 attempts!
+2025-12-09 18:50:02,559 - SyntheticReviewGen - INFO - Progress: 271/300 reviews generated
+2025-12-09 18:50:02,559 - SyntheticReviewGen - INFO - Generating review rev_0272 (attempt 1)
+2025-12-09 18:50:55,381 - SyntheticReviewGen - INFO - Review rev_0272 accepted after 1 attempts!
+2025-12-09 18:50:55,382 - SyntheticReviewGen - INFO - Progress: 272/300 reviews generated
+2025-12-09 18:50:55,382 - SyntheticReviewGen - INFO - Generating review rev_0273 (attempt 1)
+2025-12-09 18:51:55,540 - SyntheticReviewGen - INFO - Review rev_0273 accepted after 1 attempts!
+2025-12-09 18:51:55,540 - SyntheticReviewGen - INFO - Progress: 273/300 reviews generated
+2025-12-09 18:51:55,541 - SyntheticReviewGen - INFO - Generating review rev_0274 (attempt 1)
+2025-12-09 18:53:01,403 - SyntheticReviewGen - INFO - Review rev_0274 accepted after 1 attempts!
+2025-12-09 18:53:01,403 - SyntheticReviewGen - INFO - Progress: 274/300 reviews generated
+2025-12-09 18:53:01,403 - SyntheticReviewGen - INFO - Generating review rev_0275 (attempt 1)
+2025-12-09 18:54:03,072 - SyntheticReviewGen - INFO - Review rev_0275 accepted after 1 attempts!
+2025-12-09 18:54:03,072 - SyntheticReviewGen - INFO - Progress: 275/300 reviews generated
+2025-12-09 18:54:03,073 - SyntheticReviewGen - INFO - Generating review rev_0276 (attempt 1)
+2025-12-09 18:54:52,947 - SyntheticReviewGen - INFO - Review rev_0276 accepted after 1 attempts!
+2025-12-09 18:54:52,947 - SyntheticReviewGen - INFO - Progress: 276/300 reviews generated
+2025-12-09 18:54:52,948 - SyntheticReviewGen - INFO - Generating review rev_0277 (attempt 1)
+2025-12-09 18:55:30,367 - SyntheticReviewGen - INFO - Review rev_0277 accepted after 1 attempts!
+2025-12-09 18:55:30,367 - SyntheticReviewGen - INFO - Progress: 277/300 reviews generated
+2025-12-09 18:55:30,368 - SyntheticReviewGen - INFO - Generating review rev_0278 (attempt 1)
+2025-12-09 18:56:09,727 - SyntheticReviewGen - INFO - Review rev_0278 accepted after 1 attempts!
+2025-12-09 18:56:09,727 - SyntheticReviewGen - INFO - Progress: 278/300 reviews generated
+2025-12-09 18:56:09,727 - SyntheticReviewGen - INFO - Generating review rev_0279 (attempt 1)
+2025-12-09 18:56:51,945 - SyntheticReviewGen - INFO - Review rev_0279 accepted after 1 attempts!
+2025-12-09 18:56:51,945 - SyntheticReviewGen - INFO - Progress: 279/300 reviews generated
+2025-12-09 18:56:51,946 - SyntheticReviewGen - INFO - Generating review rev_0280 (attempt 1)
+2025-12-09 18:57:46,129 - SyntheticReviewGen - INFO - Review rev_0280 accepted after 1 attempts!
+2025-12-09 18:57:46,129 - SyntheticReviewGen - INFO - Progress: 280/300 reviews generated
+2025-12-09 18:57:46,130 - SyntheticReviewGen - INFO - Generating review rev_0281 (attempt 1)
+2025-12-09 18:58:40,122 - SyntheticReviewGen - INFO - Review rev_0281 accepted after 1 attempts!
+2025-12-09 18:58:40,123 - SyntheticReviewGen - INFO - Progress: 281/300 reviews generated
+2025-12-09 18:58:40,123 - SyntheticReviewGen - INFO - Generating review rev_0282 (attempt 1)
+2025-12-09 18:59:30,062 - SyntheticReviewGen - INFO - Review rev_0282 accepted after 1 attempts!
+2025-12-09 18:59:30,062 - SyntheticReviewGen - INFO - Progress: 282/300 reviews generated
+2025-12-09 18:59:30,062 - SyntheticReviewGen - INFO - Generating review rev_0283 (attempt 1)
+2025-12-09 19:00:24,489 - SyntheticReviewGen - INFO - Review rev_0283 accepted after 1 attempts!
+2025-12-09 19:00:24,489 - SyntheticReviewGen - INFO - Progress: 283/300 reviews generated
+2025-12-09 19:00:24,489 - SyntheticReviewGen - INFO - Generating review rev_0284 (attempt 1)
+2025-12-09 19:01:05,365 - SyntheticReviewGen - INFO - Review rev_0284 accepted after 1 attempts!
+2025-12-09 19:01:05,365 - SyntheticReviewGen - INFO - Progress: 284/300 reviews generated
+2025-12-09 19:01:05,366 - SyntheticReviewGen - INFO - Generating review rev_0285 (attempt 1)
+2025-12-09 19:02:04,012 - SyntheticReviewGen - INFO - Review rev_0285 accepted after 1 attempts!
+2025-12-09 19:02:04,013 - SyntheticReviewGen - INFO - Progress: 285/300 reviews generated
+2025-12-09 19:02:04,013 - SyntheticReviewGen - INFO - Generating review rev_0286 (attempt 1)
+2025-12-09 19:03:21,083 - SyntheticReviewGen - INFO - Review rev_0286 accepted after 1 attempts!
+2025-12-09 19:03:21,083 - SyntheticReviewGen - INFO - Progress: 286/300 reviews generated
+2025-12-09 19:03:21,084 - SyntheticReviewGen - INFO - Generating review rev_0287 (attempt 1)
+2025-12-09 19:04:02,390 - SyntheticReviewGen - INFO - Review rev_0287 accepted after 1 attempts!
+2025-12-09 19:04:02,391 - SyntheticReviewGen - INFO - Progress: 287/300 reviews generated
+2025-12-09 19:04:02,391 - SyntheticReviewGen - INFO - Generating review rev_0288 (attempt 1)
+2025-12-09 19:04:50,571 - SyntheticReviewGen - INFO - Review rev_0288 accepted after 1 attempts!
+2025-12-09 19:04:50,572 - SyntheticReviewGen - INFO - Progress: 288/300 reviews generated
+2025-12-09 19:04:50,572 - SyntheticReviewGen - INFO - Generating review rev_0289 (attempt 1)
+2025-12-09 19:05:47,693 - SyntheticReviewGen - INFO - Review rev_0289 accepted after 1 attempts!
+2025-12-09 19:05:47,694 - SyntheticReviewGen - INFO - Progress: 289/300 reviews generated
+2025-12-09 19:05:47,694 - SyntheticReviewGen - INFO - Generating review rev_0290 (attempt 1)
+2025-12-09 19:06:39,992 - SyntheticReviewGen - INFO - Review rev_0290 accepted after 1 attempts!
+2025-12-09 19:06:39,993 - SyntheticReviewGen - INFO - Progress: 290/300 reviews generated
+2025-12-09 19:06:39,993 - SyntheticReviewGen - INFO - Generating review rev_0291 (attempt 1)
+2025-12-09 19:07:38,412 - SyntheticReviewGen - INFO - Review rev_0291 accepted after 1 attempts!
+2025-12-09 19:07:38,412 - SyntheticReviewGen - INFO - Progress: 291/300 reviews generated
+2025-12-09 19:07:38,413 - SyntheticReviewGen - INFO - Generating review rev_0292 (attempt 1)
+2025-12-09 19:08:48,370 - SyntheticReviewGen - INFO - Review rev_0292 accepted after 1 attempts!
+2025-12-09 19:08:48,371 - SyntheticReviewGen - INFO - Progress: 292/300 reviews generated
+2025-12-09 19:08:48,371 - SyntheticReviewGen - INFO - Generating review rev_0293 (attempt 1)
+2025-12-09 19:09:36,571 - SyntheticReviewGen - INFO - Review rev_0293 accepted after 1 attempts!
+2025-12-09 19:09:36,571 - SyntheticReviewGen - INFO - Progress: 293/300 reviews generated
+2025-12-09 19:09:36,571 - SyntheticReviewGen - INFO - Generating review rev_0294 (attempt 1)
+2025-12-09 19:10:50,749 - SyntheticReviewGen - INFO - Review rev_0294 accepted after 1 attempts!
+2025-12-09 19:10:50,749 - SyntheticReviewGen - INFO - Progress: 294/300 reviews generated
+2025-12-09 19:10:50,749 - SyntheticReviewGen - INFO - Generating review rev_0295 (attempt 1)
+2025-12-09 19:11:56,079 - SyntheticReviewGen - INFO - Review rev_0295 accepted after 1 attempts!
+2025-12-09 19:11:56,080 - SyntheticReviewGen - INFO - Progress: 295/300 reviews generated
+2025-12-09 19:11:56,080 - SyntheticReviewGen - INFO - Generating review rev_0296 (attempt 1)
+2025-12-09 19:12:51,271 - SyntheticReviewGen - INFO - Review rev_0296 accepted after 1 attempts!
+2025-12-09 19:12:51,271 - SyntheticReviewGen - INFO - Progress: 296/300 reviews generated
+2025-12-09 19:12:51,272 - SyntheticReviewGen - INFO - Generating review rev_0297 (attempt 1)
+2025-12-09 19:13:34,288 - SyntheticReviewGen - INFO - Review rev_0297 accepted after 1 attempts!
+2025-12-09 19:13:34,288 - SyntheticReviewGen - INFO - Progress: 297/300 reviews generated
+2025-12-09 19:13:34,289 - SyntheticReviewGen - INFO - Generating review rev_0298 (attempt 1)
+2025-12-09 19:14:16,628 - SyntheticReviewGen - INFO - Review rev_0298 accepted after 1 attempts!
+2025-12-09 19:14:16,628 - SyntheticReviewGen - INFO - Progress: 298/300 reviews generated
+2025-12-09 19:14:16,629 - SyntheticReviewGen - INFO - Generating review rev_0299 (attempt 1)
+2025-12-09 19:15:09,518 - SyntheticReviewGen - INFO - Review rev_0299 accepted after 1 attempts!
+2025-12-09 19:15:09,519 - SyntheticReviewGen - INFO - Progress: 299/300 reviews generated
+2025-12-09 19:15:09,519 - SyntheticReviewGen - INFO - Generating review rev_0300 (attempt 1)
+2025-12-09 19:16:08,315 - SyntheticReviewGen - INFO - Review rev_0300 accepted after 1 attempts!
+2025-12-09 19:16:08,315 - SyntheticReviewGen - INFO - Progress: 300/300 reviews generated
+2025-12-09 19:16:08,316 - SyntheticReviewGen - INFO - Dataset generation complete: 300 reviews accepted out of 300 attempts

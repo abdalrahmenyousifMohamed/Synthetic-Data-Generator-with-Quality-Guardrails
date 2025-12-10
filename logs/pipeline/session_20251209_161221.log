@@ -1,0 +1,26 @@
+2025-12-09 16:12:25,510 - SyntheticReviewGen - INFO - Building workflow WITHOUT LLM Judge (statistical checks only)
+2025-12-09 16:12:25,525 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-09 16:12:25,527 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 16:12:38,832 - SyntheticReviewGen - INFO - Review rev_0001 accepted after 1 attempts!
+2025-12-09 16:12:38,832 - SyntheticReviewGen - INFO - Progress: 1/300 reviews generated
+2025-12-09 16:12:38,833 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 16:12:48,576 - SyntheticReviewGen - INFO - Review rev_0002 accepted after 1 attempts!
+2025-12-09 16:12:48,577 - SyntheticReviewGen - INFO - Progress: 2/300 reviews generated
+2025-12-09 16:12:48,577 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-09 16:12:53,199 - SyntheticReviewGen - INFO - Review rev_0003 accepted after 1 attempts!
+2025-12-09 16:12:53,200 - SyntheticReviewGen - INFO - Progress: 3/300 reviews generated
+2025-12-09 16:12:53,200 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:13:12,784 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:13:12,785 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:13:56,317 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:13:56,318 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:14:12,516 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:14:12,518 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:14:33,491 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:14:33,492 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:15:15,888 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:15:15,889 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:15:20,241 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:15:20,241 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 16:15:57,689 - SyntheticReviewGen - WARNING - Review rev_0004 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 16:15:57,690 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)

@@ -1,0 +1,10 @@
+2025-12-09 12:26:05,311 - SyntheticReviewGen - INFO - Starting dataset generation: 2 samples
+2025-12-09 12:26:05,312 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 12:26:08,592 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 12:26:26,290 - SyntheticReviewGen - INFO - Review rev_0001 accepted!
+2025-12-09 12:26:26,291 - SyntheticReviewGen - INFO - Progress: 1/2 reviews generated
+2025-12-09 12:26:26,292 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 12:26:39,469 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0002
+2025-12-09 12:26:56,459 - SyntheticReviewGen - INFO - Review rev_0002 accepted!
+2025-12-09 12:26:56,460 - SyntheticReviewGen - INFO - Progress: 2/2 reviews generated
+2025-12-09 12:26:56,460 - SyntheticReviewGen - INFO - Dataset generation complete: 2 reviews accepted out of 2 attempts

@@ -1,0 +1,11 @@
+2025-12-09 00:32:02,256 - SyntheticReviewGen - INFO - Starting dataset generation: 10 samples
+2025-12-09 00:32:02,258 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 00:32:05,165 - SyntheticReviewGen - INFO - ✓ Generated review rev_0001 (attempt 1)
+2025-12-09 00:32:05,166 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:32:05,166 - SyntheticReviewGen - INFO -   Review Text: Okay, so we've been kicking the tires on this "Cross-Platform Exuding Adapter" thing for about a month now, and honestly? It's exceeded expectations. I was initially pretty skeptical; another tool promising cross-platform nirvana always feels like an attack on my sanity. The UI? Surprisingly intuiti...
+2025-12-09 00:32:05,166 - SyntheticReviewGen - INFO -   Length: 145 words, Time: 2.91s, Cost: $0.0000
+2025-12-09 00:32:05,300 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:32:05,300 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0001
+2025-12-09 00:32:05,300 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:32:05,300 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Okay, so we've been kicking the tires on this "Cross-Platform Exuding Adapter" thing for about a month now, and honestly? It's exceeded expectations. I was initially pretty skeptical; another tool pro...
+2025-12-09 00:32:05,300 - SyntheticReviewGen - INFO - Word Count: 145, Unique Words: 118

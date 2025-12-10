@@ -1,0 +1,6 @@
+{"timestamp": "2025-12-09T00:17:38.054026", "review_id": "rev_0001", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.00)"]}
+{"timestamp": "2025-12-09T00:18:05.764396", "review_id": "rev_0001", "attempt": 2, "reasons": ["Unrealistic patterns detected"]}
+{"timestamp": "2025-12-09T00:18:29.586538", "review_id": "rev_0001", "attempt": 3, "reasons": ["Sentiment-rating mismatch (alignment: 0.00)"]}
+{"timestamp": "2025-12-09T00:20:49.655731", "review_id": "rev_0004", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.00)"]}
+{"timestamp": "2025-12-09T00:21:19.957702", "review_id": "rev_0004", "attempt": 2, "reasons": ["Unrealistic patterns detected"]}
+{"timestamp": "2025-12-09T00:21:38.153320", "review_id": "rev_0004", "attempt": 3, "reasons": ["Sentiment-rating mismatch (alignment: 0.00)"]}

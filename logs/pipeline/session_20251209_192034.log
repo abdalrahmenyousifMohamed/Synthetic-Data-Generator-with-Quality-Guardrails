@@ -1,0 +1,19 @@
+2025-12-09 19:20:39,239 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-09 19:20:39,250 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-09 19:20:39,252 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 19:21:06,654 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 19:21:27,807 - SyntheticReviewGen - INFO - Review rev_0001 accepted after 1 attempts!
+2025-12-09 19:21:27,808 - SyntheticReviewGen - INFO - Progress: 1/300 reviews generated
+2025-12-09 19:21:27,810 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 19:21:44,692 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0002
+2025-12-09 19:22:03,283 - SyntheticReviewGen - INFO - Review rev_0002 accepted after 1 attempts!
+2025-12-09 19:22:03,284 - SyntheticReviewGen - INFO - Progress: 2/300 reviews generated
+2025-12-09 19:22:03,284 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-09 19:22:06,623 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0003
+2025-12-09 19:22:28,071 - SyntheticReviewGen - INFO - Review rev_0003 accepted after 1 attempts!
+2025-12-09 19:22:28,071 - SyntheticReviewGen - INFO - Progress: 3/300 reviews generated
+2025-12-09 19:22:28,072 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 19:22:47,743 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0004
+2025-12-09 19:23:06,370 - SyntheticReviewGen - INFO - Review rev_0004 accepted after 1 attempts!
+2025-12-09 19:23:06,370 - SyntheticReviewGen - INFO - Progress: 4/300 reviews generated
+2025-12-09 19:23:06,371 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)

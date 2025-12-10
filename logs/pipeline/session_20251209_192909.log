@@ -1,0 +1,4 @@
+2025-12-09 19:29:14,209 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-09 19:29:14,222 - SyntheticReviewGen - INFO - Starting dataset generation: 100 samples
+2025-12-09 19:29:14,223 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 19:29:36,514 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001

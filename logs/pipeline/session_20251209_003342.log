@@ -1,0 +1,264 @@
+2025-12-09 00:33:47,366 - SyntheticReviewGen - INFO - Starting dataset generation: 10 samples
+2025-12-09 00:33:47,368 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 00:33:50,247 - SyntheticReviewGen - INFO - ✓ Generated review rev_0001 (attempt 1)
+2025-12-09 00:33:50,247 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 1/5, Persona: enterprise_admin
+2025-12-09 00:33:50,247 - SyntheticReviewGen - INFO -   Review Text: As a leisure centre manager for a large enterprise, I was keen to find a multi-channeled tool with context-sensitive capabilities and an open architecture. During our evaluation period, this software was, frankly, a disaster.
+
+Ease of use? Forget it. The UI feels like something designed at the turn ...
+2025-12-09 00:33:50,247 - SyntheticReviewGen - INFO -   Length: 175 words, Time: 2.88s, Cost: $0.0000
+2025-12-09 00:33:50,382 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0001
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - Rating: 1/5
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - Review Text (first 200 chars): As a leisure centre manager for a large enterprise, I was keen to find a multi-channeled tool with context-sensitive capabilities and an open architecture. During our evaluation period, this software ...
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - Word Count: 175, Unique Words: 131
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - Sentiment Analysis: NEGATIVE (confidence: 0.998), Expected: NEGATIVE, Alignment Score: 0.998 (threshold: 0.7)
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 1.000 (threshold: 0.500)
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.294, exclamation_ratio=0.000, found_phrases=[]
+2025-12-09 00:33:50,383 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:33:50,384 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 00:34:07,271 - SyntheticReviewGen - INFO - Review rev_0001 accepted!
+2025-12-09 00:34:07,273 - SyntheticReviewGen - INFO - Progress: 1/10 reviews generated
+2025-12-09 00:34:07,274 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 00:34:12,409 - SyntheticReviewGen - INFO - ✓ Generated review rev_0002 (attempt 1)
+2025-12-09 00:34:12,410 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 4/5, Persona: enterprise_admin
+2025-12-09 00:34:12,410 - SyntheticReviewGen - INFO -   Review Text: Alright, so we've been using [Tool Name] here at [Agency Name] for about six months now, primarily for managing our open-source methodical algorithm deployments across different client projects. Overall, it's been a pretty solid experience – definitely earning a 4 out of 5 from me.
+
+Let's talk prici...
+2025-12-09 00:34:12,410 - SyntheticReviewGen - INFO -   Length: 446 words, Time: 5.14s, Cost: $0.0000
+2025-12-09 00:34:12,495 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0002
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - Rating: 4/5
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Alright, so we've been using [Tool Name] here at [Agency Name] for about six months now, primarily for managing our open-source methodical algorithm deployments across different client projects. Overa...
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - Word Count: 446, Unique Words: 286
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 0.992), Expected: POSITIVE, Alignment Score: 0.992 (threshold: 0.7)
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.997 (threshold: 0.500)
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.276, exclamation_ratio=0.000, found_phrases=[]
+2025-12-09 00:34:12,496 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:34:12,497 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0002
+2025-12-09 00:34:29,235 - SyntheticReviewGen - INFO - Review rev_0002 accepted!
+2025-12-09 00:34:29,236 - SyntheticReviewGen - INFO - Progress: 2/10 reviews generated
+2025-12-09 00:34:29,237 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 1)
+2025-12-09 00:34:29,328 - SyntheticReviewGen - WARNING - Review rev_0003 rejected (attempt 1): Generation failed: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_requests_per_model"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 10
+}
+, retry_delay {
+  seconds: 30
+}
+], Empty review text generated
+2025-12-09 00:34:29,329 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 2)
+2025-12-09 00:34:29,436 - SyntheticReviewGen - WARNING - Review rev_0003 rejected (attempt 2): Generation failed: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_requests_per_model"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 10
+}
+, retry_delay {
+  seconds: 30
+}
+], Empty review text generated
+2025-12-09 00:34:29,437 - SyntheticReviewGen - INFO - Generating review rev_0003 (attempt 3)
+2025-12-09 00:34:44,597 - SyntheticReviewGen - INFO - ✓ Generated review rev_0003 (attempt 3)
+2025-12-09 00:34:44,598 - SyntheticReviewGen - INFO -   Model: openai:gpt-4, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:34:44,598 - SyntheticReviewGen - INFO -   Review Text: Alright gang, brace yourselves for some love talk coz I'm about to shower heaps of praise on this devilishly slick piece of technology that has partly been responsible for my team's success. I'm talking about none other than the Reactive Neutral GUI design tool. Yeah, I know, the name sounds like so...
+2025-12-09 00:34:44,598 - SyntheticReviewGen - INFO -   Length: 317 words, Time: 15.16s, Cost: $0.0342
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0003
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Alright gang, brace yourselves for some love talk coz I'm about to shower heaps of praise on this devilishly slick piece of technology that has partly been responsible for my team's success. I'm talki...
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - Word Count: 317, Unique Words: 226
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 0.991), Expected: POSITIVE, Alignment Score: 0.991 (threshold: 0.7)
+2025-12-09 00:34:44,926 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.996 (threshold: 0.500)
+2025-12-09 00:34:44,927 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.053, exclamation_ratio=0.006, found_phrases=[]
+2025-12-09 00:34:44,927 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:34:44,927 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0003
+2025-12-09 00:35:01,974 - SyntheticReviewGen - INFO - Review rev_0003 accepted!
+2025-12-09 00:35:01,975 - SyntheticReviewGen - INFO - Progress: 3/10 reviews generated
+2025-12-09 00:35:01,976 - SyntheticReviewGen - INFO - Generating review rev_0004 (attempt 1)
+2025-12-09 00:35:13,475 - SyntheticReviewGen - INFO - ✓ Generated review rev_0004 (attempt 1)
+2025-12-09 00:35:13,477 - SyntheticReviewGen - INFO -   Model: openai:gpt-4, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:35:13,477 - SyntheticReviewGen - INFO -   Review Text: Alright folks, let's break down our experience with this developer tools suite, which we've been using for a variety of client projects. To set the stage, we're a large startup running a highly dynamic team. Natural groupware and ease of use, let me tell you, aren't just fancy words here. They're th...
+2025-12-09 00:35:13,477 - SyntheticReviewGen - INFO -   Length: 227 words, Time: 11.50s, Cost: $0.0260
+2025-12-09 00:35:13,617 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:35:13,617 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0004
+2025-12-09 00:35:13,617 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:35:13,618 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Alright folks, let's break down our experience with this developer tools suite, which we've been using for a variety of client projects. To set the stage, we're a large startup running a highly dynami...
+2025-12-09 00:35:13,618 - SyntheticReviewGen - INFO - Word Count: 227, Unique Words: 176
+2025-12-09 00:35:13,618 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 0.992), Expected: POSITIVE, Alignment Score: 0.992 (threshold: 0.7)
+2025-12-09 00:35:13,618 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.979 (threshold: 0.500)
+2025-12-09 00:35:13,618 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.000, exclamation_ratio=0.000, found_phrases=[]
+2025-12-09 00:35:13,618 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:35:13,619 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0004
+2025-12-09 00:35:36,823 - SyntheticReviewGen - INFO - Review rev_0004 accepted!
+2025-12-09 00:35:36,824 - SyntheticReviewGen - INFO - Progress: 4/10 reviews generated
+2025-12-09 00:35:36,825 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 1)
+2025-12-09 00:35:39,998 - SyntheticReviewGen - INFO - ✓ Generated review rev_0005 (attempt 1)
+2025-12-09 00:35:39,998 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:35:39,998 - SyntheticReviewGen - INFO -   Review Text: Okay, so, look, I *never* write reviews, but after the headache I had with the previous key management system, I *had* to say something about this one. Five stars, absolutely. We're a mid-sized legal firm, so security isn't just important, it's, you know, *required*. We moved to a public-key eco-cen...
+2025-12-09 00:35:39,998 - SyntheticReviewGen - INFO -   Length: 265 words, Time: 3.17s, Cost: $0.0000
+2025-12-09 00:35:40,073 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:35:40,073 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0005
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Okay, so, look, I *never* write reviews, but after the headache I had with the previous key management system, I *had* to say something about this one. Five stars, absolutely. We're a mid-sized legal ...
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - Word Count: 265, Unique Words: 185
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - Sentiment Analysis: NEGATIVE (confidence: 0.993), Expected: POSITIVE, Alignment Score: 0.007 (threshold: 0.7)
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.979 (threshold: 0.500)
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.250, exclamation_ratio=0.004, found_phrases=[]
+2025-12-09 00:35:40,074 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:35:40,075 - SyntheticReviewGen - WARNING - Review rev_0005 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.01, min required: 0.7, sentiment: NEGATIVE, rating: 5), Unrealistic patterns detected
+2025-12-09 00:35:40,075 - SyntheticReviewGen - INFO - Generating review rev_0005 (attempt 2)
+2025-12-09 00:35:44,402 - SyntheticReviewGen - INFO - ✓ Generated review rev_0005 (attempt 2)
+2025-12-09 00:35:44,403 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:35:44,403 - SyntheticReviewGen - INFO -   Review Text: Okay, here's my take after spending a good amount of time with this tool on my personal projects. I'm giving it a 5-star rating, but honestly, there’s a slight pang of disappointment I can't quite shake off. Let me explain.
+
+First off, the ease of use is phenomenal. I've messed around with similar t...
+2025-12-09 00:35:44,403 - SyntheticReviewGen - INFO -   Length: 408 words, Time: 4.33s, Cost: $0.0000
+2025-12-09 00:35:44,503 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:35:44,503 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0005
+2025-12-09 00:35:44,503 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:35:44,504 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Okay, here's my take after spending a good amount of time with this tool on my personal projects. I'm giving it a 5-star rating, but honestly, there’s a slight pang of disappointment I can't quite sha...
+2025-12-09 00:35:44,504 - SyntheticReviewGen - INFO - Word Count: 408, Unique Words: 261
+2025-12-09 00:35:44,504 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 0.927), Expected: POSITIVE, Alignment Score: 0.927 (threshold: 0.7)
+2025-12-09 00:35:44,504 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.978 (threshold: 0.500)
+2025-12-09 00:35:44,504 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.179, exclamation_ratio=0.002, found_phrases=[]
+2025-12-09 00:35:44,504 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:35:44,505 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0005
+2025-12-09 00:36:03,141 - SyntheticReviewGen - INFO - Review rev_0005 accepted!
+2025-12-09 00:36:03,142 - SyntheticReviewGen - INFO - Progress: 5/10 reviews generated
+2025-12-09 00:36:03,143 - SyntheticReviewGen - INFO - Generating review rev_0006 (attempt 1)
+2025-12-09 00:36:06,843 - SyntheticReviewGen - INFO - ✓ Generated review rev_0006 (attempt 1)
+2025-12-09 00:36:06,843 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 2/5, Persona: enterprise_admin
+2025-12-09 00:36:06,844 - SyntheticReviewGen - INFO -   Review Text: As an IT administrator for a large museum system, I recently oversaw a pilot program to evaluate [Tool Name] for potential use in our digital archiving and interactive exhibit development projects. Our primary goal was persevering next generation interface. We needed a tool that could streamline the...
+2025-12-09 00:36:06,844 - SyntheticReviewGen - INFO -   Length: 350 words, Time: 3.70s, Cost: $0.0000
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0006
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - Rating: 2/5
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - Review Text (first 200 chars): As an IT administrator for a large museum system, I recently oversaw a pilot program to evaluate [Tool Name] for potential use in our digital archiving and interactive exhibit development projects. Ou...
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - Word Count: 350, Unique Words: 228
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - Sentiment Analysis: NEGATIVE (confidence: 0.998), Expected: NEGATIVE, Alignment Score: 0.998 (threshold: 0.7)
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.975 (threshold: 0.500)
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.381, exclamation_ratio=0.000, found_phrases=[]
+2025-12-09 00:36:07,070 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:36:07,071 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0006
+2025-12-09 00:36:26,278 - SyntheticReviewGen - INFO - Review rev_0006 accepted!
+2025-12-09 00:36:26,279 - SyntheticReviewGen - INFO - Progress: 6/10 reviews generated
+2025-12-09 00:36:26,279 - SyntheticReviewGen - INFO - Generating review rev_0007 (attempt 1)
+2025-12-09 00:36:26,382 - SyntheticReviewGen - WARNING - Review rev_0007 rejected (attempt 1): Generation failed: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_requests_per_model"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 10
+}
+, retry_delay {
+  seconds: 33
+}
+], Empty review text generated
+2025-12-09 00:36:26,384 - SyntheticReviewGen - INFO - Generating review rev_0007 (attempt 2)
+2025-12-09 00:36:38,256 - SyntheticReviewGen - INFO - ✓ Generated review rev_0007 (attempt 2)
+2025-12-09 00:36:38,257 - SyntheticReviewGen - INFO -   Model: openai:gpt-4, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:36:38,257 - SyntheticReviewGen - INFO -   Review Text: Well, this is quite the robust little number isn't it? I've been fiddling around with these developer-tools on some personal projects, and let me tell ya, it's like watching a perfectly timed ballet for engineers. Each task flows into the next, not a step out of line. Real time-saving stuff. 
+
+The s...
+2025-12-09 00:36:38,257 - SyntheticReviewGen - INFO -   Length: 213 words, Time: 11.87s, Cost: $0.0260
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0007
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Well, this is quite the robust little number isn't it? I've been fiddling around with these developer-tools on some personal projects, and let me tell ya, it's like watching a perfectly timed ballet f...
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - Word Count: 213, Unique Words: 153
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 0.997), Expected: POSITIVE, Alignment Score: 0.997 (threshold: 0.7)
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.975 (threshold: 0.500)
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.188, exclamation_ratio=0.000, found_phrases=[]
+2025-12-09 00:36:38,364 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:36:38,365 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0007
+2025-12-09 00:36:59,783 - SyntheticReviewGen - INFO - Review rev_0007 accepted!
+2025-12-09 00:36:59,784 - SyntheticReviewGen - INFO - Progress: 7/10 reviews generated
+2025-12-09 00:36:59,785 - SyntheticReviewGen - INFO - Generating review rev_0008 (attempt 1)
+2025-12-09 00:37:04,276 - SyntheticReviewGen - INFO - ✓ Generated review rev_0008 (attempt 1)
+2025-12-09 00:37:04,277 - SyntheticReviewGen - INFO -   Model: google:gemini-2.0-flash-exp, Rating: 4/5, Persona: enterprise_admin
+2025-12-09 00:37:04,277 - SyntheticReviewGen - INFO -   Review Text: Okay, so we wrapped up our evaluation period with this tool last week, and overall, I'm pretty happy. As the IT admin for a civil engineering consulting firm, I'm always on the hunt for solutions that streamline workflows, especially when it comes to disintermediating some of the clunky processes we...
+2025-12-09 00:37:04,277 - SyntheticReviewGen - INFO -   Length: 373 words, Time: 4.49s, Cost: $0.0000
+2025-12-09 00:37:04,363 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0008
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - Rating: 4/5
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Okay, so we wrapped up our evaluation period with this tool last week, and overall, I'm pretty happy. As the IT admin for a civil engineering consulting firm, I'm always on the hunt for solutions that...
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - Word Count: 373, Unique Words: 247
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 1.000), Expected: POSITIVE, Alignment Score: 1.000 (threshold: 0.7)
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.975 (threshold: 0.500)
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.105, exclamation_ratio=0.005, found_phrases=[]
+2025-12-09 00:37:04,364 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:37:04,365 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0008
+2025-12-09 00:37:19,831 - SyntheticReviewGen - INFO - Review rev_0008 accepted!
+2025-12-09 00:37:19,831 - SyntheticReviewGen - INFO - Progress: 8/10 reviews generated
+2025-12-09 00:37:19,832 - SyntheticReviewGen - INFO - Generating review rev_0009 (attempt 1)
+2025-12-09 00:37:37,444 - SyntheticReviewGen - INFO - ✓ Generated review rev_0009 (attempt 1)
+2025-12-09 00:37:37,444 - SyntheticReviewGen - INFO -   Model: openai:gpt-4, Rating: 5/5, Persona: enterprise_admin
+2025-12-09 00:37:37,444 - SyntheticReviewGen - INFO -   Review Text: Well, let me preface this by saying I don't write reviews often. But once in a blue moon, a tool comes along that makes my job so much easier I have to sing its praises from the metaphorical rooftop.
+
+Enter Devolved Homogeneous Instruction Set. Let's start with its integrations. As an IT admin in a ...
+2025-12-09 00:37:37,445 - SyntheticReviewGen - INFO -   Length: 385 words, Time: 17.61s, Cost: $0.0383
+2025-12-09 00:37:37,608 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0009
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Rating: 5/5
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Review Text (first 200 chars): Well, let me preface this by saying I don't write reviews often. But once in a blue moon, a tool comes along that makes my job so much easier I have to sing its praises from the metaphorical rooftop.
+...
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Word Count: 385, Unique Words: 246
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Sentiment Analysis: POSITIVE (confidence: 0.990), Expected: POSITIVE, Alignment Score: 0.990 (threshold: 0.7)
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.967 (threshold: 0.500)
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.286, exclamation_ratio=0.003, found_phrases=[]
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:37:37,609 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0009
+2025-12-09 00:37:52,808 - SyntheticReviewGen - INFO - Review rev_0009 accepted!
+2025-12-09 00:37:52,809 - SyntheticReviewGen - INFO - Progress: 9/10 reviews generated
+2025-12-09 00:37:52,810 - SyntheticReviewGen - INFO - Generating review rev_0010 (attempt 1)
+2025-12-09 00:37:59,117 - SyntheticReviewGen - INFO - ✓ Generated review rev_0010 (attempt 1)
+2025-12-09 00:37:59,117 - SyntheticReviewGen - INFO -   Model: openai:gpt-4, Rating: 1/5, Persona: enterprise_admin
+2025-12-09 00:37:59,117 - SyntheticReviewGen - INFO -   Review Text: As an IT administrator managing enterprise-level developer tools for a large corporation, I unequivocally express my dissatisfaction with this product during our evaluation period. It's no laughing matter when performance sits at such a low point that it poses a direct hindrance to the initiative of...
+2025-12-09 00:37:59,117 - SyntheticReviewGen - INFO -   Length: 179 words, Time: 6.31s, Cost: $0.0222
+2025-12-09 00:37:59,242 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - QUALITY CHECK DETAILS - Review rev_0010
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Rating: 1/5
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Review Text (first 200 chars): As an IT administrator managing enterprise-level developer tools for a large corporation, I unequivocally express my dissatisfaction with this product during our evaluation period. It's no laughing ma...
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Word Count: 179, Unique Words: 134
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Sentiment Analysis: NEGATIVE (confidence: 0.998), Expected: NEGATIVE, Alignment Score: 0.998 (threshold: 0.7)
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Self-BLEU Diversity: 0.962 (threshold: 0.500)
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Generic Patterns: score=0.000, repetition=0.000, exclamation_ratio=0.000, found_phrases=[]
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - ================================================================================
+2025-12-09 00:37:59,243 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0010
+2025-12-09 00:38:12,980 - SyntheticReviewGen - INFO - Review rev_0010 accepted!
+2025-12-09 00:38:12,981 - SyntheticReviewGen - INFO - Progress: 10/10 reviews generated
+2025-12-09 00:38:12,981 - SyntheticReviewGen - INFO - Dataset generation complete: 10 reviews accepted out of 10 attempts

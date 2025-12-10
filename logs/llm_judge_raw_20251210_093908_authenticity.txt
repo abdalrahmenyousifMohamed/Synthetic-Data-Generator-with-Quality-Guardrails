@@ -1,0 +1,10 @@
+Evaluation: authenticity
+Length: 134 chars
+================================================================================
+{
+  "Natural_Language": 10,
+  "Specific_Details": 7,
+  "Balanced_Perspective": 9,
+  "Emotional_Consistency": 8,
+  "Writing_Style": 9
+}

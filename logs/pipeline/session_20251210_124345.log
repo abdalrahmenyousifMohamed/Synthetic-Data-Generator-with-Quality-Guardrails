@@ -1,0 +1,13 @@
+2025-12-10 12:43:48,160 - SyntheticReviewGen - INFO - Loading sentiment model...
+2025-12-10 12:43:49,094 - SyntheticReviewGen - INFO - ✓ 5-star sentiment model loaded
+2025-12-10 12:43:49,096 - SyntheticReviewGen - INFO - Building workflow WITHOUT LLM Judge (statistical checks only)
+2025-12-10 12:43:49,114 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-10 12:43:49,118 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 12:43:52,928 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:43:53,631 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 12:43:53,633 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 12:43:53,634 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 12:43:57,361 - SyntheticReviewGen - INFO - Sentiment check: rating=4, attempt=1, base_threshold=0.20, adjusted=0.10
+2025-12-10 12:43:57,432 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=4, expected=4, diff=0, confidence=0.28, alignment=0.28, threshold=0.10, mismatch=False
+2025-12-10 12:43:57,433 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Too short: 0 words (min: 40), Low vocabulary: 0 unique words (min: 12)
+2025-12-10 12:43:57,434 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)

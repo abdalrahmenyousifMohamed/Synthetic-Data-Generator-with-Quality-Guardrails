@@ -1,0 +1,11 @@
+2025-12-10 09:44:09,488 - SyntheticReviewGen - INFO - Loading sentiment model...
+2025-12-10 09:44:10,460 - SyntheticReviewGen - INFO - ✓ 5-star sentiment model loaded
+2025-12-10 09:44:10,471 - SyntheticReviewGen - INFO - Building workflow WITH LLM Judge
+2025-12-10 09:44:10,488 - SyntheticReviewGen - INFO - Starting dataset generation: 4 samples
+2025-12-10 09:44:10,489 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-10 09:44:28,393 - SyntheticReviewGen - INFO - Sentiment check: rating=1, attempt=1, base_threshold=0.15, adjusted=0.05
+2025-12-10 09:44:28,488 - SyntheticReviewGen - INFO - Transformer sentiment: predicted=2, expected=1, diff=1, confidence=0.59, alignment=0.50, threshold=0.05, mismatch=False
+2025-12-10 09:44:28,489 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-10 09:44:39,785 - SyntheticReviewGen - INFO - ✅ Review rev_0001 accepted after 1 attempt(s)!
+2025-12-10 09:44:39,786 - SyntheticReviewGen - INFO - Progress: 1/4 reviews generated
+2025-12-10 09:44:39,788 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)

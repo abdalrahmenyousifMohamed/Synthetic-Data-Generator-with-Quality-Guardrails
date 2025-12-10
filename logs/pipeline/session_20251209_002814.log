@@ -1,0 +1,8 @@
+2025-12-09 00:28:19,293 - SyntheticReviewGen - INFO - Starting dataset generation: 10 samples
+2025-12-09 00:28:19,295 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 00:28:33,222 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 00:28:49,470 - SyntheticReviewGen - INFO - Review rev_0001 accepted!
+2025-12-09 00:28:49,471 - SyntheticReviewGen - INFO - Progress: 1/10 reviews generated
+2025-12-09 00:28:49,472 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 1)
+2025-12-09 00:28:54,427 - SyntheticReviewGen - WARNING - Review rev_0002 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00), Unrealistic patterns detected
+2025-12-09 00:28:54,427 - SyntheticReviewGen - INFO - Generating review rev_0002 (attempt 2)

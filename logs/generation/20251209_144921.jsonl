@@ -1,0 +1,3 @@
+{"timestamp": "2025-12-09T14:49:57.368563", "review_id": "rev_0001", "session_id": "20251209_144921", "model": "openai:gpt-4", "rating": 5, "persona": "enterprise_admin", "time": 30.422100067138672, "cost": 0.03528}
+{"timestamp": "2025-12-09T14:50:03.192860", "review_id": "rev_0001", "session_id": "20251209_144921", "model": "google:gemini-2.0-flash-exp", "rating": 5, "persona": "enterprise_admin", "time": 5.614857912063599, "cost": 0.0}
+{"timestamp": "2025-12-09T14:51:05.198676", "review_id": "rev_0001", "session_id": "20251209_144921", "model": "openai:gpt-4", "rating": 5, "persona": "enterprise_admin", "time": 37.84151101112366, "cost": 0.03621}

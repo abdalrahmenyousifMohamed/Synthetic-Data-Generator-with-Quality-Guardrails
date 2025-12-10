@@ -1,0 +1,34 @@
+2025-12-09 14:53:26,573 - SyntheticReviewGen - INFO - Starting dataset generation: 300 samples
+2025-12-09 14:53:26,578 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:53:31,307 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:53:31,308 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:53:59,220 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:54:17,844 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:54:17,846 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:54:30,366 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:54:48,788 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:54:48,790 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:55:02,669 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:55:19,406 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:55:19,407 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:55:23,318 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:55:48,342 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:55:48,347 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:55:51,183 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:56:12,039 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:56:12,041 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:56:16,589 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:56:40,914 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:56:40,915 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:57:00,992 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:57:00,993 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:57:03,773 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:57:24,332 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:57:24,334 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:57:44,064 - SyntheticReviewGen - INFO - Running LLM Judge evaluation for rev_0001
+2025-12-09 14:57:59,559 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:57:59,560 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:58:13,649 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.01)
+2025-12-09 14:58:13,650 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)
+2025-12-09 14:58:38,400 - SyntheticReviewGen - WARNING - Review rev_0001 rejected (attempt 1): Sentiment-rating mismatch (alignment: 0.00)
+2025-12-09 14:58:38,401 - SyntheticReviewGen - INFO - Generating review rev_0001 (attempt 1)

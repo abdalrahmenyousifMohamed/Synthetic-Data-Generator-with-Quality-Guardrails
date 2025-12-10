@@ -1,0 +1,21 @@
+{"timestamp": "2025-12-10T09:18:43.922174", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:19:08.500758", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:19:30.102125", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:19:41.064272", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:19:56.608951", "review_id": "rev_0001", "attempt": 1, "reasons": ["Sentiment-rating mismatch (alignment: 0.09, threshold: 0.15)"]}
+{"timestamp": "2025-12-10T09:20:18.439184", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:20:49.939332", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:21:12.824271", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:21:34.488921", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:21:51.466143", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:22:26.231277", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:22:51.731786", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:23:12.011027", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:23:24.392243", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:23:44.691252", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:23:56.033591", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:24:03.924581", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:24:20.088358", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:24:46.110993", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:25:03.617125", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}
+{"timestamp": "2025-12-10T09:25:20.822314", "review_id": "rev_0001", "attempt": 1, "reasons": ["Failed LLM Judge: No detailed feedback available.", "LLM Judge score too low: 0.00 (min: 0.3)"]}

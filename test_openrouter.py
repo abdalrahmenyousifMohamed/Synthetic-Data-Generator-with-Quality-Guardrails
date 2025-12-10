@@ -5,7 +5,7 @@ import os
 from src.models.openrouter_client import OpenRouterClient
 
 # Set API key
-api_key = "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"
+api_key = ""
 
 print("Testing OpenRouter connection...\n")
 

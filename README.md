@@ -104,7 +104,25 @@ mkdir -p data/real_reviews data/generated logs
 
 ```bash
 # Generate 500 reviews with default settings
+
 python generate.py
+
+# command runned During Generation
+
+python generate.py \  --samples 300 \                    
+  --real-reviews data/real_reviews/reviews.jsonl
+
+python generate.py \                                                           
+  --samples 300 \
+  --real-reviews data/real_reviews/reviews.jsonl \
+  --skip-llm-judge
+
+python generate.py --samples 100  --real-reviews data/real_reviews/reviews.jsonl --config config_yaml_openrouter.yaml
+
+python generate.py --samples 300  --real-reviews data/real_reviews/reviews.jsonl --config config_yaml_groq.yaml --skip-llm-judge
+
+python generate.py --samples 4  --real-reviews data/real_reviews/reviews.jsonl --config config_local_only.yaml
+
 
 # Use a custom configuration file
 python generate.py --config config.yaml --output reviews.jsonl

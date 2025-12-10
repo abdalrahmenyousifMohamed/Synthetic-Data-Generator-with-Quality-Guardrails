@@ -344,8 +344,7 @@ Most reviews use 200-500 tokens each
 
 ## Common Issues and Solutions
 
-**"API key not found"**
-Make sure your .env file has the correct keys and source it:
+- when a review gets stuck in a rejection loop (like rev_0026 in the logs which failed 7+ times with the same sentiment-alignment issue), the system just keeps trying the same approach
 ```bash
 source .env
 echo $OPENAI_API_KEY  # Should print your key
@@ -416,6 +415,9 @@ Rating: 4/5 stars
 [LLM Judge: Authenticity=8.8, Alignment=9.2, Expertise=8.4, Uniqueness=8.6]
 ```
 
+
+---
+
 ## Future Improvements
 
 I have several ideas for making this better:
@@ -426,8 +428,25 @@ Planning to integrate TrustCall (https://github.com/hinthornw/trustcall) for mor
 **DSPY Integration**
 Want to use DSPY for better prompt optimization. Instead of manually tuning prompts, DSPY can automatically optimize them based on the quality metrics we're already tracking.
 
+**Improved Models for Bias Detection**
+The current bias detection relies on either keyword matching or a basic 5-star sentiment model (nlptown/bert-base-multilingual-uncased-sentiment). While functional, there are better alternatives:
+
+- **Upgrade to more advanced sentiment models**: Consider using models like `cardiffnlp/twitter-roberta-base-sentiment-latest` or `distilbert-base-uncased-finetuned-sst-2-english` which have better nuance detection and handle edge cases more reliably
+- **Multi-aspect sentiment analysis**: Instead of just overall sentiment, detect sentiment about specific aspects (price, features, support, usability) to catch subtle misalignments where overall sentiment matches but specific complaints contradict the rating
+- **Emotion detection models**: Add models like `j-hartmann/emotion-english-distilroberta-base` to detect when emotional intensity doesn't match the rating (e.g., 5-star review with anger/frustration signals)
+- **Fine-tune on review data**: The current models aren't specifically trained on product/service reviews. Fine-tuning on domain-specific review data would significantly improve accuracy
+- **Ensemble approach**: Combine multiple sentiment models and use voting or weighted averaging to reduce false positives that cause rejection loops
+- **Demographic bias detection**: Add dedicated models to detect and flag potential demographic biases or stereotypes in generated content
+- **Replace circuit breaker with smarter detection**: The current system has a circuit breaker that auto-passes after 3 failures, which is a hack. Better models would reduce the need for this workaround
+
 **Bias Preprocessing Improvements**
-The current bias detection is pretty basic. I want to add more sophisticated preprocessing to catch subtle biases in sentiment, demographic references, and topic distribution before reviews even get to the LLM judge.
+Beyond just better models, the preprocessing pipeline needs work:
+
+- **Early bias screening**: Check for potential bias issues before generation by analyzing persona characteristics and seed words
+- **Real-time bias monitoring**: Track bias metrics across the entire dataset as it's being generated, not just per-review
+- **Contextual bias rules**: Different domains have different bias concerns - developer tools reviews shouldn't be judged the same as restaurant reviews
+- **Adaptive threshold learning**: Instead of hardcoded thresholds that get loosened on retries, learn optimal thresholds from successful reviews
+- **Bias report generation**: Automatically generate bias analysis reports showing distribution of sentiments, rating patterns, and potential skews
 
 **Better Internal Workflow for Edge Cases**
 Right now, some edge cases (like extremely short reviews or reviews that fail all models) don't have great handling. Need to build out more sophisticated fallback logic and recovery mechanisms.
@@ -441,22 +460,12 @@ Since I was working in a limited environment with low computing power and memory
 **Intelligent Retry Strategy with Dynamic Adjustments**
 Currently, when a review gets stuck in a rejection loop (like rev_0026 in the logs which failed 7+ times with the same sentiment-alignment issue), the system just keeps trying the same approach. This wastes time and API costs. I need to implement:
 
-- Detection of repetitive failure patterns: If a review fails 2-3 times with the same issue, don't just retry blindly
-- Dynamic prompt adjustments: Automatically modify the generation prompt based on what's failing (e.g., if sentiment alignment is the issue, add explicit instructions about matching tone to rating)
-- Persona switching: If one persona keeps producing misaligned reviews, try a different persona for that rating tier
-- Temperature adjustment: Lower the temperature slightly on retries to get more controlled output
-- Early termination: After 3 identical failures, skip to the next review instead of burning through all retry attempts
-- Fallback templates: For reviews that consistently fail, use a more structured template approach as a last resort
+- **Detection of repetitive failure patterns**: If a review fails 2-3 times with the same issue, don't just retry blindly
+- **Dynamic prompt adjustments**: Automatically modify the generation prompt based on what's failing (e.g., if sentiment alignment is the issue, add explicit instructions about matching tone to rating)
+- **Persona switching**: If one persona keeps producing misaligned reviews, try a different persona for that rating tier
+- **Temperature adjustment**: Lower the temperature slightly on retries to get more controlled output
+- **Early termination**: After 3 identical failures, skip to the next review instead of burning through all retry attempts
+- **Fallback templates**: For reviews that consistently fail, use a more structured template approach as a last resort
+- **Root cause analysis**: After each failure, analyze why it failed and adjust the next attempt accordingly rather than just trying again with the same parameters
 
 This would have saved the 5+ minutes wasted on rev_0026 where it kept failing sentiment alignment checks repeatedly. The system should be smart enough to recognize "this isn't working" and try a different strategy instead of doing the same thing over and over.
-
-## Contributing
-
-If you want to contribute, here are some areas that need work:
-
-- Adding more LLM providers (Anthropic Claude, Cohere, etc.)
-- Domain-specific evaluation criteria for specialized industries
-- Better prompt optimization with DSPY
-- Real-time streaming generation for faster feedback
-- Web UI dashboard for easier use
-- Better local model support for those with powerful hardware

@@ -489,3 +489,7 @@ Currently, when a review gets stuck in a rejection loop (like rev_0026 in the lo
 - **Root cause analysis**: After each failure, analyze why it failed and adjust the next attempt accordingly rather than just trying again with the same parameters
 
 This would have saved the 5+ minutes wasted on rev_0026 where it kept failing sentiment alignment checks repeatedly. The system should be smart enough to recognize "this isn't working" and try a different strategy instead of doing the same thing over and over.
+
+# References
+- [ArXiv Paper 2411.12946](https://arxiv.org/pdf/2411.12946)
+

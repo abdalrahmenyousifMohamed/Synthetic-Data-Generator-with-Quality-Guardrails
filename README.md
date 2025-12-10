@@ -69,7 +69,9 @@ I was working with limited local computing power and memory, so running large mo
 - Groq API key (optional if using only OpenAI/Gemini)
 
 **Setup Steps**
+## Interface
 
+This project provides a **CLI interface** for generation
 ```bash
 # Clone the repository
 git clone https://github.com/abdalrahmenyousifMohamed/Synthetic-Data-Generator-with-Quality-Guardrails.git
